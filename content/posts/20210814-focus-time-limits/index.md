@@ -36,7 +36,7 @@ What I do tell myself is this:
 - I will give myself 1 hour to write this post. 
 - I will give myself 3 hours at X night to build this feature for my personal project
 
-Stating this verbally or on a calendar ahead of time forces you to prioritize things that matter. You add a little bit of stress in the process, but the end result is worth it
+Stating this verbally or on a calendar ahead of time forces you to prioritize things that matter. You add a little bit of stress in the process, but the end result is worth it. 
 
 Sometimes I might have an avalanche of tasks I need to handle. It's alot of stress just thinking about all the things I have to do for a big project. I'm building a nonprofit software developer group, so this is what I do:
 
@@ -44,3 +44,5 @@ Sometimes I might have an avalanche of tasks I need to handle. It's alot of stre
 
 Between today and 2 days from now, anytime I have a planning thought process I just defer it to 2 days from now. Unless its something I can jot down in 1 minute, I'll jot that down
 
+Also, with every high in productivity, there needs to a low. I have at least one day a week where I give myself 5+ hours to destress and talk to nobody (I'm introverted). 
+My phone is set to DND (do not disturb) on all but 3 times in a single day
