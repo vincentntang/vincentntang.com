@@ -15,6 +15,8 @@ I started my own dev community this past month! I had my first event which had a
 
 I wanted to write in this post why I started this group, and what I hope to see it in long term.
 
+## Being a junior dev
+
 A few years ago, I didn't have any experience as a software developer. I struggled for the longest time learning on my own, trying to make it through into tech. 
 
 I would watch youtube tutorials and go through freecodecamp and get lost on "what should I be learning?" mentality. Basically tutorial hell
@@ -27,6 +29,8 @@ Luckily I found a community called [OrlandoDevs](https://orlandodevs.com). Some 
 
 We went through trials by fire together at hackathons, learned to do presentations, got our first jobs, and so much more. Eventually one of those friends became my podcast cohost for [CodeChefs](https://codechefs.dev)
 
+## Getting my first job
+
 I look back and remember these good times. I went to a meetup almost everyday there, these topics ranged anywhere from iOS to android and everything inbetween. 
 
 Heck, people called me "Mr Meetup" because I was basically at one of these events everyday.
@@ -34,6 +38,8 @@ Heck, people called me "Mr Meetup" because I was basically at one of these event
 I learned so much in such a short time span. 
 
 Eventually I got my first job, through my boss hearing about a presentation I gave at a local javascript meetup. I even got a sidegig from there too!
+
+## Giving back in a new city
 
 I moved to a new city a few years back. Even though the city I currently reside in (Tampa) is considered one of the fastest growing tech cities, I just don't feel that same sense of community.
 
