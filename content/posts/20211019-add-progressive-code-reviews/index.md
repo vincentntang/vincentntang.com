@@ -1,6 +1,6 @@
 ---
 date: 2021-10-19
-title: 'Developer Tips: Add Progressive Code Reviews'
+title: 'Use progressive code reviews to ship things quicker'
 template: post
 thumbnail: '../../thumbnails/writing.png'
 slug: progressive-code-reviews
