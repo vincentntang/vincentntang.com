@@ -71,7 +71,7 @@ We sometimes call these user studies. There super important. If you work in a do
 
 This is especially true if your building a logo for instance. You won't spot caveats to it, like if a logo looks like something it shouldn't be. 
 
-When we designed [tampa-devs](https://www.tampadevs), we ran through 3-4 user studies across 3 week on about 100 people. We had iterations that were deemed sexist, sometimes not gender neutral enough, or unfriendly. Sometimes the logo didn't just look right, or didn't fit the right theme. 
+When we designed [Tampa Devs](https://www.tampadevs.com), we ran through 3-4 user studies across 3 week on about 100 people. We had iterations that were deemed sexist, sometimes not gender neutral enough, or unfriendly. Sometimes the logo didn't just look right, or didn't fit the right theme. 
 
 **Run your how to guide through multiple people** - this will ensure it's easily understood
 
