@@ -56,9 +56,9 @@ I've seen multiple clients that have done this. "Hey if we hire another person, 
 
 That never actually happens. 
 
-I've learned this lesson when I've had to hire designers, video editors for side projects I worked on. You should never give someone who's job is to do creative work free realm to build whatever makes sense.
+I've learned this lesson when I've had to hire designers, video editors for side projects I worked on. Don't state "how it should be done", rather "what you expect" 
 
-Instead, you should describe the problem your trying to solve. What kind of logo do you want? What is marketable and brandable, and who's your target audience? From there, you want to create a document that follows the 20/80 rule. **80% of your document should not be misintrepretable**. Leave the last 20% for random unexpect things that might come up
+So describe the problem your trying to solve. What kind of logo do you want? What is marketable and brandable, and who's your target audience? From there, you want to create a document that follows the 20/80 rule. **80% of your document should not be misintrepretable**. Leave the last 20% for random unexpect things that might come up and to be pleasantly surprised on improvements that might've been made
 
 An example of this as such:
 
