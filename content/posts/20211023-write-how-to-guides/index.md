@@ -12,8 +12,6 @@ tags:
 ---
 
 
-![Image description](/sticky_notes.png)
-
 The clock ticks. There's a pile of 100 sticky notes on your desk. Each being a TODO item. But you only have bandwidth to do say 20 of those items in one day. The next day another 25 sticky notes get added to that pile. To the point that TODO list will never be empty. 
 
 Sometimes it feels like you just have a giant backpack of stress/burden strapped on you 24/7.
@@ -98,3 +96,8 @@ If your doing a more technical task, like triggering a devops pipeline, screensh
 Each document depends on the situation and the training needed. Once you incorporate this like a muscle, it becomes a habit.
 
 **It does take more time to do a task this way, but you'll save yourself so much time in the long run**
+
+Here's my cluttered stickynote desk for reference as well
+
+![Image description](/sticky_notes.png)
+
