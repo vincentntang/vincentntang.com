@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d800jz57ybgb0y01liz3.png)
+![Image description](/sticky_notes.png)
 
 The clock ticks. There's a pile of 100 sticky notes on your desk. Each being a TODO item. But you only have bandwidth to do say 20 of those items in one day. The next day another 25 sticky notes get added to that pile. To the point that TODO list will never be empty. 
 
