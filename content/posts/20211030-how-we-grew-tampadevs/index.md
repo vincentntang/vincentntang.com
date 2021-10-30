@@ -192,7 +192,7 @@ When you hold an event, the first ~5-15 attendees that commit are the most impor
 
 ## 5. Leverage influencers
 
-Leveraging influencers is done a few different ways. I would say I'm an influencer myself, but to get buy in we reached out and collaborated with other established companies/groups (ReactJS Tampa and ReliaQuest) to get more buy in. We've also partner with established advisors to help get the word of mouth out there too. 
+Leveraging influencers is done a few different ways. I would say I'm an influencer myself, but to get buy in we reached out and collaborated with other established companies/groups (ReactJS Tampa and ReliaQuest). We've also partner with established advisors to help get the word of mouth out there too. 
 
 It's one thing to start a group, it's another to have a record of sponsors/advisors/influencers backing it. It creates legitimacy in a group
 
