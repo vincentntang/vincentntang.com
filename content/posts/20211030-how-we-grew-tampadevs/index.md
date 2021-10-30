@@ -186,7 +186,7 @@ I gave a talk that someone described as "3 talks in one" and one of my potential
 
 This is how we did our first few events. We created FOMO through attending a hackathon event where our team won $4400. That really wasn't the goal though, it was more tailored toward the learning environment attendees got out of it. 
 
-In marketing, there is something called a"critical threshold". This ties into the "first follower" argument and net promoters I discussed with earlier too.
+In marketing, there is something called a "critical threshold". This ties into the "first follower" argument and net promoters I discussed with earlier too.
 
 When you hold an event, the first ~5-15 attendees that commit are the most important. Alot of people are on the fence (myself included) on whether to attend an event if its not worth going to. A good example of this is network events - if only 1 person shows up, he/she is not going to have a good time. 20 people? different story
 
