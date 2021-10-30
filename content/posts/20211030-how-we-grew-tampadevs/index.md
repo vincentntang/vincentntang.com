@@ -113,7 +113,7 @@ I would say this strategy is about 10% effective, but it requires really low eff
 
 ![Linked in Response](./img/4_linkedin_response.png)
 
-The trick to this strategy is to completely hit up people randomly at different companies. You don't want to exhaust all the developers in one pool for one event. You should instead hit up 1-4 developers from different companies at a time for events.
+The trick to this strategy is to completely hit up people randomly at different companies. You don't want to exhaust all the developers in one pool for one event. You should instead hit up 1-4 developers from different companies at a time for events. We also send this invite 3-5 days before an event around Sunday/Monday as that tends to be an effective time window
 
 We usually have 1-4 people attend events this way, with about 50% repeat visitors (although it's kinda early to say). We track attendance on an IPAD attached to a google form to, which we send to virtual attendees we co-partner with other dev groups too.
 
