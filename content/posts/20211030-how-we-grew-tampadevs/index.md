@@ -140,17 +140,17 @@ Example profile:
 
 Now you need to find an established profile of users you can follow. Here's an exammple called TampaBay Startup Week:
 
-![Instagram Follow](./6_follow_instagram.png)
+![Instagram Follow](./img/6_follow_instagram.png)
 
 Look up "Followers" and just rapidly spam follow everyone here. Instagram as of 10/29/21 doesn't care you do this, but twitter does cap you to ~30? per day
 
-![Follow for Follow](./7_follow_for_follow.png)
+![Follow for Follow](./img/7_follow_for_follow.png)
 
 This will send a notification to the user that they've got a new follower. It doesn't have a huge conversion rate of users who click (for reference, we have 200 followers and only 8 visit clicks). The people who DO click generally have a high rate of visitation though, we've had at least 4 people attend events this way.
 
 Here's some other tracking analytics we used, we also did QR codes on T-shirts too!
 
-![Tag Analytics](./8_tag_analytics.png)
+![Tag Analytics](./img/8_tag_analytics.png)
  
 ### Tagging Strategy
 
