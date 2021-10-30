@@ -227,7 +227,7 @@ Breakdown:
 
 - 31 visits came from referrals on bitly tracking links
 - 13 organic lookups
-- 12 from Tshirt scans, we ran a google tag analytics campaign
+- 12 from Tshirt QR scans, we ran a google tag analytics campaign here linked to bitly
 - A few random bots from china and india (10 total)
 
 Average engagement time is about 20 seconds for non-bot users, and our video intro is 35 seconds. These are good things to keep in mind too
