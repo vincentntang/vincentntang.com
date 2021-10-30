@@ -14,7 +14,7 @@ tags:
 
 ![Tampa Devs Count](./img/1_tampa_devs_count.png) 
 
-Last month I started Tampa Devs, a community of where developers can learn and grow together in Tampa. I wrote about why I started it [here](https://www.vincentntang.com/why-i-started-tampa-devs/)
+Last month we started Tampa Devs, a community of where developers can learn and grow together in Tampa. I wrote about why I started it [here](https://www.vincentntang.com/why-i-started-tampa-devs/)
 
 Growing a tech community is ...rather challenging.
 In order to grow a successful community, we needed events that developers would enjoy going to. These can be broken down to two types:
