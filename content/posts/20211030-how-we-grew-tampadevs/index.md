@@ -215,3 +215,19 @@ From the article proposed by Lenny, here's how to build a community quickly:
 5. Leverage influencers
 6. Get press
 7. Build a community pre-launch
+
+Another really important thing to do is track metrics across all campaigns whenever possible. It's one thing to predict what works, it's another to actually see it in data. 
+It's a work in progress, but we recently integrated Google Analytics 11 days ago (October 18th to October 30th).
+
+Here's some more stats:
+
+![Analytics Google](./img/11_analytics_google.png)
+
+Breakdown:
+
+- 31 visits came from referrals on bitly tracking links
+- 13 organic lookups
+- 12 from Tshirt scans, we ran a google tag analytics campaign
+- A few random bots from china and india (10 total)
+
+Average engagement time is about 20 seconds for non-bot users, and our video intro is 35 seconds. These are good things to keep in mind too
