@@ -80,17 +80,17 @@ It's super simple. Just use the search bar:
 
 **Here's a few queries that work effectively**
 
-- "{skill_name} Developer {city_name}"
-- "{local_company_name} Developer"
-- "{national_company_name} {city_name} Developer"
+- "{skill-name} Developer {city-name}"
+- "{local-company-name} Developer"
+- "{national-company-name} {city-name} Developer"
 
-{skill_name} includes things like: Frontend, Backend, Junior, Software, C#, React, Javascript, Fullstack. These are titles a person assigned to themselves, or job titles they've held
+{skill-name} includes things like: Frontend, Backend, Junior, Software, C#, React, Javascript, Fullstack. These are titles a person assigned to themselves, or job titles they've held
 
-{city_name} is every prominent city within a 45 minute region of where we're holding events. We're called Tampa Devs, so StPete and Clearwater are two large cities that apply here.
+{city-name} is every prominent city within a 45 minute region of where we're holding events. We're called Tampa Devs, so StPete and Clearwater are two large cities that apply here.
 
-{local_company_name} is found through a google maps search of "Software Companies". It's not 100% effective though, about half the companies you find are companies in India with a virtual mailbox here (so they can charge more for projects). You can also search "Top 10 software companies in {city_name}" too.
+{local-company-name} is found through a google maps search of "Software Companies". It's not 100% effective though, about half the companies you find are companies in India with a virtual mailbox here (so they can charge more for projects). You can also search "Top 10 software companies in {city-name}" too.
 
-{national_company_name} is just any household company name you've heard of that employs developers anywhere in the country. PwC, Microsoft, Deloitte, Amazon, Google, etc are all good examples. Developers here may not have a local dev circle
+{national-company-name} is just any household company name you've heard of that employs developers anywhere in the country. PwC, Microsoft, Deloitte, Amazon, Google, etc are all good examples. Developers here may not have a local dev circle
 
 **The second effective method of finding candidates is through company pages**
 
@@ -132,7 +132,7 @@ On instagram this is what you do:
 - Create a profile and put interesting stories/post
 - Create a bit.ly tracking link as the website
 
-In the earlier conversation, we talked about finding {local_company_name} on linkedin. You also need to find nonprofits in tech as well. There's usually less than a dozen per city, so it's fairly easy to find. If you do a search on #tampa #dev on twitter/instagram + look up associated followers, you'll find this in 5 minutes
+In the earlier conversation, we talked about finding {local-company-name} on linkedin. You also need to find nonprofits in tech as well. There's usually less than a dozen per city, so it's fairly easy to find. If you do a search on #tampa #dev on twitter/instagram + look up associated followers, you'll find this in 5 minutes
 
 Example profile:
 
