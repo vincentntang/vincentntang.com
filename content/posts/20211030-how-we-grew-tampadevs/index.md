@@ -121,9 +121,7 @@ There is one more strategy to social media  that's also very effective too:
 
 ### Follow for Follow strategy
 
-This strategy kind of dates back to the beginnings of MySpace/Facebook days. It's something called the "Like for a Like" strategy.
-
-The thought process is social media uses algorithms to determine what's "hot" in the area. Alot of our attendees do find us through meetup, but that's because we buff up our attendee count through other strategies first.
+This strategy kind of dates back to the beginnings of MySpace/Facebook days. You follow a person, chances are they'll follow you back or at least check out your profile. 
 
 With "Follow for Follow" strategies, Instagram is extremely effective. Twitter is the next one. Usually 1-3 attendees have found out about our events via instagram, since we're catering to junior developers in a younger demographic.
 
@@ -151,6 +149,8 @@ This will send a notification to the user that they've got a new follower. It do
 Here's some other tracking analytics we used, we also did QR codes on T-shirts too!
 
 ![Tag Analytics](./img/8_tag_analytics.png)
+
+The thought process is social media uses algorithms to determine what's "hot" in the area. Alot of our attendees do find us through meetup, but that's because we buff up our attendee count through other strategies first.
  
 ### Tagging Strategy
 
