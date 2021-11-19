@@ -208,7 +208,7 @@ Cons
 
 ## Expose window methods
 
-One way to communicate one app to another, is to use the windows object. This has it's own set of flaws, it needs to have definitios set across both apps.
+One way to communicate one app to another, is to use the windows object. This has it's own set of flaws, it needs to have definitions set across both apps.
 
 In app1, you can specify a list of exposed methods like
 
@@ -228,7 +228,7 @@ if(window.app1method1){
 
 Likewise vice versa. This is useful for handling side effects across both apps.
 
-This pattern is common when you are interfacing two frontend apps where you control both codebases. E.g. a React App + a BabylonJS game engine. A legacy Angular app + a React app.
+This pattern is common when you are interfacing two frontend apps where you control both codebases. A legacy Angular app + a React app. 
 
 Building things this way should be limited in scope as it doesn't scale that well
 
@@ -275,6 +275,7 @@ This pattern is good when interfacing a game engine to React, the game engine pu
 Pros
 - For constant ongoing communication between both apps, this might be a good choice.
 - All your definitions are on your listener, makes it easier to maintenace
+- It's good if you don't control the source code for both apps
 
 Cons
 - You have to manage event listeners.
