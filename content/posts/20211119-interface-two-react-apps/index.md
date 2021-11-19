@@ -230,7 +230,7 @@ Building things this way should be limited in scope as it doesn't scale that wel
 TLDR
 
 Pros
-- Pretty simple to implemenet and for both apps to communicate to each other
+- Pretty simple to implement and for both apps to communicate to each other
 - Good for one off methods
 
 Cons
