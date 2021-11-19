@@ -158,12 +158,12 @@ const renderElement = () => {
   const rootNode =  document.getElementById('app1-root')
 
   ReactDOM.render(
-    <App/>
+    <AppOneComponent/>
   ), rootNode
 }
 ```
 
-`App/>` is where you'll write out how what App1 will render. `RootNode` is the container supplied by App2.
+`AppOneComponent/>` is where you'll write out how what App1 will render. `RootNode` is the container supplied by App2.
 
 You can also specify "feature-flags" as well. In app2, we can provide a div that looks like this:
 
