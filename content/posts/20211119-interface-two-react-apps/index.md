@@ -1,6 +1,6 @@
 ---
 date: 2021-11-19
-title: 'title: Micro-frontends: ways of connecting 2 React (or SPA) apps'
+title: 'Micro-frontends: ways of connecting 2 React (or SPA) apps'
 template: post
 thumbnail: '../../thumbnails/react.png' 
 slug: connecting-two-react-apps
@@ -16,7 +16,10 @@ Having two React apps on a webpage is something you should never do. It creates 
 
 However, if you DO need to have two react apps for any reason, these are some cases where you might need it. Let me highlight an example:
 
-Say we have two apps. App1 and App2. App1 is a header, used to do analytics tracking. App2 is a application that lives under multiple URL routes via react-router. 
+Say we have two apps. App1 and App2. 
+
+- App1 is a header, used to do analytics tracking. 
+- App2 is a application that lives under multiple URL routes via react-router. 
 
 App1 needs to be consumed by multiple legacy apps, so it needs a set of frontend API's for customizing how it's used
 
@@ -34,7 +37,7 @@ You can actually see those chunked files for yourself. If you have your applicat
 
 ```js
 http://localhost:3000/asset-manifest.json
-```
+``` 
 
 These lists all the resources for compiling your React app.  At the very bottom of this JSON object, there will be 4 JS files that are called "Entry Points"
 
@@ -106,7 +109,9 @@ So what is going on here?
 
 First, we tell App2 to make a request to the `localhost:3000/asset-manifest.json` file. We run this request one time and make sure to do this with a `mounted` variable. We store that in state in an array that looks like this:
 
-`["static/js/bundle.js", "static/js/vendors~main.chunk.js", "vendors~main.4c37d5ea0572bdd6d5d3.hot-update.js", "static/js/main.chunk.js", "main.4c37d5ea0572bdd6d5d3.hot-update.js"]`
+```
+["static/js/bundle.js", "static/js/vendors~main.chunk.js", "vendors~main.4c37d5ea0572bdd6d5d3.hot-update.js", "static/js/main.chunk.js", "main.4c37d5ea0572bdd6d5d3.hot-update.js"]
+```
 
 These hashes on the file aren't fixed and change whenever you update your codebase. 
 
@@ -226,8 +231,6 @@ Likewise vice versa. This is useful for handling side effects across both apps.
 This pattern is common when you are interfacing two frontend apps where you control both codebases. E.g. a React App + a BabylonJS game engine. A legacy Angular app + a React app.
 
 Building things this way should be limited in scope as it doesn't scale that well
-
-TLDR
 
 Pros
 - Pretty simple to implement and for both apps to communicate to each other
