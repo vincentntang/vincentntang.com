@@ -110,7 +110,7 @@ First, we tell App2 to make a request to the `localhost:3000/asset-manifest.json
 
 These hashes on the file aren't fixed and change whenever you update your codebase. 
 
-So now that we have this array, we can then use React `Helmet`. React `Helmet` is a 3rd party repo that essentially injects `<script>` or `<link>` or any other metacontent into the HTML `header`. 
+So now that we have this array, we can then use [React Helmet](https://github.com/nfl/react-helmet). React Helmet is a 3rd party repo that essentially injects any metacontent you want into the HTML `header`. 
 
 The script then executes this line of code in the return statement of the component:
 
