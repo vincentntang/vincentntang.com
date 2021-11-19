@@ -295,4 +295,4 @@ If that's the case, you should write some documentation on what things you have 
 
 If one app has access to another app's method, so does everyone else. This means that exposed interface can also be abused too
 
-Hopefully this helps whoever is reading this and good luck of coding!
+Hopefully this helps whoever is reading this and good luck coding!
