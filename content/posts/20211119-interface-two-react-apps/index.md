@@ -174,7 +174,7 @@ You can also specify "feature-flags" as well. In app2, we can provide a div that
 />
 ```
 
-We can use app1's code to grab out `enable-feature-flag-1` using 
+We can use app1's code to grab out `enable-live-chat` using 
 the same logic
 
 ```js
