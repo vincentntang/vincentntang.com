@@ -206,6 +206,8 @@ Cons
 - Really complex to implement
 - Lots of moving parts
 
+**NOTE** One last thing to note if you do this, make sure the `package.json` name attributes are different between both apps! Otherwise you'll run into webpack files overwriting on top of webpack files
+
 ## Expose window methods
 
 One way to communicate one app to another, is to use the windows object. This has it's own set of flaws, it needs to have definitions set across both apps.
@@ -280,6 +282,23 @@ Pros
 Cons
 - You have to manage event listeners.
 - You may ran into race conditions on whether or not the listener was enabled. It's harder to check from one app to another, checking a windows function on the other hand is way simler
+
+## Other Options - IFrames
+
+You can also Iframe one application into another. It's a viable solution, but you'll have significantly less control over the look and feel of the site. It also means increased memoroy usage and potential performance issues too
+
+Iframe is best meant for small embedded type application though, that are generally more customizable.
+
+Embedded maps are probably the best example, or 3D rendered assets for a 3d print ecommerce store for instance.
+
+Pros
+- Clear seperation of logic
+
+Cons
+- Less control over look and feel of site
+- Performance issues if your serving this site to a lot of users
+- No way of communicating one app to another
+- More CI/CD pipelines for managing that embedded content
 
 ## Summary and Things to Consider
 
