@@ -37,7 +37,7 @@ Here's how to implement this in React
 
 There's 2 core approaches to building the timing functionality in a timeout modal. One uses a `setTimeout` function that runs a check every minute and updates corresponding state. 
 
-The other method is to manage `setTimeouts` and the corresponding event listeners to triggere the UX flow outlined above.
+The other method is to manage `setTimeouts` and the corresponding event listeners to trigger the UX flow outlined above.
 
 I will show you how to do the latter one. 
 
