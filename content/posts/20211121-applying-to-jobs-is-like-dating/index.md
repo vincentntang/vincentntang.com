@@ -48,11 +48,18 @@ How do you fare as an average guy in a dating app trying to get the most amount 
 
 And how do you do this as a first-time job seeker? **You show potential**. Potential varies between every company
 
-For instance, my first company hired me because I had Subject Matter Expertise in the same industry as them (Construction), on top of being a fledging developer. I showed I could learn at a fast rate by competing and winning in hackathons. Through technical talks I gave to seasoned developers even though I never held a software job. I networked with other devs who I had worked with in hackathons, and they vetted me as well.
+For instance, my first company hired me because I had Subject Matter Expertise in the same industry as them. 
+I showed I could learn at a fast rate by competing and winning in hackathons. I wrote blog articles about problems I solved in coding. 
+I volunteered with efforts for FreeCodeCamp, Mozilla, and more. Though I didn't have a job I still gave technical talks at my local meetup and seasoned developers stayed
+I networked with other devs who mentored me through software development too. 
 
-That's how you do it. **You show potential by having a proven record of succeess in a short time frame**. You no longer become a risky-junior hire in their eyes, and they can pay you less than a senior yet get the same job done.
+That's how you do it. **You show potential by having a proven record of succeess in a short time frame**. We can also represent this in a diagram
 
-**Ignore the years of experience they ask on the job as well.** This is like asking how much dating experience a person has to vet if there worthy of dating. It doesn't matter. What matters is what you bring to the table. 
+![](./img/high_potential_candidate.png)
+
+You want to be a high potential candidate. By doing so, you no longer become a risky-junior hire in their eyes, and they can pay you less than a senior yet get the same job done. Don't worry you get can a higher paying job later. You've also shown you like web development and aren't in it for just money.
+
+Also for job posts, **ignore the years of experience they ask on the job as well.** This is like asking how much dating experience a person has to vet if they are worthy of dating. It doesn't matter. What matters is what you bring to the table. 
 
 If you want a general rule of thumb, here's what to go by
 
