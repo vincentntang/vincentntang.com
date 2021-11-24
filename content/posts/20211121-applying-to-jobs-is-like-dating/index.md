@@ -22,6 +22,8 @@ Dating apps like Tinder started gaining popularity in the early 2010's era. Befo
 
 **Now if your a fairly average girl, you might get dozens of matches after setting up your profile.** It's a oh-my-god this is too much information at me at once. It becomes work deciding who to filter people out. You sometimes forget who you've been talking to because you might be talking to several people at once. 
 
+## Dating analogy to jobs
+
 Now let's talk about job seeking. Let me tell you a secret about it:
 
 **Dating is like applying to jobs. Where every job seeker starts as an average dude. Every company starts as an average girl**
@@ -41,6 +43,8 @@ An attractive guy generally won't match with an unattractive girl. He can be pic
 Now if your an unattractive guy, or an entry-level job seeker in this case - things look kinda bleak. I've been here before. I didn't have any software development experience and had to apply for my first dev job. The rationale for many companies is why hire a junior dev when you can hire a senior one? 
 
 I got hundreds of rejections before someone took a chance to hire me. Eventually I got hired after one interview because a company liked me. It's kind like dating a girl who just really likes you after one date. **If your an unattractive job-seeker, you have to make yourself attractive**
+
+## Making yourself an attractive job-seeker
 
 How do you make yourself attractive to a company if you have no job experience? We hear this joke all the time. "I can't get a job because I don't have experience, but I need a job to get experience!"
 
@@ -72,3 +76,10 @@ I have a friend who I competed with in his first hackathon, 1.5 years ago. He di
 I referred him to my company with high confidence and he now makes 6 figures. This role required 3-5 years of experience.
 
 **Sometimes you also have to play your cards right, some companies need to hire urgently and will pick someone with less experience but lots of potential.**
+## Additional Notes
+
+- Create a good dating portfolio with pictures is similar to creating a good digital footprint for a prospective employer. Resumes, blog posts, side projects, etc are some examples
+- This post assumes dating apps are guys seeking girls and vice versa, which is not always the case. I've ommitted this to simplify the analogy
+- It still takes some luck to get a role, but you greatly increase the odds by making yourself attractive and marketing yourself
+- The more attractive a company is, the more attractive you need to be as a job-seeker to get hired there
+- The less attractive a company is, the less requirements to get your foot in the door
