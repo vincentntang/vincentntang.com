@@ -81,5 +81,5 @@ I referred him to my company with high confidence and he now makes 6 figures. Th
 - Create a good dating portfolio with pictures is similar to creating a good digital footprint for a prospective employer. Resumes, blog posts, side projects, etc are some examples
 - This post assumes dating apps are guys seeking girls and vice versa, which is not always the case. I've ommitted this to simplify the analogy
 - It still takes some luck to get a role, but you greatly increase the odds by making yourself attractive and marketing yourself
-- The more attractive a company is, the more attractive you need to be as a job-seeker to get hired there
-- The less attractive a company is, the less requirements to get your foot in the door
+- The more attractive a company/job is, the more experience/attractive you need to be as a job-seeker to get hired there
+- The less attractive a company/job is, the less requirements to get your foot in the door
