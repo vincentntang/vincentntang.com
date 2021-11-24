@@ -52,6 +52,16 @@ For instance, my first company hired me because I had Subject Matter Expertise i
 
 That's how you do it. **You show potential by having a proven record of succeess in a short time frame**. You no longer become a risky-junior hire in their eyes, and they can pay you less than a senior yet get the same job done.
 
+**Ignore the years of experience they ask on the job as well.** This is like asking how much dating experience a person has to vet if there worthy of dating. It doesn't matter. What matters is what you bring to the table. 
+
+If you want a general rule of thumb, here's what to go by
+
+- Jobs requiring 2 years of experience will hire a fresh high potential candidate
+- Jobs requiring 5 years of experience will hire people with 1-2 years
+- Jobs requiring 10 years of experience will hire people with 3+ years
+
 I have a friend who I competed with in his first hackathon, 1.5 years ago. He didn't even know software development, but he was a kickass designer. We won several hackathons since then
 
-I referred him to my company with high confidence and he now makes 6 figures. Sometimes you also have to play your cards right, some companies need to hire urgently and will pick someone with less experience but lots of potential. 
+I referred him to my company with high confidence and he now makes 6 figures. This role required 3-5 years of experience.
+
+**Sometimes you also have to play your cards right, some companies need to hire urgently and will pick someone with less experience but lots of potential.**
