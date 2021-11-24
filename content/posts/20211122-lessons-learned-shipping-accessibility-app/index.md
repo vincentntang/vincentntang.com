@@ -3,7 +3,7 @@ date: 2021-11-22
 title: 'Accessibility lessons learned shipping a 60MM user app'
 template: post
 thumbnail: '../../thumbnails/accessibilityicon.png'
-slug: session-timeout-modals-react
+slug: accessibility-lessons-learned-shipping-prod-app
 categories:
   - Programming
 tags:
