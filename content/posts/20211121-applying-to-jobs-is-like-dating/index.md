@@ -48,7 +48,7 @@ How do you fare as an average guy in a dating app trying to get the most amount 
 
 And how do you do this as a first-time job seeker? **You show potential**. Potential varies between every company
 
-For instance, my first company hired me because I had Subject Matter Expertise in the same industry as them (Construction), on top of being a fledging developer. I showed I could learn at a fast rate by competing and winning in some hackathons. Through technical talks I gave to seasoned developers even though I never held a software job. I networked with other devs who I had worked with in hackathons, and they vetted me as well.
+For instance, my first company hired me because I had Subject Matter Expertise in the same industry as them (Construction), on top of being a fledging developer. I showed I could learn at a fast rate by competing and winning in hackathons. Through technical talks I gave to seasoned developers even though I never held a software job. I networked with other devs who I had worked with in hackathons, and they vetted me as well.
 
 That's how you do it. **You show potential by having a proven record of succeess in a short time frame**. You no longer become a risky-junior hire in their eyes, and they can pay you less than a senior yet get the same job done.
 
