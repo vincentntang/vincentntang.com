@@ -1,5 +1,5 @@
 ---
-date: 2021-11-20
+date: 2021-11-21
 title: 'Applying to jobs is like dating'
 template: post
 thumbnail: '../../thumbnails/writing2.png'
