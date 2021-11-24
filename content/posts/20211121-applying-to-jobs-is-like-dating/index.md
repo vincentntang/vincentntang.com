@@ -76,6 +76,7 @@ I have a friend who I competed with in his first hackathon, 1.5 years ago. He di
 I referred him to my company with high confidence and he now makes 6 figures. This role required 3-5 years of experience.
 
 **Sometimes you also have to play your cards right, some companies need to hire urgently and will pick someone with less experience but lots of potential.**
+
 ## Additional Notes
 
 - Create a good dating portfolio with pictures is similar to creating a good digital footprint for a prospective employer. Resumes, blog posts, side projects, etc are some examples
