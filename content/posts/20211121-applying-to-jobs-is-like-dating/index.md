@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![](./img/https://swiperight.png)
+![](./img/swiperight.png)
 
 Keep swiping right and move along...
 
