@@ -1,5 +1,5 @@
 ---
-date: 2021-12-02
+date: 2021-12-04
 title: 'Newbs Guide to Dates & Timezones in Web Development'
 template: post
 thumbnail: '../../thumbnails/clock.png'
