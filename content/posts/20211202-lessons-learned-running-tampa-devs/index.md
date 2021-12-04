@@ -29,7 +29,7 @@ I figured hey I'll shoot a message to everyone involved and things will magicall
 
 Let me break down how much each of those actually became for our 2nd speaking event
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1lpgre9huehtg4vu91vz.png)
+![Image description](./img/photo1.png)
 
 ## Finding people that will talk at the event
 
@@ -60,7 +60,7 @@ Normally this comes in deciding a proper title and figuring out how long the pre
 
 Once that was set, a few days before the event I followed up to make sure things were in working order.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6j5rhvjwip5rjvrc4ei2.png)
+![Image description](./img/photo2.png)
 
 ## Finding a venue to host the event
 
@@ -94,7 +94,7 @@ Once everything was in working order, I shot a message a few days before the eve
 
 This is when things got really messy.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mlu1da53s52mk98hf5z.png)
+![Image description](./img/photo3.png)
  
 ## Running the event
 
@@ -140,7 +140,7 @@ For A/V backups, I brought a Sony AS6400 and a GoPro8 to capture two different v
 
 The rest of the event was pretty uneventful otherwise, with the exception of finding out my friend Hari was a really good engaging speaker
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kdvr6ld8dpuv4l0o7d8b.png)
+![Image description](./img/photo4.png)
 
 ## Finding Sponsors
 
@@ -161,7 +161,7 @@ However, I wanted a fresh perspective as well. I reached out to [Leeds JS](https
 1. Have the sponsor pay for the food, and have them donate it
 2. Pay for the food, have sponsor reimburse via an invoice 
 
-**(2) would require setting up a 503(c) non profit status which would entail alot of accounting work I didn't want to do.** So (1) it was!
+**(2) would require setting up a 503(c) non profit status which would entail alot of accounting work** I didn't want to do. So (1) it was!
 
 I reached out to a few recruiting firms on LinkedIn, and usually they respond pretty fast. That's because they are always out there headhunting, so it makes sense
 
@@ -173,7 +173,7 @@ Having worked in the restaurant industry, figuring out how much food you need fo
 
 The food came a bit early and wasn't at the ideal temperature, but food is food
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/42bm08zucq7z41myt1zy.png)
+![Image description](./img/photo5.png)
 
 ## Advertising the event
 
@@ -185,15 +185,15 @@ Since writing this blog post, we also used mailing campaigns as well. We capture
 
 We advertised across a number of different channels, but the most important aspect was pushing reminders a few days before the event
 
-**Advertising tends to be a lot of "remind myself to remind others" about the event, which ties into just the sheer amount of logistics work needed to pull an event off**
+**Advertising tends to be a lot of "remind myself to remind others" about the event,** which ties into just the sheer amount of logistics work needed to pull an event off
 
 Because of all the things that need to be done, a good way of keeping tasks in order, project management, etc need to be checked
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0e3npn6uocc1yngjgk3o.png)  
+![Image description](./img/photo6.png)
 
 ## After the Event
 
-After the event is ran successfully, there's still work to be done. **Namely, thanking the sponsors like you would do a job search. There's also the social media aspect of posting photos / videos as well.**
+After the event is ran successfully, there's still work to be done. **Namely, thanking the sponsors like you would do a job search.** There's also the social media aspect of **posting photos / videos as well.**
 
 One time consuming aspect is managing the editorial production of videos after. When we ran the events, normally we would have several audio backups.
 
@@ -205,7 +205,7 @@ Not all talks need post processing, but sometimes the zoom recording quality com
 
 **When a talk has to be post proceessed, that adds into alot of extra work.**
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqg6nl43hixxng75smqg.png)
+![Image description](./img/photo7.png)
 
 ## Summary
 
@@ -218,4 +218,3 @@ Originally when I started this group, it became something I thought about everyd
 These are things that are sometimes completely out of my control. I try not to think about it and just hope for the best. 
 
 Getting an event to run smoothly without any big hitches takes a lot of luck too
-
