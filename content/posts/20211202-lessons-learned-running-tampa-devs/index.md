@@ -1,6 +1,6 @@
 ---
 date: 2021-12-02
-title: 'The Ugly Side of Event Management - Tampa Devs'
+title: 'The Ugly Side of Event Management'
 template: post
 thumbnail: '../../thumbnails/tampadevs.png'
 slug: ugly-side-of-event-management
