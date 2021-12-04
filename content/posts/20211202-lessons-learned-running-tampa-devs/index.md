@@ -1,8 +1,8 @@
 ---
 date: 2021-12-02
-title: 'Lessons learned running Tampa Devs'
+title: 'The Ugly Side of Event Management - Tampa Devs'
 template: post
-thumbnail: '../../thumbnails/accessibilityicon.png'
+thumbnail: '../../thumbnails/tampadevs.png'
 slug: lessons-learned-running-tampa-devs
 categories:
   - Leadership
@@ -10,36 +10,26 @@ tags:
   - TampaDevs
 ---
 
-
----
-title: Lessons Learned Running Tampa Devs
-published: false
-description: 
-tags: 
-//cover_image: https://direct_url_to_image.jpg
----
-
 3 months ago I started [Tampa Devs](https://tampadevs.com). It's grown to 200+ members. Since it's inception, we've hosted 7 different networking and speaking engagement events.
 
 Here's what I learned since then:
 
-## Event organizing is more work than you think
+Hosting events is hard
 
-Hosting software events couldn't be that hard could it?
+I don't have a ton of experience as an event organizer, I'll admit that much. My first impression of hosting events for work is this:
 
-At least that's what I thought. I don't have a ton of experience as an event organizer, I'll admit that much. My first impression of hosting events for work is this:
-
-1. I need people that will talk at the event
-2. I need a venue to host the event
-3. I need to run the event
-4. I need sponsors
-5. I need to advertise the event
+1. Finding people that will talk at the event
+2. Finding a venue to host the event
+3. Running the event
+4. Finding sponsors
+5. Advertising the event
+6. Post production
 
 That's all I had in mind. I figured hey I'll shoot a message to everyone involved and things will magically work after that. It didn't work that way.
 
 Let me break down how much each of those actually became for our 2nd speaking event
 
-### I need people that will talk at the event
+## Finding people that will talk at the event
 
 (1) sounds simple, but we had first time speakers that have never given a talk before. Before you even get a speaker, you have to convince them to give a talk
 
@@ -67,7 +57,7 @@ Normally this comes in deciding a proper title and figuring out how long the pre
 
 Once that was set, a few days before the event I followed up to make sure things were in working order.
 
-### I need a venue to host the event
+## Finding a venue to host the event
 
 (2) became way more work than I imagined. I mentioned a few of the strategies I used for growing [Tampa Devs here](https://www.vincentntang.com/how-we-grew-tampa-devs/). Some of those strategies involved cold marketing people on linkedin.
 
@@ -99,7 +89,7 @@ Once everything was in working order, I shot a message a few days before the eve
 
 This is when things got really messy. 
 
-### I need to run the event!
+## Running the event
 
 [Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzz4hnq1jsrjgogmb6ym.png)
  
@@ -145,7 +135,7 @@ For A/V backups, I brought a Sony AS6400 and a GoPro8 to capture two different v
 
 The rest of the event was pretty uneventful otherwise, with the exception of finding out my friend Hari was a really good engaging speaker
 
-### I need sponsors
+## Finding Sponsors
 
 (4) Finding sponsors and finding venues (2) were similar types of work.
 
@@ -176,7 +166,7 @@ Having worked in the restaurant industry, figuring out how much food you need fo
 
 The food came a bit early and wasn't at the ideal temperature, but food is food
 
-### I need to advertise the event
+## Advertising the event
 
 Okay now comes advertising the event. I wrote about some of the [marketing strategies](https://www.vincentntang.com/how-we-grew-tampa-devs/) we used to grow Tampa Devs.
 
@@ -191,6 +181,18 @@ We advertised across a number of different channels, but the most important aspe
 Advertising tends to be a lot of "remind myself to remind others" about the event, which ties into just the sheer amount of logistics work needed to pull an event off
 
 Because of all the things that need to be done, a good way of keeping tasks in order, project management, etc need to be checked
+
+## After the Event
+
+After the event is ran successfully, there's still work to be done. Namely, thanking the sponsors like you would do a job search. There's also the social media aspect of posting photos / videos as well.
+
+One time consuming aspect is managing the editorial production of videos after. When we ran the events, normally we would have several audio backups.
+
+In this event, I recorded on both a Sony A6400 and a GoPro8. I didn't check my camera settings properly, the camera footage was recorded in slow motion, so all the audio came out poorly
+
+My GoPro8 also ran out of battery halfway in the first presentation so some of the content got lost.
+
+Not all talks need post processing, but sometimes the zoom recording quality comes out really poorly due to Audio issues. Which always has a high likelihood of happening
 
 ## Summary
 
