@@ -3,7 +3,7 @@ date: 2021-12-02
 title: 'The Ugly Side of Event Management - Tampa Devs'
 template: post
 thumbnail: '../../thumbnails/tampadevs.png'
-slug: lessons-learned-running-tampa-devs
+slug: ugly-side-of-event-management
 categories:
   - Leadership
 tags:
