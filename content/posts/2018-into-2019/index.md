@@ -27,13 +27,12 @@ I made a commitment last year to explore the community around me. Despite growin
 
 Topics
 
-*   [Things I Wish I Knew at My First Tech Talk](/things-wish-knew-first-tech-talk/ "Things I Wish I Knew at My First Tech Talk")
-*   [How to Build a HTML Canvas Vanishing Point Cube](/build-html-canvas-vanishing-point-cube/ "How to Build a HTML Canvas Vanishing Point Cube")
-*   [Modular Sass Media Queries for Responsive Webdesign](/modular-media-queries-with-sass-mixins-for-responsive-webdesign/ "Modular Sass Media Queries for Responsive Webdesign")
-*   [How to Make a CSS Mega Menu](/make-css-mega-menu/ "How to Make a CSS Mega Menu")
-*   [Adventures in Writing a Tampermonkey Script Extension](/adventures-in-writing-a-tampermonkey-script-extension/ "Adventures in Writing a Tampermonkey Script Extension")
-*   [14 Useful Phrase Express Macros For Developers](/14-useful-phrase-express-macros-for-developers/ "14 Useful Phrase Express Macros For Developers")
-
+*   [Things I Wish I Knew at My First Tech Talk](https://www.vincentntang.com/things-I-wish-I-knew-for-my-first-tech-talk/)
+*   [How to Build a HTML Canvas Vanishing Point Cube](https://www.vincentntang.com/3d-renderer-2d-html-canvas/)
+*   [Modular Sass Media Queries for Responsive Webdesign](https://www.vincentntang.com/sass-media-queries/)
+*   [How to Make a CSS Mega Menu](https://www.vincentntang.com/css-mega-menu/)
+*   [Adventures in Writing a Tampermonkey Script Extension](https://www.vincentntang.com/Writing%20a%20custom%20userscript/)
+*   [14 Useful Phrase Express Macros For Developers](https://www.vincentntang.com/14-phrase-express-macros/)
 ## I worked on <span style="color: #ff0000;">6</span> collabarative side projects
 
 I have never worked at a software company. So I've never worked in a formal team setting, either. I worked on 6 side projects in total, Two from [Chingu](https://chingu.io/), an opensource remote developer cohort. Two from hackathons. Two from nonprofits. Some were finished others not so much, in any case it's been a great learning oppurtunity for me.
