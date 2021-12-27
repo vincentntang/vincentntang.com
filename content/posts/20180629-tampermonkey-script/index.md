@@ -24,8 +24,6 @@ But, because it aren't restricted to chrome, they can be used in any browser suc
 [](./images/userscript_2.png)
  _the infamous internet explorer toolbar spam_
 
-## 
-
 ## So what are some use cases of userscripts?
 
 Do you rely on a webapp everyday for work or personal use (e.g. gmail, twitter, facebook, etc) ? Have you ever wanted a feature to roll out from the developer, only to realize it probably will never happen? Most likely because there isn't enough demand for it. So it doesn't make sense for the developer to spend time working on said feature
