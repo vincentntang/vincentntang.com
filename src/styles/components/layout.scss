@@ -1314,3 +1314,9 @@ button[disabled] {
     width: 100%;
   }
 }
+
+// Add figcaption using *EM* tags right beneath an image
+span.gatsby-resp-image-wrapper + em {
+  display: block;
+  text-align: center;
+}
