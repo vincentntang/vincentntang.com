@@ -125,7 +125,7 @@ The rest became history after that. I assembled a list of parts on PC part picke
 
 More to come next year. I don't know what the future holds. 
 
-One thing I know for sure, is this year I've become a lot more mature. Maybe it's because I shipped out production code affecting millions of users. Or debuting a performance I've dreamed I'd do. Or maybe it's because I jumped of a plane. 
+One thing I know for sure, is this year I've become a lot more mature. Maybe it's because I shipped out production code affecting millions of users for the first time. Or maybe it's because I now have a cat that's dependent on me. Or debuting a performance I've dreamed I'd do. Or jumping out of a plane as a "sure why not" experience
 
 Whatever it is, I feel like I've had alot of life experiences this year. With each experience comes more confidence to conquer the next. It's also the journey, not the destination that matters
 
