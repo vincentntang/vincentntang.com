@@ -21,8 +21,8 @@ Imagine if you took your favorite chrome extension and made it even better(sort 
 
 But, because it aren't restricted to chrome, they can be used in any browser such as IE, firefox, opera, etc. Userscripts are also much more extensible - with javascript you can also inject HTML and CSS on a webpage too. Chrome Extensions have restrictions against these because otherwise they would be abused to produce this monstrosity
 
-[caption id="" align="alignnone" width="594"]![](./images/userscript_2.png)
- _the infamous internet explorer toolbar spam_[/caption]
+[](./images/userscript_2.png)
+ _the infamous internet explorer toolbar spam_
 
 ## 
 
