@@ -123,7 +123,16 @@ The rest became history after that. I assembled a list of parts on PC part picke
 
 ## Summary
 
-More to come next year. I don't know what the future holds. 
+More to come next year. I'm not writing my goals this year, and instead I am internalizing them. 
+
+<!-- TODO - things I have in mind just for myself -->
+<!-- TODO - Comedy Talks -->
+<!-- TODO - Moving to a new country? -->
+<!-- TODO - new job? -->
+<!-- TODO - Financial portfolio setup -->
+<!-- TODO - Strength training -->
+
+Looking back I never accomplished everything I set out to do. And that's a good thing. I don't know what the future holds, and it's more exciting that way when I look back
 
 One thing I know for sure, is this year I've become a lot more mature. Maybe it's because I shipped out production code affecting millions of users for the first time. Or maybe it's because I now have a cat that's dependent on me. Or debuting a performance I've dreamed I'd do. Or jumping out of a plane as a "sure why not" experience
 
