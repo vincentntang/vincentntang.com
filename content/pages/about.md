@@ -33,18 +33,19 @@ Some other links to my work found here:
 - 💾 **[GitHub](https://github.com/vincentntang)**: Open source projects
 - 💾 **[Slides](https://slides.com/vincentntang/)**: Presentation slidedecks
 - 💾 **[Codepen](https://codepen.io/vincentntang)**: Web doodles
-- 💾 **[Devpost](https://devpost.com/vincentntang)**: Hackathon projects
+- 💾 **[Devpost](https://devpost.com/vincentntang)**: Project Portfolio + Hackathons
 - 💾 **[Stackoverflow](https://stackoverflow.com/users/3258462/vincent-tang)**: Knowledge wiki
 
-Open source projects: 
+<!-- Open source projects:  -->
 
-- [Asteroid Battlegrounds](https://github.com/vincentntang/asteroid_battlegrounds) - Typescript PhaserJS game based on ATARI Asteroids
+<!-- - [Asteroid Battlegrounds](https://github.com/vincentntang/asteroid_battlegrounds) - Typescript PhaserJS game based on ATARI Asteroids
 - [Earthly](https://github.com/vincentntang/2018spaceappschallenge) - NASA 3D visualization exploration app
-- [3D Box](https://github.com/vincentntang/canvas-vanishing-points) - 3D renderer built on 2D HTML Canvas
+- [3D Box](https://github.com/vincentntang/canvas-vanishing-points) - 3D renderer built on 2D HTML Canvas -->
 <!-- - [Movie Quotes](https://github.com/vincentntang/graphql-movie-quotes) - GraphQL NodeJS React App Tutorial for a conference talk -->
-- [Vue Desk Configurator](https://codepen.io/vincentntang/pen/LKgWbv) - Vue App featured on frontpage of Codepen
+<!-- - [Vue Desk Configurator](https://codepen.io/vincentntang/pen/LKgWbv) - Vue App featured on frontpage of Codepen
 - [Fresh Point](https://github.com/vincentntang/freshpoint) - Minimalist Sass Boilerplate
 - [codechefs.dev](https://github.com/vincentntang/codechefs) - GatsbyJs Podcast Site
+- [Tampadevs.com](https://github.com/tampadevs/tampadevs) - 11tyJS / Netlify local dev community site -->
 
 <br/>
 <br/>
