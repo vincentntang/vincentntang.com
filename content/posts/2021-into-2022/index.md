@@ -119,7 +119,7 @@ I ended up camping at Best Buy (my first time camping of all things...) and ende
 ![The IT improvement guys](./img/2022img5.jpeg)
 *The IT improvement guys* 
 
-The rest became history after that
+The rest became history after that. I assembled a list of parts on PC part picker, and went to town. Getting the RGB rig probably took the longest time to get set up
 
 ## Summary
 
