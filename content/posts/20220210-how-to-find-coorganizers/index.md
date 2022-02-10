@@ -3,7 +3,7 @@ date: 2022-02-10
 title: 'How to find Co-Organizers for a Non-Profit'
 template: post
 thumbnail: '../../thumbnails/tampadevs.png'
-slug: ugly-side-of-event-management
+slug: how-to-find-coorganizers
 categories:
   - Leadership
 tags:
