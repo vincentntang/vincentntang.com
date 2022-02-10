@@ -90,3 +90,5 @@ Usually what happens is they'll come up to you on their own, and ask to be a par
 We also aren't motivated by financial means either, so this makes it even more important in finding the right person.
 
 Smaller teams are generally more impactful than bigger teams IMO as well
+
+After you find you're co-organizers, you'd want to read this afterwards [retaining talent through creating ownership](https://www.vincentntang.com/retaining-talent-by-creating-ownership)
