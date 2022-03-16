@@ -16,6 +16,8 @@ Being a hat connoisseur, I'm really pick about my hats. So this guide is tailore
 
 I didn't have a lot of knowledge of what goes into designing a hat. But over the last three weeks of learning about the industry, and designing my own, here is my guide on what you should know about designing a hat.
 
+---
+
 ## Hat Types
 
 ### Decide if you want a mesh hat
@@ -24,7 +26,7 @@ First you want to pick the base of the hat. This is the overall build and qualit
 
 You can either have a hat with, or without a mesh. Here is one with a mesh: 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4v7bftt287ygroiimcg4.png)
+![custom hat](./img/custom_hat_1.jpg)
 
 Mesh hats are also called trucker hats, they tend to work well outdoors because of the breathable mesh. They are mostly catered toward people of all ages, and there's various tightening fit types on the backside as well
 
@@ -48,21 +50,21 @@ Cons
 
 Traditionally most ballcaps have a curve associated with it, also known as baseball caps. There is another variation where the lip is flat though, as seen here:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nacr4uwrietjgvkvb0op.png)
+![custom hat](./img/custom_hat_2.jpg)
 
 Flat lid hats tend to be less about function, and more about designing aesthetics, towards younger crowds. Some companies will emphasize designing a silver-colored sticker as part of the design as well. Here's an example from my hat collection:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0d1cihgi2bgz3xngbkp1.png) 
+![custom hat](./img/custom_hat_3.jpg)
 
 ### Decide the number of panels on a hat
 
 Most hats usually have 6 panels. This means if you look at the top of the cap (the center), 6 sewing lines protrude in all directions
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/06sh2n01f279osh4ceuk.png)
+![custom hat](./img/custom_hat_4.jpg)
 
 There are hats that have 5, or 7 panels as well. These tend to give it a more "old-fashioned" or even "european" style look, and they tend to be full-paneled (no meshes). Example:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fvy9li37eafhxw7givnp.png)
+![custom hat](./img/custom_hat_5.jpg)
 
 ### Deciding on additional customization
 
@@ -82,13 +84,15 @@ which lets you choose everything from
 
 Here's an example of a PukkaInc hat I own:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/euuxshx0gtmcrm0u2fws.png)
+![custom hat](./img/custom_hat_6.jpg)
  
 Prices are usually higher since additional tooling is needed, with longer lead times and minimum buy order quantities
 
 I've only really scratch the surface here. There are entire catalogs dedicated to this kind of thing, I picked up one from my local hat store:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vwgr6jgfasrzxzaq6xa4.png)
+![custom hat](./img/custom_hat_7.jpg)
+
+---
  
 ## Embroidery Options
 
@@ -103,13 +107,13 @@ There are ALOT of options when it comes down to embroidery. However, they can be
 
 (1) has a disadvantages of warping the panel structure, so if you hat doesn't have a lot of rigidity it'll create a bent-in look. This isn't exactly ideal, however it does have the added benefit of potentially creating a 3D "Puff" design. This is done through layering the stitches, one on top of the other. This creates verticality and a nice texturized feel when you rub your hand on the logo. Here's an example
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxgyt118qo8qxlnih2zt.png)
+![custom hat](./img/custom_hat_8.jpg)
 
 (1) has the largest range of customization stitching options though. You can use just about any shape logo, even ones with tight corners as each thread is sewn into the hat itself
 
 You can check out the full range of options for (2) [here](https://www.custompatchhats.com/patch-hats-101/).
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qy2jg9ubrdgyawyhk05k.png) 
+![custom hat](./img/custom_hat_9.jpg)
 
 - Embroided patches - Lots of texture, but poor detail
 - Woven patches - Detailed designs that aren’t able to be embroidered clearly.
@@ -128,15 +132,15 @@ A 3D PVC process is basically what you think of as traditional 3D printing, but 
 
 A mold is created of the logo, and a filament injector deposits soft PVC onto it, until the curing process is finished. Here is what it looks like during manufacturing:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7s08irdxzy8rdz3n1mvr.png)
+![custom hat](./img/custom_hat_10.jpg)
 
 The molds for these cannot have sharp corners on the design, so you may have to create an outline for your logo. I don't know the exact reason for this, but I suspect it's probably hard for the extruder to hit tight corners. Here is an example of outlines that can be used:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9cw3zy7ac4g00ne3mci7.png)
+![custom hat](./img/custom_hat_11.jpg)
 
 After you create an outline for your logo, you can also select how the layers are printed on the design. So here's an example of the hat logo I created for Tampa Devs:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pskntfrhncfqzdqonbbv.png)
+![custom hat](./img/custom_hat_12.jpg)
 
 I picked black as our flat level layer, and stuck with as few color choices as possible. For the 3D texture print, I chose to use red and white. 
 
@@ -144,11 +148,13 @@ Just as a side note, the outline of the logo (the diamond here) needs approximat
 
 Here is a final mockup of the hat I designed before signing off into production for 8-9 weeks:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4978mshtw28ybsqvfi3.png)
+![custom hat](./img/custom_hat_13.jpg)
 
 We added some custom embroidery on the side of the hat as well too. Here's the full specifications of the hat I ordered: 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sk80bgu7it05qthluhy2.png)
+![custom hat](./img/custom_hat_14.jpg)
+
+---
  
 ## Design process
 
@@ -166,7 +172,7 @@ I use [affinity designer](https://affinity.serif.com/en-us/), a competitor to ad
 
 One thing that I struggled with is creating an outline for our logo. This is the outline I originally created, and exaggered in this picture below:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/judeorchz9wk4mg2hfjd.png)
+![custom hat](./img/custom_hat_15.jpg)
 
 The problem here is during export this is treated as an image rasterization, which is never good for printing. It would've created a blurry stitching and or filament printing during final production. 
 
@@ -182,7 +188,7 @@ It also allowed me to create user-studies that I sent out to twitter and all of 
 
 Since I needed to create an outline for the 3D PVC process, I sent out a survey picture. Then I asked them what their favorite outlines were:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whafpzksxm07z3ye3ke7.png)
+![custom hat](./img/custom_hat_16.jpg)
  
 Here I got a range of answers from what people thought were good outlines. I intentionally left bad designs here to help narrow expert opinions as well, to see if friends could point them out. 
 
@@ -202,7 +208,7 @@ For (2), I asked the hat designer for her expert recommendations and gave her my
 
 For (3), I did some A/B prototyping by printing off the paper mockup, and slapping it on one of my hats. I could determine from here, if the text on the side would or would not overpower the logo. Here's that prototype iteration:
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izr9k7oluooeupfjqhti.png)
+![custom hat](./img/custom_hat_17.jpg)
 
 ## Summary
 
