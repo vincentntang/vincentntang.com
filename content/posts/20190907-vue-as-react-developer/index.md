@@ -63,7 +63,7 @@ Here's an example of what a typical Vue file looks like:
 
 Assuming you declared your Vue component at the top level, this just outputs a "Hello World" string in red color.
 
-In Vue, you write single file components. By convention, your component file will include the declaration of your template at the top, followed by a script definition with all the component logic, and it wii close with any necessary style declarations.
+In Vue, you write single file components. By convention, your component file will include the declaration of your template at the top, followed by a script definition with all the component logic, and it will close with any necessary style declarations.
 
 React, on the other hand, is less opinionated on file structure. You can still create single file components but instead of implementing the template in HTML and the styling in SCSS, for example, you would write everything in Javascript: template in JSX and styling in CSS-in-JS. This is demonstrated in this example:
 
