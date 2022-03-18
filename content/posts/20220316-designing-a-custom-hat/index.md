@@ -16,8 +16,6 @@ Being a hat connoisseur, I'm really pick about my hats. So this guide is tailore
 
 I didn't have a lot of knowledge of what goes into designing a hat. But over the last three weeks of learning about the industry, and designing my own, here is my guide on what you should know about designing a hat.
 
----
-
 ## Hat Types
 
 ### Decide if you want a mesh hat
@@ -154,7 +152,6 @@ We added some custom embroidery on the side of the hat as well too. Here's the f
 
 ![custom hat](./img/custom_hat_14.jpg)
 
----
  
 ## Design process
 
@@ -164,7 +161,13 @@ I want to add additional notations about all the additional things I had to lear
 
 Before the hat goes into production, you need to pick the pantone color filament or fabric colors that will be used. Pantone is a specific brand of colors that has a rough equivalent match to an RGB or hex value
 
-Make sure whatever color you pick also matches the design elements of the hat as well. The hat we chose has a red lid to it, and our logo has red colors in it too. So when you pick a red to print off, it should be somewhere in the range between those two depending on what print options are available
+Make sure whatever color you pick also matches the design elements of the hat as well. The hat we chose has a red lid to it, and our logo has red colors in it too. So when you pick a red to print off, it should be somewhere in the range between those two depending on what print options are available.
+
+The recommended thing to choose here from the hat vendor is to pick the logos true color.
+
+Here is an example of our color charts and how it maps to pantone colors:
+
+![custom hat](./img/custom_hat_a.jpg)
 
 ### Vectorization and exported formats
 
