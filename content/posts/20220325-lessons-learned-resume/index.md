@@ -3,7 +3,7 @@ date: 2022-03-25
 title: 'What I learned reading thousands of resumes for 5+ years'
 template: post
 thumbnail: '../../thumbnails/writing.png'
-slug: designing-custom-3d-pvc-hat
+slug: writing-resumes-lessons
 categories:
   - Resume
 tags:
