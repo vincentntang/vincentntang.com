@@ -7,7 +7,7 @@ slug: writing-resumes-lessons
 categories:
   - Resume
 tags:
-  - TampaDevs
+  - Resume
 ---
 
 Before I became a software developer, I used to run my family's restaurant equipment business. One of my tasks was hiring employees to do manual intensive labor tasks, like delivery drives, picking goods from the warehouse, and welders for fabricating machinery. Here I've had to read thousands of resumes over the years
