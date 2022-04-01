@@ -35,6 +35,7 @@ Some other links to my work found here:
 - 💾 **[Codepen](https://codepen.io/vincentntang)**: Web doodles
 - 💾 **[Devpost](https://devpost.com/vincentntang)**: Project Portfolio + Hackathons
 - 💾 **[Stackoverflow](https://stackoverflow.com/users/3258462/vincent-tang)**: Knowledge wiki
+- 💾 **[Crunchbase](https://www.crunchbase.com/person/vincent-tang-32ce)**: Public Media Portfolio
 
 <!-- Open source projects:  -->
 
