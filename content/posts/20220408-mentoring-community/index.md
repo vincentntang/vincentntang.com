@@ -99,7 +99,7 @@ A few months later Doug was in the market for a new job. I asked for his resume,
 
 ## Presentation
 
-I needed a speaker for one of our Tampa Devs events. Doug commited, and we actually had the highest turnout (81 people!) at our event. Here's photos of the presentation:
+I needed a speaker for one of our Tampa Devs events. Doug commited, and we actually had the highest turnout (81 people!) at [our event](https://www.meetup.com/TampaDevs/events/283612753/). Here's photos of the presentation:
 
 ![mentorship and community](./img/mentor8.jpg)
 
