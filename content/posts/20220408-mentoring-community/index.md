@@ -45,11 +45,11 @@ We asked about 20-30 people who passed by to join our team. We eventually convin
 
 Here's our team pic! (Doug is second to the right)
 
-![mentorship and community](./img/mentor4.jpg)
+![mentorship and community](./img/mentor3a.jpg)
  
 Doug and I went to storyboarding the video game. I've never done video game directing before, but I played enough to have an idea. We decided to use a comic-strip to depict what the intro looked like. Here's what we drafted up:
 
-![mentorship and community](./img/mentor5.jpg)
+![mentorship and community](./img/mentor4.jpg)
 
 I didn't know what to expect from Doug. We just met him, but I put him to to the test. He delivered really hard. 
 
