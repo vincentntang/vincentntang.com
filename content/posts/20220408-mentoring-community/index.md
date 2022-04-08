@@ -11,7 +11,7 @@ tags:
   - Mentorship
 ---
 
-![mentorship and community](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mo7siqmbv50yjwp4g5x6.png) 
+![mentorship and community](./img/mentor1.jpg)
 
 I've had the luxury of watching one of my mentees, go from no coding experience to making his 6 figure job. And presenting his first tech talk at a group I founded, [Tampa Devs](https://tampadevs.com). All in 2 years!
 
@@ -33,29 +33,29 @@ However, we didn't have anyone to design our video game. None of us knew how to 
 
 We needed to recruit someone with these skills. My teammates made me the designated hype guy, and I pitched the idea center stage in the auditorium
 
-![mentorship and community](./img/mentor1.jpg)
+![mentorship and community](./img/mentor2.jpg)
 
 After I pitched and got some hype up, we created an ad-bulletin in the forum area to recruit. We were a small startup video game company looking for a designer
 
 Here's the job ad we used:
 
-![mentorship and community](./img/mentor2.jpg)
+![mentorship and community](./img/mentor3.jpg)
 
 We asked about 20-30 people who passed by to join our team. We eventually convinced one person to join, and his name is Doug.
 
 Here's our team pic! (Doug is second to the right)
 
-![mentorship and community](./img/mentor3.jpg)
+![mentorship and community](./img/mentor4.jpg)
  
 Doug and I went to storyboarding the video game. I've never done video game directing before, but I played enough to have an idea. We decided to use a comic-strip to depict what the intro looked like. Here's what we drafted up:
 
-![mentorship and community](./img/mentor4.jpg)
+![mentorship and community](./img/mentor5.jpg)
 
 I didn't know what to expect from Doug. We just met him, but I put him to to the test. He delivered really hard. 
 
 This is the end result turned out for our video game:
 
-<iframe width="477" height="347" src="https://www.youtube.com/embed/9w1LlqoFbNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/9w1LlqoFbNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Doug designed a custom sprite image intro, animations, sprites for our spaceship, and an ending screen all in 2 days
 
@@ -75,13 +75,13 @@ This was actually our 2nd event for TampaDevs as well! I brought together a grou
 
 Here's our team: 
 
-![mentorship and community](./img/mentor5.jpg)
+![mentorship and community](./img/mentor5a.jpg)
 
 Our team created a robot called RescueR. We used an off the shelf raspberry pi robot dog kit and threw in a video camera feed with controls.
 
-Here's what the robot dog looked like, for reference:
+<!-- Here's what the robot dog looked like, for reference:
 
-![mentorship and community](./img/mentor6.jpg)
+![mentorship and community](./img/mentor6.jpg) -->
 
 One thing we needed for this robot was a frontend interface for the camera. I didn't actually know what Doug's frontend experience was like as a React developer, but I gave him the task of building the UI. We needed to build a website that could handle the camera feed and controls sent to the robot.
 
