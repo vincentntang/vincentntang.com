@@ -55,7 +55,9 @@ I didn't know what to expect from Doug. We just met him, but I put him to to the
 
 This is the end result turned out for our video game:
 
+<div class="videoWrapper">
 <iframe width="700" height="500" src="https://www.youtube.com/embed/9w1LlqoFbNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Doug designed a custom sprite image intro, animations, sprites for our spaceship, and an ending screen all in 2 days
 
