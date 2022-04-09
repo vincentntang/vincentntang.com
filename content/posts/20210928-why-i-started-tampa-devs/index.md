@@ -8,11 +8,11 @@ categories:
   - Leadership
 tags:
   - Planning
-  - Logistics\
+  - Logistics
   - TampaDevs
 ---
 
-I started my own dev community this past month! I had my first event which had a turn out of about ~30 people. 
+This month, I started my own dev community, [Tampa Devs](https://tampadevs.com)! I had my first event which had a turn out of about ~30 people. 
 
 I wanted to write in this post why I started this group, and what I hope to see it in long term.
 
