@@ -115,7 +115,7 @@ Sometimes I wonder how things would be different had I not met Doug. Maybe he pi
 
 He wouldn't have come to do this devops talk, which may have inspired someone else to pursue a career in development years later.
 
-It all boils back to the Butterfly Effect. Small changes can result in large differences, at a later point in time.
+It all boils back to the [Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect). Small changes can result in large differences, at a later point in time.
 
 This is why I love mentoring and community building. You plant a seed, and sometimes it flourishes to a beautiful tree beyond your expectations.
 
