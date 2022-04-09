@@ -88,7 +88,7 @@ When things in life turned to shit, I remembered that comment. When people didn'
 
 I never stopped remembering it. It's made me see the flip side of things everywhere in my life. 
 
-**Tampa Devs has become more than just a community I created.** I've met some of my closest friends through here, and built some of the most meaningful experiences in my life. 
+**[Tampa Devs](https://tampadevs.com) has become more than just a community I created.** I've met some of my closest friends through here, and built some of the most meaningful experiences in my life. 
 
 I've used it as an excuse to become a better leader, design my own clothes, and learn growth-hacking amongst so many other things. Like the surgeon before me, I am the one who is learning now.
 
