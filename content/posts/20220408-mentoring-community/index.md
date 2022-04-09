@@ -77,7 +77,7 @@ This was actually our 2nd event for TampaDevs as well! I brought together a grou
 
 Here's our team: 
 
-![mentorship and community](./img/mentor5a.jpg)
+![mentorship and community](./img/mentor5.jpg)
 
 Our team created a robot called RescueR. We used an off the shelf raspberry pi robot dog kit and threw in a video camera feed with controls.
 
