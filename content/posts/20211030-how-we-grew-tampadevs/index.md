@@ -110,7 +110,7 @@ It's also by the way a really effective fast way to growing your network too. He
 
 ![Linked in Invite](./img/3_linkedin_invite.png) 
 
-I would say this strategy is about 10% effective, but it requires really low effort and it's really easy to hit up alot of users quickly. When someone opens the message, they can see the thumbnail image you  
+I would say this strategy is about 10% effective, but it requires really low effort and it's really easy to hit up alot of users quickly. When someone opens the message, they can see the thumbnail image preview on the event:
 
 ![Linked in Response](./img/4_linkedin_response.png)
 
