@@ -44,7 +44,7 @@ _a home grown skate park_
 
 ## The Ethical Dilemma
 
-David starts getting down to business. One lesson I've learned through reading ["The 7 habits of effective people"](https://www.franklincovey.com/the-7-habits/) is to think win-win. **David wants to push a new W3 spec on the web, and it's a new proprietary media format that can control how many times a video can be played.**
+David starts getting down to business. One lesson I've learned through reading ["The 7 habits of effective people"](https://www.franklincovey.com/the-7-habits/) is to think win-win. **David wants to push a new W3 spec on the web, and it's a proprietary media format that can control how many times a video can be played.**
 
 Think NFT videos/images, but it's owned by megacorps, and the rights to view them are paywalled. **Imagine a world in which you can only play 5 youtube videos a day** before you need to pay an additional $X money to watch 20 more videos.
 
