@@ -80,16 +80,16 @@ Youtube deleted the comment since then, but this is how it went
 
 ![Life Lessons](./img/lifelessons6.png)
     
-I was confused. Then I broke down crying. I was going to graduate as a failure with no career prospects and have to deal with the social rejection of my parents and classmates. I realized that I was creating videos to escape reality. 
+I was confused. Then I broke down crying. I was going to graduate as a failure with no career prospects and have to deal with the social rejection of my parents and classmates. I was creating videos to escape reality. 
 
 It wasn't until that comment that made me appreciate the small things in life. **Who would've thought video games could be used for surgical training?**
 
 When things in life turned to shit, I remembered that comment. When people didn't understand the value of an idea I presented, I remembered that comment. When my parents didn't support my pursuit in software development, I remembered that comment.
 
-I never stopped remembering it. It's made me see the flip side of things everywhere in my life. 
+I never stopped remembering it. It's made me see the flip side of things everywhere in my life. It's made me realize that it's not about how many people you connect with, but the quality of connections that you create. 
 
 **[Tampa Devs](https://tampadevs.com) has become more than just a community I created.** I've met some of my closest friends through here, and built some of the most meaningful experiences in my life. 
 
-I've used it as an excuse to become a better leader, design my own clothes, and learn growth-hacking amongst so many other things. Like the surgeon before me, I am the one who is learning now.
+I've used it as an excuse to become a [better leader](https://www.vincentntang.com/tags/tampa-devs/), [design my own hats](https://www.vincentntang.com/designing-custom-3d-pvc-hat/), and learn [growth-hacking](https://www.vincentntang.com/how-we-grew-tampa-devs/) amongst so many other things. Like the surgeon before me, I am the one who is learning now.
 
 Life sometimes gives you unexpected blessings, and you just roll with it.
