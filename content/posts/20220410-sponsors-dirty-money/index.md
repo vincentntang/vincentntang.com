@@ -21,7 +21,7 @@ I had to deal with an ethical issue like this when I started [Tampa Devs](https:
 When I first started hosting events, I needed sponsors. Sponsors to help pay for food for networking events, venues for talks, amongst many other things. 
 
 ![Ethics](./img/ethics2.jpg)
- 
+_a fancy dinner for 2?_
 
 ## Our first sponsor
 
@@ -40,6 +40,7 @@ David then shows me how much money he made daily in his bank account. Some days 
 I mean, this dude hired Tony Hawk and other pro skaters for at least $50,000 each just to make a potential investor happy at his home-grown skate park. Here I am scrouging for free food because I'm cheap.
 
 ![Ethics](./img/ethics3.jpg)
+_a home grown skate park_
 
 ## The Ethical Dilemma
 
@@ -64,6 +65,7 @@ We hosted one event through them. He didn't even look at the $800 bill dinner we
 I decided to not move forward with this sponsor long term. We didn't share the same alignment of goals. I didn't feel comfortable hosting events at venues he controlled, when I had so many other and free options available.
 
 ![Ethics](./img/ethics5.jpg)
+_greenlight_
 
 ## Moving to greener pastures
 
