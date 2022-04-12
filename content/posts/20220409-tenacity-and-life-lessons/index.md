@@ -32,7 +32,7 @@ To give a high level summary of what went on:
 
 It didn't occur to me until later that I wanted to start a community to avoid people like this. I didn't experience anything like this in [Orlando Devs](https://orlandodevs), everyone had been so supportive in my career to help me where I am today
 
-These comments didn't stop me from building Tampa Devs. I learned a hard earned lesson 10 years ago, that I applied here to give me the resolve to move forward. I call it the 33% rule
+These comments didn't stop me from building Tampa Devs. I learned a hard earned lesson 10 years ago, that I applied here to give me the resolve to move forward. I call it the 33% rule:
 
 **For X number of people that hold an opinion on you, 33% will support you, 33% don't care, and 33% will dislike you. 1% of the opinions may change you**
 
