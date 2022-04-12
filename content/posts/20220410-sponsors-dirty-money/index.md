@@ -35,7 +35,7 @@ David asked me to introduce myself. I told him I'm not your standard web develop
 
 David was exactly the same way. So we clicked in that mindset
 
-David then shows me how much money he made daily in his bank account. Some days it was $5,000, other days it was $30,000. He talked about parties akin to the Great Gatsby, billionaires he's met in his lifetime, and stories that you could only imagine.
+David then shows me how much money he made daily in his bank account. Some days it was $5,000, other days it was $30,000. He talked about parties akin to the [Great Gatsby](https://en.wikipedia.org/wiki/The_Great_Gatsby), billionaires he's met in his lifetime, and stories that you could only imagine.
 
 I mean, this dude hired Tony Hawk and other pro skaters for at least $50,000 each just to make a potential investor happy at his home-grown skate park. Here I am scrouging for free food because I'm cheap.
 
