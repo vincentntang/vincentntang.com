@@ -97,7 +97,7 @@ We ended up winning top prize for $4.4k at the event! You can read more about it
 
 ## Company referral
 
-A few months later Doug was in the market for a new job. I asked for his resume, and I was quite surprised that all of his experience was DevOps related. I wrote a referral for our company, and he got hired into his first 6 figure job!
+A few months later Doug was in the market for a new job. I asked for his resume, and I was quite surprised that all of his experience was DevOps related. I thought he was a frontend developer based on his design skill sets and how good he was at in React. I wrote a referral for our company, and he got hired into his first 6 figure job!
 
 ## Presentation
 
