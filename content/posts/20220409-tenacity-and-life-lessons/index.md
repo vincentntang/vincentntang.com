@@ -82,7 +82,7 @@ Youtube deleted the comment since then, but this is how it went
 
 ![Life Lessons](./img/lifelessons6.png)
     
-I was confused. Next thing I know I was crying. I was going to graduate as a failure with no career prospects and have to deal with the social rejection of my parents and classmates. I realized that I was creating videos to escape reality. 
+I was confused. Then I broke down crying. I was going to graduate as a failure with no career prospects and have to deal with the social rejection of my parents and classmates. I realized that I was creating videos to escape reality. 
 
 It wasn't until that comment that made me appreciate the small things in life. **Who would've thought video games could be used for surgical training?**
 
