@@ -74,7 +74,7 @@ All that mattered I was doing something I enjoyed.
 
 It wasn't until I was about to graduate in 2013 that things changed. Around this time I started to stop playing as frequently, but still uploading content once a week.
 
-I'd still get comments every so often. One comment shaped who I am today. **This is the 1% of opinions I am talking about, if you throw enough feelers out there someone will really connect to you**
+I'd still get comments every so often. One comment shaped who I am today. **This is the 1% of opinions I am talking about. If you throw enough feelers out there, someone will really connect to you**
 
 Youtube deleted the comment since then, but this is how it went
 
