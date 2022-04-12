@@ -70,11 +70,11 @@ I would say the vast majority of comments I got were supportive. But sometimes t
 
 But again alot of these comments didn't matter in the long run. It was the same comments over and over again. It made me feel good but I also didn't really feel like I deserved the praise
 
-All that mattered I was doing something I enjoyed, to escape from a reality I didn't care for.
+All that mattered I was doing something I enjoyed.
 
 It wasn't until I was about to graduate in 2013 that things changed. Around this time I started to stop playing as frequently, but still uploading content once a week.
 
-One comment shaped who I am today. **This is the 1% of opinions I am talking about, if you throw enough feelers out there someone will really connect to you**
+I'd still get comments every so often. One comment shaped who I am today. **This is the 1% of opinions I am talking about, if you throw enough feelers out there someone will really connect to you**
 
 Youtube deleted the comment since then, but this is how it went
 
