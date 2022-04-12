@@ -50,7 +50,7 @@ Think NFT videos/images, but it's owned by megacorps, and the rights to view the
 
 They had all the legal means to push this w3 spec on the web, the investors and large corporations ready to give the greenlight too. This might one day actually happen a decade or so from now, and it'll be a scary future for the free web.
 
-That's what they propositioned. They needed frontend developers specifically, to help spearhead a community initiative for this. And what they propositioned was this: **"Vincent, we'll give you money but in exchange you help promote our product with your community"**
+They needed frontend developers specifically, to help spearhead a community initiative for this. And what they propositioned was this: **"Vincent, we'll give you money but in exchange you help promote our product with your community"**
 
 ![Ethics](./img/ethics4.gif)
 
