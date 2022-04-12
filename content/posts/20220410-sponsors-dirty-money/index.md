@@ -29,7 +29,7 @@ One such sponsor rallied to my call. I had given a tech talk to a frontend desig
 
 Before I knew it, I got invited to the most expensive restaurant in town. We're talking $300 a dinner for a party of 2, and that's the cheap end. I met my sponsor and his co-sponsor in person. Let's call them David and James for anonymity sake
 
-I found out David and James were on the w3 board and had massive influence around the world. In fact, David was one of the co-creators of the internet. I was talking to a celebrity!
+I found out David and James were on the [w3](https://www.w3.org/) board and had massive influence around the world. In fact, David was one of the co-creators of the internet. I was talking to a celebrity!
 
 David asked me to introduce myself. I told him I'm not your standard web developer. I told him I was a business guy first, an engineer second, and a web developer last. And that I rarely call myself a programmer.
 
