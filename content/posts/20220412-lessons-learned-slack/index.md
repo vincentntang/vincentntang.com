@@ -33,8 +33,6 @@ Here's where to grab that link:
 ![Slack Community](./img/slack1.png)
 
 You'll want to add this link to your public website so anyone can quickly find it. Here's the [link](https://join.slack.com/t/tampa-devs/shared_invite/zt-veftezkg-kq~jFtC1FCz4o6suybMl5Q) we use for joining tampa devs slack
-
----
  
 ## Make attempts to reduce spam
 
@@ -79,8 +77,6 @@ Not everyone has the same notifications setup through slack. Normally you have t
 So to combat this, add a snooze hour duration that seems reasonable for all users. This includes weekends too. Our latest events end before 9 pm generally, and people go to sleep as early as 10 pm sometimes. Keep that in mind. Some members wake up late (like me!), so a time of 11 am should be good
 
 ![Slack Community](./img/slack4.png)
-
----
 
 ## Make slack fun
 
