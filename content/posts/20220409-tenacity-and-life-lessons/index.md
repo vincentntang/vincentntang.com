@@ -17,7 +17,7 @@ My closest friends gave support and love all around. Friends that weren't famili
 
 And then there were the ones that just wanted me to fail, telling me the idea was dumb and it should just burn to the ground.
 
-Those negative opinions struck me hard. I almost didn't start Tampa Devs because of it. Here is that conversation thread that I lost sleep over:
+Those negative opinions struck me hard. I almost didn't start [Tampa Devs](https://tampadevs.com) because of it. Here is that conversation thread that I lost sleep over:
 
 ![Life Lessons](./img/lifelessons1.png)
 
