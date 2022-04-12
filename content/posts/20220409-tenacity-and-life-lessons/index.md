@@ -48,7 +48,7 @@ I was in senior year to a degree I didn't care about (Material Science Engineeri
 
 ![Life Lessons](./img/lifelessons2.png)
 
-I have always had a love for video games. This video game called Guild Wars 2 came out around then. I have always had this passion for teaching, so I started a youtube channel.
+I have always had a love for video games. This video game called [Guild Wars 2](https://www.guildwars2.com/en/) came out around then. I have always had this passion for teaching, so I started a youtube channel.
 
 Before I knew it, I became one of the most famous players in the game. I had 5000 subscribers at one point, and random people would recognize me in game. I wrote a video game guide that was translated in multiple languages by fans and read by several hundred thousands of users. If your curious, you can check out the [youtube here](https://www.youtube.com/user/daphoenix555) and the guide [here](https://forum-en.gw2archive.eu/forum/professions/elementalist/Guide-Mastering-the-D-D-ele-7-15-13/page/20)
 
