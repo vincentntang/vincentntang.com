@@ -32,9 +32,11 @@ To give a high level summary of what went on:
 
 It didn't occur to me until later that I wanted to start a community to avoid people like this. I didn't experience anything like this in [Orlando Devs](https://orlandodevs), everyone had been so supportive in my career to help me where I am today
 
-These comments didn't stop me from building Tampa Devs. I learned a hard earned lesson 10 years ago, that I applied here to give me the resolve to move forward:
+These comments didn't stop me from building Tampa Devs. I learned a hard earned lesson 10 years ago, that I applied here to give me the resolve to move forward
 
 **For X number of people that hold an opinion on you, 33% will support you, 33% don't care, and 33% will dislike you. 1% of the opinions may change you**
+
+_I use quantative numbers here but the point here is these numbers are going to fluctuate, the point is there's a % of people that will support you, are indifferent, dislike, and possibly change you_
 
 I will get into the 1% bit later. For the other values, the concept is there will always be people that support you, don't care, or hate you. It doesn't matter who you are. You never can win everyone's opinion. 
 
