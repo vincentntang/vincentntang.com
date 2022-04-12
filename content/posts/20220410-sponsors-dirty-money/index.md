@@ -47,7 +47,7 @@ David starts getting down to business. One lesson I've learned through reading [
 
 Think NFT videos/images, but it's owned by megacorps, and the rights to view them are paywalled. Imagine a world in which you can only play 5 youtube videos a day at most before you need to pay an additional $X money to watch 20 more videos.
 
-They had all the legal means to push this w3 spec on the web, the investors and large corporations ready to give the greenlight too. This might one day actually happen a decade from now, and it'll be a scary future for the free web
+They had all the legal means to push this w3 spec on the web, the investors and large corporations ready to give the greenlight too. This might one day actually happen a decade or so from now, and it'll be a scary future for the free web
 
 That's what they propositioned. They needed frontend developers specifically, to help spearhead a community initiative for this. And what they propositioned was this: "Vincent, we'll give you money but in exchange you help promote our product with your community"
 
