@@ -1,9 +1,13 @@
 ---
-title: Event hosting - do not always ask for permission
-published: false
-description: 
-tags: 
-//cover_image: https://direct_url_to_image.jpg
+date: 2022-04-14
+title: 'Event hosting - do not always ask for permission'
+template: post
+thumbnail: '../../thumbnails/tampadevs.png'
+slug: event-hosting-permission
+categories:
+  - Community
+tags:
+  - TampaDevs
 ---
 
 When I moved to Tampa, I threw my first house warming party. We had 30 people in my tiny 550 sq foot apartment, and it was so loud that everyone resorted to yelling at each other to be heard
