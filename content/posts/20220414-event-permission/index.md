@@ -89,3 +89,4 @@ That being said, we DO ask for permission to host tech speaking / learning event
 
 When you host events, consider not always asking for permission. It depends on the situation. Preknowledge carries liability.
 
+If you do ask for permission, ask it as an anonymous organizer first to vet out your options.
