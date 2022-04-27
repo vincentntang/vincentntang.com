@@ -2,7 +2,7 @@
 date: 2022-02-17
 title: 'How I lost 3% body fat in a month with no muscle loss'
 template: post
-thumbnail: '../../thumbnails/writing.png'
+thumbnail: '../../thumbnails/gym.png'
 slug: lost-fat-no-muscle
 categories:
   - Personal
