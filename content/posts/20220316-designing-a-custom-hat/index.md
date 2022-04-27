@@ -213,14 +213,39 @@ For (3), I did some A/B prototyping by printing off the paper mockup, and slappi
 
 ![custom hat](./img/custom_hat_17.jpg)
 
-## Summary
+They later also sent a follow up side embroidery patch proof:
 
-Some context on my background, and why I approached designing the hat the way I did...
+![custom hat](./img/patch_proof.jpg)
 
-I borrowed most of the ideas I learned from an industrial engineering class on [IDEO](https://www.ideo.com/) philosophies during University
+and the 3D PVC Patches as well once they were printed at a 3rd party vendor
 
-Previously I was a plastics engineer so I was semi familiar with the manufacturing process, so I thought first what was physically producible first and asked questions around that to the hat designer
+![custom hat](./img/patch_proof2.jpg)
 
-When I worked as a kitchen designer, I learned late mistakes are expensive, design choices early are cheap
+## The final product
 
-After I receive the hat, I will update this post with a picture of it down below
+Here's the final product. It came out about 2 months after I ordered the cap. I really like how it turned out!
+Highly recommend the vendor I got it from, [custom patch hats](https://custompatchhats.com/).
+
+Full on view:
+
+![custom hat](./img/custom_cap_1.jpg)
+
+Close up shot of embroidery. You can see the 3D layers here, the thickest part of the 2D level design occurs in the bigger white/red areas. It has a emboss feel to it that feels really nice
+
+![custom hat](./img/custom_cap_2.jpg)
+
+The underside of the hat didn't have anything remarkable. I didn't know the bottom would be green, but I like the christmas color decor style though.
+
+![custom hat](./img/custom_cap_3.jpg)
+
+Here's how it looks wearing it normally. I will say the hat is kinda big though, but I have a big head so it's okay
+
+![custom hat](./img/custom_cap_4.jpg)
+
+And what it looks like wearing it backwards, should you go for a more urban look. The side embroidery has a crisp look to it at 0.45"H on the text
+
+![custom hat](./img/custom_cap_5.jpg)
+
+One unexpected thing about the hat is how stiff it is. The bottom of the diamond outline for the logo is stitched against the part where the forehead meets the hat.
+
+That area in particular was uncomfortable for the first few days of wearing the hat. After awhile, it sets in and doesn't feel so bad
