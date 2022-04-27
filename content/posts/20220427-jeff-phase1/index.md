@@ -12,10 +12,11 @@ tags:
 
 ![workout](./img/power1.jpg)
 
-Here's my review on Jeff Nippards Powerbuilding Phase 1 review.
-I started this program in December of 2021, and ended it at the end of March 2022.
+Here's my review on [Jeff Nippards Powerbuilding Phase 1 review](https://shop.jeffnippard.com/product/the-powerbuilding-system/)
 
-Jeff's powerbuilding phase 1 has a 50/50 concentration on hypertrophy and strength training, and I did this program entirely on a cut. I did the 4x/week program and saw really good results. Before I was running the reddit's metadallica PPLPPL program, and didn't seem to get to where I wanted
+I started this program in December of 2021, and ended it at the end of March 2022. I did this entirely on a cut.
+
+Jeff's powerbuilding phase 1 has a 50/50 concentration on hypertrophy and strength training. I did the 4x/week program and saw really good results. Before I was running the reddit's metadallica PPLPPL program, and didn't seem to get to where I wanted
 
 Here's the results I made following this Jeff's program:
 
@@ -59,7 +60,7 @@ I think Jeff Nippards phase 1 is super solid. It focuses alot on lower body work
 
 Jeff Nippards program includes a spreadsheet to track how every workout goes. 
 
-It's the most indepth spreadsheet I've seen so far. I've looked at Wendler's 5/3/1 program, and I used to use Reddit's Metadallic PPLPPL program. What I like about this program is it incorporates 1 week of full body exercises, and the week after is a upper/lower body split. It adds enough variation to keep things interesting.
+It's the most indepth spreadsheet I've seen so far. I've looked at [Wendler's 5/3/1 program](https://www.lift.net/workout-routines/wendler-5-3-1/) and many more, and I used to use [Reddit's Metadallic PPLPPL program](https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/?utm_source=reddit&utm_medium=usertext&utm_name=Fitness&utm_content=t3_7volnx). What I like about this program is it incorporates 1 week of full body exercises, and the week after is a upper/lower body split. It adds enough variation to keep things interesting.
 
 I had originally used to track down workout plans by something like this:
 
