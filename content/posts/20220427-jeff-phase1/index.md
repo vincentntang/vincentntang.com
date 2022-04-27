@@ -86,7 +86,7 @@ What I also really like about this program is this. It tells you
 
 ## Cons of phase 1
 
-This program isn't perfect by any means. Workouts tend to be kind of long at maybe 2 hours at a time too, because of long rest periods are. I usually do all the warmup sets at a given time to save time.
+This program isn't perfect by any means. Workouts tend to be kind of long at maybe 2 hours at a time too, because of long rest periods are. I usually do all the warmup sets with shorter rest breaks to save time.
 
 Also there were some lacking exercises in his phase 1 program I noticed
 
