@@ -121,7 +121,7 @@ I'm currently on a bulk. I'm aiming for 2800-3000 calories a day.
 
 Here's what's working for me, and all the take aways I got from doing these analysis:
 
-Cut
+Cut Phase (maintain muscle, lose fat)
 - Eat more veggies. 
 - Eat an RxBar right before a workout.
 - Eat a 250 calorie meal before about half an hour before a workout
@@ -129,11 +129,12 @@ Cut
 - Fast during the morning
 - Take extra rest recovery days. Cut means slower recovery time
 - Hit high strength lift values at low reps. This keeps muscle
+- You can drop fat pretty quickly while keeping muscle mass. I lost 5 lbs a month give or take of mostly fat. It depends on your current BF though
 
-Recomposition phase:
-- It's not super effective
+Recomposition phase: (lose fat, gain muscle)
+- It's not super effective, easy to mess up
 - Do this for about 1 - 3 weeks between a cut and bulk, to slowly transition dietary changes.
 
-Bulking Phase
+Bulking Phase (gain muscle, lose fat)
 - It's too early to say. But so far it's just been eating more, and doing higher volume work
 - Eat more often, and less satieting foods. Probably need to remove casein protein here. I feel full all the time. 
