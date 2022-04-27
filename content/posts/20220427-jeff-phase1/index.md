@@ -130,6 +130,7 @@ Cut Phase (maintain muscle, lose fat)
 - Take extra rest recovery days. Cut means slower recovery time
 - Hit high strength lift values at low reps. This keeps muscle
 - You can drop fat pretty quickly while keeping muscle mass. I lost 5 lbs a month give or take of mostly fat. It depends on your current BF though
+- 8 to 12 weeks cutting seems to be the sweet spot. I started tapering off due to wanting to eat more, add refeed days every so often
 
 Recomposition phase: (lose fat, gain muscle)
 - It's not super effective, easy to mess up
@@ -137,4 +138,5 @@ Recomposition phase: (lose fat, gain muscle)
 
 Bulking Phase (gain muscle, lose fat)
 - It's too early to say. But so far it's just been eating more, and doing higher volume work
+- I recover way faster
 - Eat more often, and less satieting foods. Probably need to remove casein protein here. I feel full all the time. 
