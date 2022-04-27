@@ -236,7 +236,7 @@ Close up shot of embroidery. You can see the 3D layers here, the thickest part o
 
 The underside of the hat didn't have anything remarkable. I didn't know the bottom would be green, but I like the christmas color decor style though.
 
-![custom hat](./img/custom_cap_3.jpg)
+![custom hat](./img/custom_cap_3a.png)
 
 Here's how it looks wearing it normally. I will say the hat is kinda big though, but I have a big head so it's okay
 
