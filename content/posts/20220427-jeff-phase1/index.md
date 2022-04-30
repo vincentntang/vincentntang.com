@@ -122,7 +122,7 @@ I'm currently on a bulk. I'm aiming for 2800-3000 calories a day.
 Here's what's working for me, and all the take aways I got from doing these analysis:
 
 Cut Phase (maintain muscle, lose fat)
-- Eat more veggies. 
+- Eat more veggies and satieting foods such as casein protein
 - Eat an RxBar right before a workout.
 - Eat a 250 calorie meal before about half an hour before a workout
 - Workout later in the day
@@ -139,4 +139,4 @@ Recomposition phase: (lose fat, gain muscle)
 Bulking Phase (gain muscle, lose fat)
 - It's too early to say. But so far it's just been eating more, and doing higher volume work
 - I recover way faster
-- Eat more often, and less satieting foods. Probably need to remove casein protein here. I feel full all the time. 
+- Eat more often, and less satieting foods (casein protein). Probably need to remove casein protein here. I feel full all the time.
