@@ -79,7 +79,7 @@ There's more to this story, I wrote about why I started Tampa Devs [here](https:
 
 Amongst other things, I also became more of a mentor to local developers in town. I wrote a blog post about how [dating relates to applying to jobs](https://www.vincentntang.com/applying-to-jobs-is-like-dating/), a conversation that stemmed through mentoring
 
-## I briefly became a Lead Dev
+## I became a Lead Dev
 
 And learned that I'd rather just be an individual contributor (for now). I have massive respect for people who take on leadership roles having been in some myself. It's not easy to do, and it's stressful. I found myself in meetings all the time, having to set expectations and delegate more than I actually coded.
 
