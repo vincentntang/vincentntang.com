@@ -69,7 +69,7 @@ _greenlight_
 
 ## Moving to greener pastures
 
-Eventually we found our first solid sponsor, [Relia Quest](https://reliaquest.com). I met through just cold messaging on linkedin, and we met through a zoom call. They've been absolutely phenomenal! We've hosted 3-4 events, and they are sponsoring an all paid for bowling event for up to 100 people next month.
+Eventually we found our first solid sponsor, Relia Quest, I met through just cold messaging on linkedin, and we met through a zoom call. They've been absolutely phenomenal! We've hosted 3-4 events, and they are sponsoring an all paid for bowling event for up to 100 people next month.
 
 Now I'm learning how to host a hackathon for [TADHacks](https://tadhack.com/2022/) through one of my good hackathon organizing friends. It had a prize pool of $20k, but I still need a venue to support it.
 
