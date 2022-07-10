@@ -69,4 +69,10 @@ From here you can select some of the smart sky backgrounds, I added this effect 
  
 The feature to export is paywalled for some of the previews, so I used an app called [xrecorder](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder&hl=en_US&gl=US) which also lets you record everything on your screen
 
-Afterward, we cropped this out using [youcut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer&hl=en_US&gl=US) and finalized the export
+Afterward, we cropped this out using [youcut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer&hl=en_US&gl=US) 
+
+Here's what the crop looks like:
+
+![](./img/speakerad7.jpeg)
+
+This is then ready to be imported over to an instagram post, etc 
