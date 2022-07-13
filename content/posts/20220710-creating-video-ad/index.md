@@ -5,9 +5,9 @@ template: post
 thumbnail: '../../thumbnails/tampadevs.png'
 slug: animated-speaker-ad
 categories:
-  - Personal
+  - Community
 tags:
-  - 
+  - TampaDevs
 ---
 
 We created this infographic ad here for [Tampa Devs](https://tampadevs.com) for use across Instagram, LinkedIn, and Twitter to advertise our upcoming tech talk.

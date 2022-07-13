@@ -5,9 +5,9 @@ template: post
 thumbnail: '../../thumbnails/tampadevs.png'
 slug: nonprofit-software-meetup
 categories:
-  - Personal
+  - Community
 tags:
-  - 
+  - TampaDevs
 ---
 
 ![](./img/nonprofit1.png)
