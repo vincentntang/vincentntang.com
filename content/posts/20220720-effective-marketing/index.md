@@ -35,9 +35,9 @@ This is an effective way to build a large following on LinkedIn without much eff
 
 After you've built a following of say 1000+ people in your area, you can create events to repeatedly invite all of these people again! With little to no effort. Here's how:
 
-First, set up the event and hit invite
+First, set up the event and use the invite feature
 
-![](./img/market1.png)
+<!-- ![](./img/market1.png) -->
 
 After, filter by who you want to invite in your local area. I live in Tampa, but Clearwater, St Pete, and Brandon are all considered "Tampa Area" though. So I include that in the list. I also put "Florida" just to be safe too, these are all locations that are set by individual users on LinkedIn
 
@@ -67,21 +67,23 @@ Usually if you announce the event early (like a month or two in advance), you mi
  
 ## Mass invites on Facebook
 
-Some users (including my co-organizer) may not use meetup but would routinely check facebook for events happening in the area. Here's some stats on the effectiveness of facebook events:
-
-![](./img/market6.png)
+Some users (including my co-organizer) may not use meetup but would routinely check facebook for events happening in the area. 
 
 Once you create the event, hit the invite link here
 
 ![](./img/market7.png)
 
-You can then create a pre-selection list of attendees. I just add any facebook friends in the area, and then send all. It's pretty low effort but it is a little bit spammy, so I only do it once a month. Facebook does add some spam features against this, so YMMV. I sometimes will just select a few people from a pre-list of people I make, and send the invite in 2-3 chunks to get past this 
+You can then create a pre-selection list of attendees. I just add any facebook friends in the area, and then send all. It's pretty low effort but it is a little bit spammy, so I only do it once a month. Facebook does add some spam features against this, so YMMV. I sometimes will just select a few people from a pre-list of people I make, and send the invite in 2-3 chunks to get past this. This usually works
 
 ![](./img/market8.png)
 
 Facebook is effective for people who don't want to check meetup.com and normally attend events after finding about it through facebook.
 
 Related story, one of my co-organizers doesn't even know about our events until we put it on facebook 🤦‍♂️ 
+
+Here's some stats on the effectiveness of facebook events:
+
+![](./img/market6.png)
 
 ## Instagram Posts / Stories
 
