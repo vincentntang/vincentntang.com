@@ -133,3 +133,4 @@ The ones that do not create a lot of outreach are these:
 - EventBrite
 
 I didn't include Snapchat or TikTok which may be effective at younger demographics like college students, but software events are not interesting enough to create a 15 second video for general viewing
+We also don't use any tools like Buffer or Instagram Pro for social media automation.
