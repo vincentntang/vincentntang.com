@@ -1,5 +1,4 @@
-
---
+---
 date: 2022-07-20
 title: 'Best marketing strategies for a software meetup'
 template: post
