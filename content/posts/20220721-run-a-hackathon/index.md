@@ -28,7 +28,7 @@ I ask this because running hackathons have a high chance for failure, and are ex
 
 It happens for a number of reasons - there could be a concert in town that you don't know about that everyone attends. Or a championship game for your local hockey league that all your attendees watch (this happened to us at tampa devs)
 
-Hackathons are like conferences. You have to advertise them far in advance if you want it to succeed. YoEven then it boils down to luck, weekends are usually when they are hosted and they can be unpredictable. You also need to have a substantial following already, to help do net promotion
+Hackathons are like conferences. You have to advertise them far in advance if you want it to succeed. Even then it boils down to luck, weekends are usually when they are hosted and they can be unpredictable. You also need to have a substantial following already, to help do net promotion
 
 There are a few types of hackathons you can host though. Depending on the type you host, YMMV in terms of work needed to run it. I would say there's two core types:
 
