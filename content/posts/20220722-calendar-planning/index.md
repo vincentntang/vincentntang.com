@@ -16,9 +16,7 @@ Hosting a software meetup is a lot of work. You have to manage a board, meet wit
 
 There's also social media content to post to advertise and market future events. And, as an event host you need to also capture marketing material as well to post. You'll also need to manage off days to prevent burn out, amongst other things.
 
-The unfortunately reality is even though I have a member board, I still end up doing 90% of the work since we're run by volunteers. I've talked to a number of event organizers as well, and this tends to be the norm. 
-
-We have members that do want to help, but at the end of the day you're expected to set all the ground rules, management, and expectations. Most members just want to do the "fun work" and not 90% of the grueling everyday work that keeps things afloat
+We have members that do want to help, but you're still expected to set all the ground rules, management, and expectations. Everyone loves doing the fun work (e.g. being the master of ceremonies), but the boring work makes up 90% of what keeps things afloat
 
 So with this guide I will tell you how I manage all the work I need to do for [Tampa Devs](https://tampadevs.com) on my calendar, without burning myself out. And doing it in the most time-effective way possible
 
@@ -60,7 +58,7 @@ I would recommend having a speaking engagement at bare minimal, once every other
 
 So now the other event type is a networking event. These are low-effort events where there is no agenda, and it's just for members to meet each other.
 
-I usually collaborate with other 20s and 30s meetup groups in town to "make things seem bigger than they are" and to do guerilla marketing on other groups in town. 
+I usually collaborate with other 20s and 30s meetup groups in town to get higher turnouts and market to other groups in town. 
 
 You just have to pick a date, a time, and a location - ideally at an open venue like a foodcourt or hangout area with many restaurants nearby
 
@@ -164,7 +162,7 @@ I choose Wednesdays to host and Tuesdays/Thursdays to do most of my event member
 
 ## Summary
 
-The hardest lesson I've learned while running Tampa Devs is how to do it consistently without burning myself out. It's easy to host one event, but hosting over a dozen in a year is gruesome and people often don't realize the burden it takes on you. 
+The hardest lesson I've learned while running Tampa Devs is how to do it consistently without burning myself out. It's easy to host one event, but hosting over a dozen in a year takes a toll on you
 
 I plan things out about 3-6 months in advance. Getting a venue, a sponsor, a speaker takes time and energy as well to communicate back and forth. I wrote a blog post about [retaining talent by creating ownership](https://www.vincentntang.com/retaining-talent-by-creating-ownership/), and the core principle is transparency.
 
