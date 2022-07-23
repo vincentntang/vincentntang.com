@@ -89,11 +89,11 @@ Here's some stats on the effectiveness of facebook events:
 
 We do a featured speaker ad before an event for younger demographics. This is mostly tailored to people in their 20s/30s and students at local schools and Universities that we follow
 
-It has about a 10-20% impression rate on followers (we have 800 followers, our last view count was 168 views). We do this approximately a week in advance, so we can also post the event synposis a week later. It's mostly to follow a posting cadence of 1-4 posts a month
+It has about a 10-20% impression rate on followers (we have 800 followers, our last view count was 168 views). We do this approximately a week in advance, so we can also post the event synposis a week later. It's mostly to follow a posting cadence of 1-4 posts a month. You can read more about the blog post on [calendar planning](https://www.vincentntang.com/calendar-planning-software-meetup/)
 
 ![](./img/market9.png)
 
-I wrote a guide on how to create an animated speaker ad [here](https://www.vincentntang.com/animated-speaker-ad/), if you'd like to learn how to create the above infographic
+Also I wrote a guide on how to create an animated speaker ad [here](https://www.vincentntang.com/animated-speaker-ad/), if you'd like to learn how to create the above infographic
 
 About 1-3 days before an event, we'll also post an instagram story. It also has about a 10-20% impression rate for us, although YMMV depending on who follows your account. It's usually a screenshot of the meetup event, with a link to the meetup itself:
 
