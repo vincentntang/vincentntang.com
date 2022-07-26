@@ -41,7 +41,7 @@ The answer was no. I was doing this out of good will. I was also shooting the co
 
 So during retro, I recommended a new set of processes. We should have a designated speaker for our stakeholder demos in writing. 
 
-It fell on deaf ears. From management's perspective, it was a non issue. Because I always stepped in, and things always worked out.
+**It fell on deaf ears. From management's perspective, it was a non issue. Because I always stepped in, and things always worked out.**
 
 There came a time when there was a new junior dev on the team. His name was assigned on that ticket, but I still helped him through that feature.
 
@@ -65,7 +65,7 @@ And then we had designated speakers for future demos, but this time on managemen
 
 In turn this made all of our future demos even better.
 
-Sometimes you have to let others fail to teach a hard lesson, don't always step in. I call it tough love
+**Sometimes you have to let others fail to teach a hard lesson, don't always step in. I call it tough love**
 
 ## On Tampa Devs
 
