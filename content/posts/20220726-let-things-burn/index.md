@@ -43,7 +43,7 @@ So during retro, I recommended a new set of processes. We should have a designat
 
 It fell on deaf ears. From management's perspective, it was a non issue. Because I always stepped in, and things always worked out.
 
-There came a time when there was a new junior dev on the team. His name was assigned on that ticket, but I still helped him through  that feature.
+There came a time when there was a new junior dev on the team. His name was assigned on that ticket, but I still helped him through that feature.
 
 At our pre-demo the day before, he demo'd the feature. It was verbally agreed he would also do it for our main stakeholder demo
 
