@@ -29,7 +29,7 @@ I rose up to the occasion and presented almost every demo to the stakeholder, as
 
 Then that project finished. I went to work under a different team. But I still continued that habit of stepping in
 
-Sometimes the junior dev on the team didn't know how to solve a coding issue, so I'd just write it for them. Sometimes management would forget to onboard new team members, so I'd remind them. Sometimes I'd fix things that had nothing to do with my role
+Sometimes the junior dev on the team didn't know how to solve a coding issue, so I'd just write it for them. Sometimes management would forget to onboard new team members, so I'd remind them. Sometimes I'd fix things that had nothing to do with my role.
 
 Things became more stressful than it had to be. I had a conversation with a friend about it, and he told me this:
 
@@ -81,4 +81,6 @@ And sure enough the meeting spot changed slightly. It actually went to a more op
 
 This is just a small example that I've applied to Tampa Devs. But there's more to come later. Ultimately I want to groom successors to it, so this is one of many means to get there. I will write about the other methods another time
 
-Sometimes you have to let go and just let things burn. Hardships creating learning opportunities for people to grow
+Sometimes you have to let go and just let things burn. 
+
+Hardships creating learning opportunities for people to grow
