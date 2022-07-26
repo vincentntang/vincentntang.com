@@ -23,8 +23,6 @@ I will tell you why, with how I learned this, and how I applied it to running [t
 
 ## Accountability vs Responsibility
 
-![](./img/burn2.png) 
-
 At a team I worked at, we built a SaaS product for a client. Every two weeks, we present updates to the client and it's stakeholders
 
 I rose up to the occasion and presented almost every demo to the stakeholder, as I was the lead for that project
@@ -38,6 +36,8 @@ Things became more stressful than it had to be. I had a conversation with a frie
 **"Are you accountable for the work that you are stepping in to do?"**
 
 The answer was no. I was doing this out of good will. I was also shooting the company's processes in the foot, by being the single point of failure at the same time.
+
+![](./img/burn2.png) 
 
 So during retro, I recommended a new set of processes. We should have a designated speaker for our stakeholder demos in writing. 
 
