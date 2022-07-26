@@ -59,6 +59,8 @@ So I **let things burn**
 
 It took every fiber in me to not step in and save the day. I like helping people, so it killed me a bit on the inside to do this.
 
+![](./img/burn4.png) 
+
 The demo was super embarassing. Morale on our team got shot through the door, management was not happy. 
 
 And then we had designated speakers for future demos, but this time on management's initiative. Just as I suggested a few weeks back
