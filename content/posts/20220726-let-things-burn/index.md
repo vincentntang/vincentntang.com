@@ -71,7 +71,7 @@ In turn this made all of our future demos even better.
 
 ## On Tampa Devs
 
-I apply this same principle at Tampa Devs. On our last networking event, I intentionally showed up late by 2 hours
+I apply this same principle at [Tampa Devs](https://tampadevs.com). On our last networking event, I intentionally showed up late by 2 hours
 
 I wanted to see if the event would self-organize on it's own. We had hosted at this same venue before, so people knew the drill.
 
