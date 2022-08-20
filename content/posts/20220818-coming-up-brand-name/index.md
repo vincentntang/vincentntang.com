@@ -27,7 +27,6 @@ The name was perfect - it was 2 syllables long, generic enough to work in every 
 For the logo, I took a bunch of random images online that I think could work. I was thinking of a car crew in formula 1 racing, and making an analogy to developers working together in tech. I would then send this off to my designer to conceptualize, and use the business case above to describe the vision
 
 ![](./img/brand2.png)
-
 _some images are a bit questionable..._
 
 I gave it a few more days to think about. I didn't need to make a decision right away. To take my mind off of things, I went running near my apartment complex.
