@@ -10,9 +10,9 @@ tags:
   - TampaDevs
 ---
 
-When I first set out to build Tampa Devs, I wanted to do it right the first time and scale it upwards
+Brand names are what define an organization or entity. 
 
-Scaling long term meant getting branding right. Getting branding right meant having a sexy logo that people remember. And before that a solid brand name to use that logo with
+Getting it right the first time makes it easy for everything else to fall in place, from logo design, getting a domain name, etc
 
 Here is the thought process behind designing the brand name for Tampa Devs
 
