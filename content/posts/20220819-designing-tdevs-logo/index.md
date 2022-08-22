@@ -150,7 +150,9 @@ The final design ultimately was the one Jacques created.
 
 ![](./img/logo17.png)
 
-I'm a bit biased but I think this logo is nearly perfect. It contains multiple sub themes that are both relatable and friendly to someone that is young, eager to learn, nerdy, in tech, and likes to have fun. E.g. it looks kind of like a pokeball from pokemon
+I'm a bit biased but I think this logo is nearly perfect. It contains multiple sub themes that are both relatable and friendly to someone that is young, eager to learn, nerdy, in tech, and likes to have fun. The headphones and bandana also leans more towards the abstract look of a hipster developer. The `>` is representative of a terminal, and an eye-patch adds a little bit of badass-ness that you'd proudly wear on a T-Shirt
+
+It also looks kind of like a pokeball from pokemon
 
 ![](./img/logo18.png)
 
