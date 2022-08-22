@@ -58,7 +58,7 @@ A few days later, I got back the first revisions to the logo. Our designer came 
 
 ![](./img/logo3.png)
  
-Pages 1 and 2 were based on the face icon of the Orlando Devs logo. They were pretty good starts, page 4 looked too much like a pirate baby though, but I liked the idea of a `<>` coding theme on a hat
+Pages 1 and 2 were based on the face icon of the Orlando Devs logo. They were pretty good starts, page 1 was a bit too happy, page 2 looked too much like a pirate baby though, but I liked the idea of a `<>` coding theme on a hat
 
 Page 3 was too flat, too generic with too many details going on. I liked the idea of a sword and a flag combined to make the pirate theme, but it didn't really sell the coding idea so much.
 
