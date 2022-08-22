@@ -154,11 +154,11 @@ I'm a bit biased but I think this logo is nearly perfect. It contains multiple s
 
 ![](./img/logo18.png)
 
-If you slice the logo, it's follows some of the geometric principles of design like in the Twitter for instance.
+If you slice the logo, it's follows some of the geometric principles of design like in the Twitter logo for instance.
 
 ![](./img/logo19.png)
  
-The logo also is a bit similar to a fun-playful vibe that you see in ninja restaurant logos
+The logo also is a bit similar to a fun-playful vibe that you see in ninja restaurant logos, which fits the vibe of the group
 
 ![](./img/logo20.png)
 
