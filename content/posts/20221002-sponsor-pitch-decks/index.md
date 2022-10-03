@@ -66,8 +66,8 @@ These are the only types of slides you need for your pitch deck. Anything else j
 
 ## Creating a TLDR intro story flow
 
-<!-- ![](./img/sponsor4.jpeg) -->
-<img class="max-image-small" src="/img/sponsor4.jpeg"/>
+![](./img/sponsor4_400x.png)
+<!-- <img class="max-image-small" src="/img/sponsor4.jpeg"/> -->
 
 A story flow indicates how a story should move. It's based primarily around the questions that the potential sponsor has. Namely, the first thing a sponsor wants to know is who is presenting, and what is the organization name. You should assume the person you are speaking to is in alot of business meetings, so a refresher is always nice to have
 
@@ -104,8 +104,8 @@ We continue going down the quantitative stats trail in slide 6, to show we do qu
 
 ## Create the historical background of the org
 
-<img class="max-image-small" src="/img/sponsor10.jpeg"/>
-<!-- ![](./img/sponsor10.jpeg) -->
+<!-- <img class="max-image-small" src="/img/sponsor10.jpeg"/> -->
+![](./img/sponsor10_400x.png)
 
 At this point, the potential sponsor should have some idea on what our organization does. They should have some idea already on how we can create a win-win sponsorship package too. They should have some level of confidence moving forward that every slide after is worth listening too.
 
@@ -133,8 +133,8 @@ And also by tech talks (+ how they work as well for an event schedule). The even
 
 ## Softening the hard sales pitch
 
-<!-- ![](./img/sponsor16.jpeg) -->
-<img class="max-image-small" src="/img/sponsor16.jpeg"/>
+![](./img/sponsor16_400x.png)
+<!-- <img class="max-image-small" src="/img/sponsor16.jpeg"/> -->
 
 
 Now that we've covered things from the top, and from the bottom, it's time to soften up the sponsor to the actual pricing pitch
