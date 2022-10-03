@@ -80,7 +80,10 @@ Once the introductions are out of the way, the best thing to do is to use a sizz
 
 Here is our third slide:
 
-<iframe width="1440" height="900" src="https://www.youtube.com/embed/4Su50PRr-xk" title="Tampa Devs Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+<iframe width="700" height="500" src="https://www.youtube.com/embed/4Su50PRr-xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 A picture is worth a thousand words, and a video is so much more. Within the first 2 minutes of our pitch, we have the attention of our sponsor and create a sense of excitement before detailing further our mission and goal statements
 
