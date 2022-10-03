@@ -115,13 +115,13 @@ So this is slide 7:
 
 Tampa Devs started originally as a group of tech friends who met through dancing. I tell them this, and it's usually something that makes them go "huh, interesting". It's part of the story and charm that people associate with in Tampa Devs
 
-For our next slides, we start layering the foundation of our org. They provide context on how we cater towards the mission statements in the first few slides of the pitch. We do this by hosting networking events:
+For our next slides, we start layering the foundation of our org. They provide context on how we cater towards the mission statements in the first few slides of the pitch. We do this by hosting networking events, mixers for startup entreprenuers, developers, and people in their 20s/30s that may have recently transplanted to Tampa and it's surrounding area:
 
 ![](./img/sponsor12.jpeg)
 
 ![](./img/sponsor13.jpeg)
 
-And also by tech talks (+ how they work as well for an event schedule)
+And also by tech talks (+ how they work as well for an event schedule). The event schedule gives them some idea in where we insert sponsors during our tech talks as well. It also provides a frame of reference of what attracts developers to Tampa Devs too
 
 
 ![](./img/sponsor14.jpeg)
