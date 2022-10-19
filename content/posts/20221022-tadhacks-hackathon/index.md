@@ -10,7 +10,9 @@ tags:
   - TampaDevs
 ---
 
-After 6 months of planning we did it!! We hosted our very first hackathon with TampaDevs!
+![](./img/tadhack_winner_banner_tampa.jpg)
+
+After 6 months of planning we did it!! We hosted our very first hackathon with [TampaDevs](https://tampadevs.com)! Read the summary of the event [here](https://www.tampadevs.com/blog/2022/20221016-tadhacks-tampa-winners/)
 
 I remember what it was like trying to get my first tech job. Recruiters would tell me "Sorry you don't have any work experience, we can't hire you" but I couldn't get job experience without a job 🤔
 
