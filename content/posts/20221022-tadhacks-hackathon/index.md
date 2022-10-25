@@ -51,6 +51,7 @@ PR Learnings
 
 - Getting news coverage is hard. We reached out to 10 different news channel with press media pitches over the span of 6 months. Not one of them republished our hackathon surprisingly, I don't think Tampa is ready yet as a tech city to understand what a hackathon is, at least on the PR side. We're basically facing the same problems as AirBnB when they first started (pioneering an idea)
 - You can pay a company like Cision to syndicate your pitch media to news sources
+- Be prepared for all your cold emails to be ignored and never opened by any public emails listed on University websites, no matter how catchy the subject title is
 
 Technical Learnings
 
@@ -58,11 +59,14 @@ Technical Learnings
 - Youtube bulk video editing is not user friendly
 - Capture Cards are amazing for live streaming, it's plug and play with OBS
 - Record-ception. My DSLR was locally recording to a laptop that was locally recording that was connected to a live stream recording on another server. Talk about complicated setups...
+- Wifi can get seriously congested during presentation time on Sunday
+- Bring lots of extra power cord extension packs
 
 Venue Logistics Learnings
 
 - Hackathons are expensive. We paid $1,5000 for the venue, $1,000 for videography work, and at least $500 per meal session, and $1,250 for prizes. So it comes out to about $5,000 to host a legitimate hackathon, it's about the same work as hosting a conference
-- Hosting a well known University is ALOT of red tape. They don't let other students/professionals outside their Uni attend
+- Hosting at a well known University is ALOT of red tape. They don't let other students/professionals outside their Uni attend
+- Always get things in writing and have backups. Our 3rd venue was the one that pulled through
 
 People Logistics
 
@@ -72,11 +76,14 @@ People Logistics
 - Hackathoners can be hardcore, one dude brought a triple monitor setup for his laptop
 - Don't forget about accessibility. We had a deaf attendee and didn't have a way to really help him...
 
+Sponsor Logistics
+
+- 2 of 3 of our telecomm sponsors didn't even provide a way to contact them for the attendees... and this is for a global event. Don't expect them to be prepared....
+
 Volunteer Logistics
 
 - Volunteers are awesome, we had them make little trinkets for everyone at the event (yay free slave labor, jk)
 - Judges can be super harsh. People get on power trips really easily. One of our judges wanted to score a project with a score of 0... ouch
-
 
 Money Logistics
 
@@ -85,7 +92,7 @@ Money Logistics
 
 Marketing Logistics
 
-- Banners come in alot of flavors and sizes, you can get them with grommets, stands, and so many other things
+- Banners come in alot of flavors and sizes, you can get them with grommets, stands, and so many other things 
 
 Food Logistics
 
