@@ -69,6 +69,8 @@ People Logistics
 - Someone shilled their startup at our hackathon pitches. None of us had time to validate or catch it
 - Everyone wants you to help them. Go lock yourself in a room and make yourself less available else you won't ever get anything done on time
 - Our photographer got robbed. Someone came in with the intent of robbing something, never leave your gear unattended!
+- Hackathoners can be hardcore, one dude brought a triple monitor setup for his laptop
+- Don't forget about accessibility. We had a deaf attendee and didn't have a way to really help him...
 
 Volunteer Logistics
 
