@@ -1,6 +1,6 @@
 ---
 date: 2022-10-26
-title: 'Does your brand name work? - Explain it over the phone'
+title: 'Test your brand name over the phone'
 template: post
 thumbnail: '../../thumbnails/tampadevs.png'
 slug: explain-brand-over-the-phone
