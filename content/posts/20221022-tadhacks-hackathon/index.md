@@ -99,3 +99,9 @@ Food Logistics
 - Panda express is pretty cheap for paying for food for alot of people. Same with publix.
 - Don't forget about coffee and energy drinks. Even with Red bull there, it wasn't enough caffeine to go around.
 - Krispy Kremes is one of the few places that still serves coffee in boxes
+
+Improvement lists
+
+- Preventing theft, force sign in and async registration checkin. Everyone flooded in at 10 A.M. on the dot
+- More energy drinks
+- More planned mixers for meeting people/projects and better intro slides
