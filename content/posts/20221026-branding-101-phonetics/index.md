@@ -10,7 +10,6 @@ tags:
   - TampaDevs
 ---
 
-
 As we're growing [Tampa Devs](https://tampadevs.com), we're spinning off multiple subbrands. Job boards, news feeds, hackathons, etc are just some of the tools we're building internally
 
 With new brands comes ways of checking if a brand name will be memorable to it's members
