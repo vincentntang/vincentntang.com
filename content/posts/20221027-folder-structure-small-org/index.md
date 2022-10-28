@@ -30,8 +30,8 @@ The **founders folder** is only accessible to the 3 people legally listed under 
 For **executive folder**, we recommend this as a place for any major organizational leaders, past and present, to have access to these files. These include all founders as well. These docs serve as a day-to-day function for hosting events, fundraisers, accounting, ordering, and more. People with access to these folders should be effectively able to run the org without any intervention from past leader support. Here are those files:
 
 - Accounting - any expenditure reports. We track things on a spreadsheet, link to invoice in adjacent column
-- forms_and_data - google forms and their collected data for data analytics, sign ins, etc. Spreadsheets, CRMs, etc
-- Sponsor_decks - any sales pitch decks go here
+- forms-and-data - google forms and their collected data for data analytics, sign ins, etc. Spreadsheets, CRMs, etc
+- Sponsor-decks - any sales pitch decks go here
 - Vendor - vendor documents from third parties. These include COI (Certificate of insurance) from food caterers or videographers
 - Writing-Drafts - these are copypaste templates for newsletter, linkedin correspondance, etc
 
