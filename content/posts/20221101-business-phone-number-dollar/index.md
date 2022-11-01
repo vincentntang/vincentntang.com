@@ -10,13 +10,13 @@ tags:
   - TampaDevs
 ---
 
+![](./img/twilio1.png)
+
 Business phone numbers can be pricy. Just look at google voice, it's $10/user/month. If you run a small business or startup, that's really expensive starting out. Especially if customer service isn't your core business either. Chances are you just need a public phone number to weed out spam calls and list it on google, so people can reach you
 
 So here's a trick on how to get a business phone number for $1/month. Well $1.15/month to be exact at the time of writing this. Here's the secret sauce:
 
 Twilio
-
-![](./img/twilio1.png)
 
 What is Twilio you may ask? Twilio is a company that helps you automate phone calls and text messages. Imagine you run a barber shop, and you have a website where clients can book appointments online. You want to send a text message when a clients book an appointment, and another message the day before the haircut
 
@@ -55,15 +55,15 @@ You can also buy a phone number based off of letters too, as part of the search 
 
  We considered buying "TPA-DEVS" but there weren't any phone numbers local to 813, just one that was available in Jamestown, OH
 
-![](./img/twilio5.png)
+![](./img/twilioA.png)
 
-I suggest instead shopping around for "Brandable" easy to remember phone numbers.
+I suggest instead shopping around for "Brandable" easy to remember phone numbers. Good numbers are ones that roll off your tongue so to speak, such as "4222" which is announced as "Forty Two Twenty Two". They are also easily to visually spot a pattern too, after the 3 digit area code
 
-> Side story: my parents are from Chinese descent. They were super picky about picking my first phone number (and superstitious of certain numbers). I still use that phone number today they picked out 20 years ago. It's super easy to remember, and it's saved me so many conversations of "what was your phone number again"? A good brandable number goes along way
+> Side story: my parents are of Asian descent. They were super picky about picking my first phone number (and superstitious of certain numbers). I still use that phone number today they picked out 20 years ago. It's super easy to remember, and it's saved me so many conversations of "what was your phone number again"? A good brandable number goes along way
 
 We ultimately wrote down a list of eye catchy, easy to remember and easy to say phone numbers. From there, my co-organizer and I picked 813-452-4222 for Tampa Devs
 
-![](./img/twilio6.png)
+<!-- ![](./img/twilio6.png) -->
 
 ## Setup SMS Text forwarding
 
