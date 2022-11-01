@@ -48,12 +48,12 @@ At the top of the page, you can select from a few set of criteria to buy new pho
 
 I suggest playing around with what makes sense for your business. We run [Tampa Devs](https://tampadevs.com), so ideally we wanted a phone number local to the area (813). We picked "First part of number" and 813
 
-You can also buy a phone number based off of letters too, as part of the search criteria.
+You can also buy a phone number based off of letters too, as part of the search criteria. Here's how the alphabet matches up to the numbers 0-9
 
 
 ![](./img/twilio4.png)
 
- We considered buying "TPA-DEVS" but there weren't any phone numbers local to 813, just one that was available in Jamestown, OH
+ We considered buying "TPA-DEVS" but there weren't any phone numbers local to 813, just one that was available in Jamestown, OH. Here's how we ran that search query:
 
 ![](./img/twilioA.png)
 
