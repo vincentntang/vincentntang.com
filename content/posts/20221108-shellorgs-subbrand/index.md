@@ -3,7 +3,7 @@ date: 2022-11-01
 title: 'Sub Branding and Shell Orgs'
 template: post
 thumbnail: '../../thumbnails/tampadevs.png'
-slug: business-phone-number-one-dollar
+slug: sub-branding-shell-orgs
 categories:
   - Community
 tags:
