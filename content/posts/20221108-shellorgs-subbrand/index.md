@@ -37,7 +37,7 @@ Another reason is once a memberbase hits a critical threshold, spinoff groups wi
 
 The last reason is it creates more places for someone to find out about Tampa Devs. Here's an example on the meetup page when you search for "Technology" Meetups:
 
-![](./img/subbrand2.png)
+![](./img/subbranda.png)
 
 > **When you subbrand, the strength of your parent brand is sum total of your subbrand + parent brand.**
 
