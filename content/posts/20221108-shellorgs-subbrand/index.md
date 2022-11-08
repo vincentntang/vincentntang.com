@@ -39,7 +39,7 @@ The last reason is it creates more places for someone to find out about Tampa De
 
 ![](./img/subbranda.png)
 
-> **When you subbrand, the strength of your parent brand is sum total of your subbrand + parent brand.**
+> **When you subbrand, the strength of your parent brand is the sum total of your subbrand + parent brand.**
 
 ## Creating Shell Orgs as Your First Sub Brand
 
