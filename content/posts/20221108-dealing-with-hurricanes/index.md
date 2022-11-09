@@ -3,7 +3,7 @@ date: 2022-11-08
 title: 'Dealing with Hurricanes as an Event Organizer'
 template: post
 thumbnail: '../../thumbnails/tampadevs.png'
-slug: sub-branding-shell-orgs
+slug: dealing-with-hurricanes-event-organizer
 categories:
   - Community
 tags:
