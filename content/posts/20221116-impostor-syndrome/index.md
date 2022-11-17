@@ -39,3 +39,5 @@ I blog about what I learn from people smarter than me. I can see gaps in my know
 **You grow as a person when you learn from someone above you, below you, and at your level continuously**
 
 When you do this, you generally don't think about imposter syndrome. Because you rarely ever become stale - you're always learning. When impostor syndrome does kick in, you just look at all the work you've done and you forget about it until the cycle repeats again
+
+**By learning in public, you are protecting yourself against impostor syndrome in the future**
