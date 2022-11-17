@@ -3,7 +3,7 @@ date: 2022-11-16
 title: 'Dealing with Impostor Syndrome'
 template: post
 thumbnail: '../../thumbnails/writing.png'
-slug: switching-jobs-voluntarily
+slug: dealing-with-impostor-syndrome
 categories:
   - Learning
 tags:
