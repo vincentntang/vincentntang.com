@@ -41,3 +41,11 @@ I blog about what I learn from people smarter than me. I can see gaps in my know
 When you do this, you generally don't think about imposter syndrome. Because you rarely ever become stale - you're always learning. When impostor syndrome does kick in, you just look at all the work you've done and you forget about it until the cycle repeats again
 
 **By learning in public, you are protecting yourself against impostor syndrome in the future**
+
+If you don't have anything to show for years of work you've put in, start doing it today. 
+
+Here's some examples of showcasing past knowledge:
+
+- Create a portfolio website
+- Blog about how you created it
+- Create a fun side project demonstrating all the skills you know, and open source it
