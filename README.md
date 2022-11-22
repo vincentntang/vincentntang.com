@@ -6,17 +6,25 @@
 
 Personal website running on Gatsby, React, and Node.js
 
-To install
+This version of GatsbyJS works best on node 10.16.0. I am having issues upgrading it to v3
+
+so run these commands on macOS to specify a specific node version
 
 ```
-yarn install
+npm install -g n
+sudo n 10.16.0
+```
+
+To install the app
+
+```
+npm install
 ```
 
 then run local server:
 
 ```bash
-yarn
-yarn run dev
+npm run dev
 ```
 
 Navigate to `localhost:8000`.
