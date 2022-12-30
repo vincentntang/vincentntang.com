@@ -1,5 +1,5 @@
 ---
-date: 2023-12-14
+date: 2022-12-14
 title: "2022 into 2023"
 template: post
 thumbnail: "../../thumbnails/VT_yellowBG.png"
