@@ -100,7 +100,7 @@ So we created `#career-and-education`
 
 Some form of automoderation tools are needed to grow a sustaining community
 
-We use a tool to syndicate our job board to #job-listings, but we also connect our open source codebases from github straight into 3 seperate channels via github actions:
+We use a tool to syndicate our job board to `#job-listings`, but we also connect our open source codebases from github straight into 3 seperate channels via github actions:
 
 - One for our main informational website
 - One for the job board
@@ -120,7 +120,7 @@ Here's that screenshot in action:
 
 ![](./img/slack4.webp)
 
-We also have integrations from google admin calendar and meetup syncing directly into #meetups channel too. So we can auto send reminders when an event is coming up
+We also have integrations from google admin calendar and meetup syncing directly into `#meetups` channel too. So we can auto send reminders when an event is coming up
 
 ## Closing thoughts
 
