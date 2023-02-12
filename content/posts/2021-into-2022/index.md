@@ -10,7 +10,7 @@ tags:
   - reflection
 ---
 
-Every year I write a list of memorable things I did or accomplished the previous year. It's mostly as a memoir & self-reflection to see how far I've come and where I might go next
+Every year I write a list of memorable things I did or accomplished the previous year. It's mostly as a memoir & self-reflection to see how far I've come and where I might go next. [Here's last years](https://www.vincentntang.com/2020-into-2021/)
 
 I usually plan out my goals are before the year starts. It's in my habit to do this, but this year I decided against it.
 
