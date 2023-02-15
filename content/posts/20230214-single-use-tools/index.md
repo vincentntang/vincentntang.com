@@ -1,11 +1,14 @@
 ---
-title: Be productive by using single use tools
-published: false
-description:
+date: 2023-02-14
+title: "Be Productive by using single use tools"
+template: post
+thumbnail: "../../thumbnails/writing.png"
+slug: be-productive-by-using-single-use-tools
+categories:
+  - Community
 tags:
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
-# published_at: 2023-02-15 17:16 +0000
+  - TampaDevs
+  - Marketing
 ---
 
 Back in 2013, I had an epiphany. I just graduated college with a degree I didn't care for, and couldn't find any job prospects either
