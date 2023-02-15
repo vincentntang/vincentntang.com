@@ -3,7 +3,7 @@ date: 2023-02-15
 title: "Be Different and Guerilla Marketing"
 template: post
 thumbnail: "../../thumbnails/tampadevs.png"
-slug: lessons-learned-managing-slack-community
+slug: be-different-and-guerilla-marketing
 categories:
   - Community
 tags:
