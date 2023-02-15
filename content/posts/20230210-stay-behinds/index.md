@@ -6,7 +6,8 @@ thumbnail: "../../thumbnails/writing.png"
 slug: meeting-stay-behinds
 categories:
   - Agile
-tags: -Lean
+tags:
+  - Lean
 ---
 
 Here's a tip I learned for managing meetings effectively
