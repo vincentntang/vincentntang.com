@@ -1,11 +1,13 @@
 ---
-title: It's okay to say No
-published: false
-description:
+date: 2023-02-16
+title: "Its Okay to Say No"
+template: post
+thumbnail: "../../thumbnails/writing.png"
+slug: its-ok-to-say-no
+categories:
+  - Learning
 tags:
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
-# published_at: 2023-02-15 17:16 +0000
+  - Career
 ---
 
 ![](./img/saynoyo1.png)
