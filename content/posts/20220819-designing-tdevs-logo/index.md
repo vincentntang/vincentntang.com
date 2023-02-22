@@ -1,8 +1,8 @@
 ---
 date: 2022-08-19
-title: 'Designing the Tampa Devs Logo'
+title: "Designing the Tampa Devs Logo"
 template: post
-thumbnail: '../../thumbnails/tampadevs.png'
+thumbnail: "../../thumbnails/tampadevs.png"
 slug: designing-the-tampa-devs-logo
 categories:
   - Community
@@ -12,7 +12,7 @@ tags:
 
 When I first set out to design the [Tampa Devs](https://tampadevs.com) logo, I wanted to build it for the long term
 
-Scaling long term meant getting [branding](https://vincentntang.com/coming-up-with-brand-name) right first. Getting branding right meant having a sexy logo that people remember. 
+Scaling long term meant getting [branding](https://vincentntang.com/coming-up-with-brand-name) right first. Getting branding right meant having a sexy logo that people remember.
 
 A good logo should describe exactly what the organization is about too. And it should look good everywhere - on printed media, as a favicon on a website, on a T-shirt etc.
 
@@ -30,7 +30,7 @@ I went down a wikipedia and google rabbithole. First, I looked at the origins of
 I looked at some Tampa's most well known current elements:
 
 - Tampa Bay Bucaneers (football team)
-- Tampa Bay Lightning (hockey team) 
+- Tampa Bay Lightning (hockey team)
 - Gasparilla (Pirate festival)
 - Ybor City (cigars, location)
 
@@ -46,7 +46,7 @@ First, some generic information about the logo. I wanted it to be abstract akin 
 
 ![](./img/logo1.png)
 
-Next, I threw some ideas about the logo, and other logos to take inspiration from. 
+Next, I threw some ideas about the logo, and other logos to take inspiration from.
 
 Some ideas included using the same color schemas as the popular sports team here, using the word "TD" short for Tampa Devs as a play on words for touchdown in football for the Bucs. And how the logo might be used in Slack, and an idea to emulate the [Orlando Devs](https://orlandodevs) logo since it we're like a sister entity to them.
 
@@ -57,7 +57,7 @@ The goal here is to provide some context to the designer, but not too much. I wa
 A few days later, I got back the first revisions to the logo. Our designer came up with a few concepts:
 
 ![](./img/logo3.png)
- 
+
 Pages 1 and 2 were based on the face icon of the Orlando Devs logo. They were pretty good starts, page 1 was a bit too happy, page 2 looked too much like a pirate baby though, but I liked the idea of a `<>` coding theme on a hat
 
 Page 3 was too flat, too generic with too many details going on. I liked the idea of a sword and a flag combined to make the pirate theme, but it didn't really sell the coding idea so much.
@@ -74,12 +74,12 @@ From there, I took page 1 and 2's logos and started to reconceptialize them
 This is what I got
 
 ![](./img/logo4.png)
-  
+
 Page 1 was just like a demon looking monster, so that was a no go. Page 2's revision was good, but a bit too manly and sexist I found out later through asking my friends for feedback
 
 ![](./img/logo5.png)
 
-Okay now Page 1 looked more like an old man, definitely not what I envisioned a young fun tech group to be like. At least I could see what the ">/<" looked like on a face. Page 2 the beard was trimmed a little bit so it become more of a stubble, it looked more friendly to female devs too 
+Okay now Page 1 looked more like an old man, definitely not what I envisioned a young fun tech group to be like. At least I could see what the ">/<" looked like on a face. Page 2 the beard was trimmed a little bit so it become more of a stubble, it looked more friendly to female devs too
 
 We ended up reconceptualizing some designs for page 1
 
@@ -90,7 +90,7 @@ Page 1a was closer to what I was looking for. A face with a recognizable termina
 Our designer made a few more modifications, they were going in the wrong direction so I'll omit them here. I took all the logos I created and sent them to friends for advice
 
 ![](./img/logo7.png)
- 
+
 My friend Ryan said "What does #1 look like with an eye patch?". That was a brilliant idea, so I sent it over to the designer. Here's what I got
 
 ![](./img/logo8.png)
@@ -130,7 +130,7 @@ It was still a good thought process though
 
 I stared at these designs for a month straight. While I did have an idea that Jacques design was almost perfect from a designer's point of view, I still wanted to run A/B tests on meetup attendees. Most of the feedback I had gotten so far were friends from Orlando, but I needed feedback from people in Tampa
 
-We just had thrown together our second networking event at one of the local food truck venues. I decided to do my user-studies here with about 20-30 people in-person. I just tallied what people thought were some of the best logos. I intentionally put some bad ones on here like the manly pirate logo and baby face logo. 
+We just had thrown together our second networking event at one of the local food truck venues. I decided to do my user-studies here with about 20-30 people in-person. I just tallied what people thought were some of the best logos. I intentionally put some bad ones on here like the manly pirate logo and baby face logo.
 
 ![](./img/logo15.png)
 
@@ -143,10 +143,10 @@ I talked to a former CMO (chief marketing officer) and my friend Andre, who actu
 I wrote a design doc indicating all the feedback I got from each one as well found [here](https://docs.google.com/document/d/1Aw71S6dyZZmnj7mRCdRi2srFjf_Trw_MVEDy5ssIH74/edit?usp=sharing)
 
 ![](./img/logo16.png)
- 
+
 ## The Final Design
 
-The final design ultimately was the one Jacques created. 
+The final design ultimately was the one Jacques created.
 
 ![](./img/logo17.png)
 
@@ -159,7 +159,7 @@ It also looks kind of like a pokeball from pokemon
 If you slice the logo, it's follows some of the geometric principles of design like in the Twitter logo for instance.
 
 ![](./img/logo19.png)
- 
+
 The logo also is a bit similar to a fun-playful vibe that you see in ninja restaurant logos, which fits the vibe of the group
 
 ![](./img/logo20.png)
@@ -175,5 +175,9 @@ And 3D rendered from Doug's [DevOps presentation](https://www.tampadevs.com/talk
 And on stickers/hats:
 
 ![](./img/logo23.png)
- 
+
 Hopefully this gives you inspiration for designing your own logos! It took close to a month to create the logo, from the design iterations - feedback and everything else involved. A good logo when done right gets lot of compliments too :)
+
+EDIT: Here's a snapshot summary of all the subthemes for the logo
+
+![](./img/logo24.png)
