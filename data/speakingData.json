@@ -6,7 +6,7 @@
     "venue": "USF",
     "fullImg": "./images/usf_logo.png",
     "links": {
-      "website": "https://m.usf.edu/myusf/calendar/detail?feed=student_events&id=5187fd8e-5652-5cb3-a3ed-758f168da4de",
+      "website": "https://m.usf.edu/myusf/calendar/detail?feed=student_events&id=5187fd8e-5652-5cb3-a3ed-758f168da4de"
     }
   },
   {
@@ -144,7 +144,7 @@
     "venue": "Tampa Devs",
     "fullImg": "./images/tech-jr.png",
     "links": {
-      "podcast": "https://techjr.dev/episodes/2019/hacking-the-job-search-with-vincent-tang/",
+      "podcast": "https://techjr.dev/episodes/2019/hacking-the-job-search-with-vincent-tang/"
     }
   },
   {
