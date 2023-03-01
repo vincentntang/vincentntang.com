@@ -75,9 +75,9 @@
   {
     "date": "May 18th 2020",
     "location": "Tampa, FL",
-    "title": "Podcast talks - Vincent Tang",
+    "title": "Backend Podcast - Vincent Tang",
     "venue": "Backend Bear",
-    "fullImg": "./images/backend_bear.jpeg",
+    "fullImg": "./images/backend_bear.png",
     "links": {
       "podcast": "https://tunein.com/podcasts/Technology-Podcasts/BackendBear-Podcast-p1228282/?topicId=143938563"
     }
