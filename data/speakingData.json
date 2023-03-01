@@ -30,6 +30,16 @@
     }
   },
   {
+    "date": "May 18th 2020",
+    "location": "Tampa, FL",
+    "title": "Podcast talks - Vincent Tang",
+    "venue": "Backend Bear",
+    "fullImg": "./images/backend_bear.jpeg",
+    "links": {
+      "podcast": "https://tunein.com/podcasts/Technology-Podcasts/BackendBear-Podcast-p1228282/?topicId=143938563"
+    }
+  },
+  {
     "date": "November 15th 2019",
     "location": "Tampa, FL",
     "title": "SVGs - Everything you should know",
