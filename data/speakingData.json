@@ -1,5 +1,37 @@
 [
   {
+    "date": "Feb 25th 2023",
+    "location": "Tampa, FL",
+    "title": "Life Lessons from Self-Taught Coder to Tech Community Founder",
+    "venue": "USF",
+    "fullImg": "./images/usf_logo.png",
+    "links": {
+      "website": "https://m.usf.edu/myusf/calendar/detail?feed=student_events&id=5187fd8e-5652-5cb3-a3ed-758f168da4de",
+    }
+  },
+  {
+    "date": "Feb 8th 2023",
+    "location": "Tampa, FL",
+    "title": "How we Built Tampa Devs - Tampa's Fastest Growing Developer Community",
+    "venue": "Civo Navigate",
+    "fullImg": "./images/civo_navigate.png",
+    "links": {
+      "website": "https://www.civo.com/navigate/schedule",
+      "slides": "https://docs.google.com/presentation/d/1pX_ZFtPDeRsj0E3r4Q32mhokmhcEE80agW6XHmWqHk0/edit?usp=sharing"
+    }
+  },
+  {
+    "date": "November 17th 2021",
+    "location": "Tampa, FL",
+    "title": "An intro to SVGs",
+    "venue": "Tampa Devs",
+    "fullImg": "./images/tampadevs.png",
+    "links": {
+      "video": "https://youtu.be/qwoqmeq_zQY",
+      "slides": "https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know"
+    }
+  },
+  {
     "date": "November 17th 2021",
     "location": "Tampa, FL",
     "title": "An intro to SVGs",
