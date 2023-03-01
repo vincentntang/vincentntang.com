@@ -1,5 +1,16 @@
 [
   {
+    "date": "November 17th 2021",
+    "location": "Tampa, FL",
+    "title": "An intro to SVGs",
+    "venue": "Tampa Devs",
+    "fullImg": "./images/tampadevs.png",
+    "links": {
+      "video": "https://youtu.be/qwoqmeq_zQY",
+      "slides": "https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know"
+    }
+  },
+  {
     "date": "November 14th 2020",
     "location": "Tampa, FL",
     "title": "How to succeed at your First Job",
@@ -92,6 +103,16 @@
     "fullImg": "./images/hackathonRadose.jpg",
     "links": {
       "demo": "https://devpost.com/software/remote-pharmacy"
+    }
+  },
+  {
+    "date": "July 3rd 2019",
+    "location": "Orlando, FL",
+    "title": "Hacking the Job Search",
+    "venue": "Tampa Devs",
+    "fullImg": "./images/tech-jr.png",
+    "links": {
+      "podcast": "https://techjr.dev/episodes/2019/hacking-the-job-search-with-vincent-tang/",
     }
   },
   {
