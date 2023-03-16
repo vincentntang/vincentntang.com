@@ -5,9 +5,9 @@ template: post
 thumbnail: "../../thumbnails/tampadevs.png"
 slug: protect-your-501c3-nonprofit
 categories:
-  - Learning
+  - Community
 tags:
-  - Career
+  - TampaDevs
 ---
 
 ![](./img/nonprofit1.webp)
