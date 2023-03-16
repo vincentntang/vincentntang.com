@@ -1,11 +1,13 @@
 ---
-title: Attract the right people - an open invitation
-published: false
-description:
+date: 2023-03-16
+title: "Attract the right people - an open invitation"
+template: post
+thumbnail: "../../thumbnails/tampadevs.png"
+slug: attract-right-people-invitation
+categories:
+  - Community
 tags:
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
-# published_at: 2023-03-16 13:29 +0000
+  - TampaDevs
 ---
 
 I gave a [presentation](https://docs.google.com/presentation/d/1smH2KomgS8RGBwIay1hNRu5_9j9JIs6RxzZaknqXMvw/edit?usp=sharing) on "Life lessons from a self-taught coder to tech community founder" to a bunch of students at USF, the local University in town
