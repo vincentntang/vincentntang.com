@@ -67,7 +67,8 @@ export const pageQuery = graphql`
             demo
             repo
             slides
-            site
+            website
+            audio
             video
           }
         }
