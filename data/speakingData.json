@@ -6,7 +6,8 @@
     "venue": "USF",
     "fullImg": "./images/usf_logo.png",
     "links": {
-      "website": "https://m.usf.edu/myusf/calendar/detail?feed=student_events&id=5187fd8e-5652-5cb3-a3ed-758f168da4de"
+      "website": "https://m.usf.edu/myusf/calendar/detail?feed=student_events&id=5187fd8e-5652-5cb3-a3ed-758f168da4de",
+      "sides": "https://docs.google.com/presentation/d/1smH2KomgS8RGBwIay1hNRu5_9j9JIs6RxzZaknqXMvw/edit?usp=sharing"
     }
   },
   {
@@ -79,7 +80,7 @@
     "venue": "Backend Bear",
     "fullImg": "./images/backend_bear.png",
     "links": {
-      "podcast": "https://tunein.com/podcasts/Technology-Podcasts/BackendBear-Podcast-p1228282/?topicId=143938563"
+      "audio": "https://tunein.com/podcasts/Technology-Podcasts/BackendBear-Podcast-p1228282/?topicId=143938563"
     }
   },
   {
@@ -112,7 +113,7 @@
     "venue": "Orlando JS",
     "fullImg": "./images/roundtableDiscussion3.png",
     "links": {
-      "site": "https://www.meetup.com/OrlandoJS/events/265119278/",
+      "website": "https://www.meetup.com/OrlandoJS/events/265119278/",
       "video": "https://www.youtube.com/watch?v=F0luzs5cEpk&feature=youtu.be"
     }
   },
