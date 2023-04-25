@@ -16,7 +16,7 @@ Figure out what matters to your life. Write a priority list. Don't have regrets.
 
 Say no to things you aren't excited about, say yes to things that make you excited
 
-Don't forget to reward and cherish the small wins in life.
+Cherish the small wins in life.
 
 Set boundaries for work, and take care of yourself first
 
