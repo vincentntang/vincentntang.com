@@ -2,7 +2,7 @@
 date: 2023-04-25
 title: "I am retiring from Tampa Devs, end of 2023"
 template: post
-thumbnail: "../../thumbnails/writing.png"
+thumbnail: "../../thumbnails/tampadevs.png"
 slug: retiring-tampa-devs
 categories:
   - Community
