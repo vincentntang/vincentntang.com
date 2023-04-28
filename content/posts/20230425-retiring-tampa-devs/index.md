@@ -26,7 +26,7 @@ That drive for growth - is the most important cultural value I've instilled into
 
 We all share that desire. And I've fulfilled many of those desires running Tampa Devs
 
-But I have bigger ambitions in life. Dreams that I want to achieve one day. And I can't if I am always thinking about Tampa Devs all the time - it's mentally taxing
+But I have bigger ambitions in life. Dreams that I want to achieve one day. And I can't if I am always thinking about Tampa Devs all the time - I don't have mental capacity for other goals.
 
 It's time for me to move on. To groom the next leaders into Tampa Devs, who share the passion and drive as I did when I started. And to bring fresh ideas to the table
 
