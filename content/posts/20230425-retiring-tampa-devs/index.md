@@ -26,19 +26,25 @@ That drive for growth - is the most important cultural value I've instilled into
 
 We all share that desire. And I've fulfilled many of those desires running Tampa Devs
 
-But after hosting the 20+ tech talk or networking event, things tend to get a little bit stale. They're not as exciting for me anymore.
+But I have bigger ambitions in life. Dreams that I want to achieve one day. And I can't if I am always thinking about Tampa Devs all the time - it's mentally taxing
 
-It's time for me to move on. To groom the next leaders into Tampa Devs. To plan for it's future, and to step away from day to day operations.
+It's time for me to move on. To groom the next leaders into Tampa Devs, who share the passion and drive as I did when I started. And to bring fresh ideas to the table
+
+I want to plan for Tampa Dev's future. And to step away from day to day operations.
 
 I think this is an important transition for the long term sustainability of Tampa Devs.
 
-I do not want any organizer to run events indefinitely. I want them to think of Tampa Devs as a stepping stone, just as I do the same.
+I do not want any organizer to run events indefinitely and burn out. I want them to think of Tampa Devs as a stepping stone, just as I do the same.
 
 To do that, I am taking the initiative. By stepping down later this year. To create a vacuum so that others may step forward.
 
 And I've done just that. I'm intentionally hosting less events, and not showing up to our networking engagements on time. So members don't see me as often and self organize on their own
 
-I don't step in and give final say to my VP. I do an intentionally mediocre job to set the standards lower now, so that others aren't shadowing the high bar I originally set.
+I delegate whenever possible, even if the perfectionist in me knows things will not be to my ideal standards.
+
+I don't step in and give final say to my VP. I do an intentionally mediocre job to set the standards lower now, so that others aren't shadowing the high bar I originally set. 
+
+When people reach out to me for leadership decisions, I point them to my VP to decide instead
 
 I'm **"disengaged with the outcome"** as one friend described to me.
 
