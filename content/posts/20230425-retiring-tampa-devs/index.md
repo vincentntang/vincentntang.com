@@ -48,7 +48,7 @@ When people reach out to me for leadership decisions, I point them to my VP to d
 
 I'm **"disengaged with the outcome"** as one friend described to me.
 
-This has been the hardest pill for me to swallow. I'm watching my baby I made grow up and take it's first steps on it's own... and watching it's blunders along the way
+This has been the hardest pill for me to swallow. I'm watching my baby I made grow up and take it's first steps on it's own... and watching it's blunders and successes along the way
 
 I want future organizers to make "Tampa Devs" their own. That only works, if they have ownership from the ground up to create their own story
 
