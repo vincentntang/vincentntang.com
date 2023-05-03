@@ -42,7 +42,7 @@ And I've done just that. I'm intentionally hosting less events, and not showing 
 
 I delegate whenever possible, even if the perfectionist in me knows things will not be to my ideal standards.
 
-I don't step in and give final say to my VP. I do an intentionally mediocre job to set the standards lower now, so that others aren't shadowing the high bar I originally set. 
+I don't step in and give final say to my VP. I do an intentionally average job to set the standards lower now, so that others aren't shadowing the high bar I originally set. 
 
 When people reach out to me for leadership decisions, I point them to my VP to decide instead
 
