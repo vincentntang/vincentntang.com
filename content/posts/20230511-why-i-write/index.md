@@ -29,3 +29,9 @@ And I need alot of advice. Because I'm always in challenging, uncomfortable and 
 - It's important to get perspectives outside of your traditional bubbles. E.g. internet forums, close friends, books, youtube, etc just to name a few
 - Sometimes it's good to be in a comfort zone. And sometimes in uncomfortable situations. Balance and moderation are key
 - Build your network of people you trust to share more private struggles/challenges
+
+Other inspirational quotes from a random book online
+
+```
+Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times
+```
