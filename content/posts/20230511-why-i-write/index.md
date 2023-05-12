@@ -3,7 +3,7 @@ date: 2023-05-11
 title: "Why I write"
 template: post
 thumbnail: "../../thumbnails/writing.png"
-slug: being-original
+slug: why-i-write
 categories:
   - Community
 tags:
