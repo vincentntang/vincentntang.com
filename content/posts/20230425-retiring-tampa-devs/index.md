@@ -38,11 +38,11 @@ I do not want any organizer to run events indefinitely and burn out. I want them
 
 To do that, I am taking the initiative. By stepping down later this year. To create a vacuum so that others may step forward.
 
-And I've done just that. I'm intentionally hosting less events, and not showing up to our networking engagements on time. So members don't see me as often and self organize on their own
+I delegate whenever possible, even if the perfectionist in me knows things will not be to my ideal standards, and things take longer with more overhead
 
-I delegate whenever possible, even if the perfectionist in me knows things will not be to my ideal standards.
+I don't step in and give final say to my VP. I spend less hours throughout the week planning events so that I don't overwork myself at the expense of an unsustainably high bar I set
 
-I don't step in and give final say to my VP. I do an intentionally average job to set the standards lower now, so that others aren't shadowing the high bar I originally set. 
+I give oppurtunities for others to step up with [an open invitation](https://www.vincentntang.com/attract-right-people-invitation/)
 
 When people reach out to me for leadership decisions, I point them to my VP to decide instead
 
