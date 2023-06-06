@@ -17,6 +17,7 @@ The original article goes over more how to manage a growing community. This one 
 
 Here's the lessons:
 
+<!-- 
 ## Moderation can be very political
 
 You can't appease everyone in a slack. We get recruiters who stop by and post things to #job-listings, but we've enforced rules to also support a growing job board.
@@ -74,7 +75,7 @@ Moderation is very tricky in that you need to be very political and offend as fe
 
 It's always best to do nothing until a very clear line is crossed
 
-Moving onto the next point of lessons I learned:
+Moving onto the next point of lessons I learned: -->
 
 ## Naming channels and channel management is hard
 
