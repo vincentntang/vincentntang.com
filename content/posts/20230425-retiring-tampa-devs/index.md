@@ -57,3 +57,13 @@ I want future organizers to make "Tampa Devs" their own. That only works, if the
 I will always be here to support the legal and financial work necessary to run Tampa Devs. But 6 months from now (November 2023), I will be stepping down from all day to day operations, and providing only advisorial support instead
 
 We will be moving towards a nonprofit governing model long term, more details to come
+
+---
+
+## EDIT 6/13/23
+
+Made in Tampa wrote an article dubbed ["The Unstoppable Rise of Tampa Devs"](https://www.madeintampa.io/the-unstoppable-rise-of-tampa-devs/) detailing more information
+
+Here's the retirement notice I made in the Tampa Devs Slack as well
+
+![](./img/retirementTampaDevs.png)
