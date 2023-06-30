@@ -16,7 +16,9 @@ This is something I've given a lot of thought about.
 
 I started this group because I wanted to help two of my friends get jobs. I also wanted to scratch some side projects that I wanted to do - but didn't have an excuse for. Thus Tampa Devs was born
 
-Since it's inception, we've grown immensely. We're a 501c3 nonprofit community with 1500+ members that grows daily. We hit \$12,000 ARR in donations.
+Since it's inception, we've grown immensely. We're a 501c3 nonprofit community with 1500+ members that grows daily. 
+
+<!-- We hit \$12,000 ARR in donations. -->
 
 Amongst other things, I've learned to host my first hackathon, made my own clothing line, and built a thriving member board. There were so many lessons I've learned along the way in the 1.5 years I've ran Tampa Devs
 
@@ -62,8 +64,5 @@ We will be moving towards a nonprofit governing model long term, more details to
 
 ## EDIT 6/13/23
 
-Made in Tampa wrote an article dubbed ["The Unstoppable Rise of Tampa Devs"](https://www.madeintampa.io/the-unstoppable-rise-of-tampa-devs/) detailing more information
-
-Here's the retirement notice I made in the Tampa Devs Slack as well
-
-![](./img/retirementTampaDevs.png)
+- Made in Tampa wrote an article dubbed ["The Unstoppable Rise of Tampa Devs"](https://www.madeintampa.io/the-unstoppable-rise-of-tampa-devs/) detailing more information
+<!-- - [Retirement notice as well on slack](./img/retirementTampaDevs.png) -->
