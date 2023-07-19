@@ -16,9 +16,11 @@ This year was fairly chaotic. Some of the highest points and lowest points in my
 
 Here's a synoposis
 
-## Relationships
+<!-- ## Relationships
 
 The biggest thing that's changed in my life has been relationships. Not in the romantic sense only but also friendships and business partners. Most of my life has been pretty independent up until that point, it's always been an "I" and never a "we".
+
+Not much else to add here. 
 
 I don't really want to cover details of my personal romantic life though. Too much information (tmi). Not in a public post at least. But I met a girl, who opened up a new chapter in my life.
 
@@ -36,7 +38,7 @@ Except that we did so many exciting new things together, that everything I did m
 
 And while I started enjoying my single life again, I met someone special. Except this time I learned from my past mistakes. I'm taking things slower this time
 
-I was planning to move out of Tampa next year but I guess things have changed. That's life I suppose
+I was planning to move out of Tampa next year but I guess things have changed. That's life I suppose -->
 
 ## I debut'd my first Aerial Acrobat Performance!
 
