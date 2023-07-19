@@ -16,29 +16,11 @@ This year was fairly chaotic. Some of the highest points and lowest points in my
 
 Here's a synoposis
 
-<!-- ## Relationships
+## Relationships
 
 The biggest thing that's changed in my life has been relationships. Not in the romantic sense only but also friendships and business partners. Most of my life has been pretty independent up until that point, it's always been an "I" and never a "we".
 
-Not much else to add here. 
-
-I don't really want to cover details of my personal romantic life though. Too much information (tmi). Not in a public post at least. But I met a girl, who opened up a new chapter in my life.
-
-Things were amazing starting out. I started even more hobbies I didn't know existed, on top of already having too many hobbies to begin with. I didn't know life could be so exciting!
-
-I felt like I met the perfect person. Beautiful, smart, and funny. On the outside, it seemed great. This person was everything I liked, had many similar hobbies, could understand my difficult emotional pains growing up.
-
-But that's when it took a downward spiral. Past the honeymoon phase, it turned south. Her very dark past kept resurfacing, and I did my best to support it. I was consumed, and I could no longer think for myself. Eventually I had to cut ties
-
-I felt intense amount of guilt for doing this. Even though logically this was the right decision looking back
-
-I took a vacation in New York to forget about everything. It took me months to get over it. I never felt this way about anyone in my life until that point. We were a "we" and now I wanted to be an "I" again.
-
-Except that we did so many exciting new things together, that everything I did moving forward reminded me of her. I had to remind myself what I used to be like. And to love myself and embrace who I am above all else
-
-And while I started enjoying my single life again, I met someone special. Except this time I learned from my past mistakes. I'm taking things slower this time
-
-I was planning to move out of Tampa next year but I guess things have changed. That's life I suppose -->
+I learned more about myself and my past this year than I had ever done before. How I work with others, etc etc. It was a rollercoaster for sure looking back
 
 ## I debut'd my first Aerial Acrobat Performance!
 
