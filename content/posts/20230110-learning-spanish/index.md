@@ -80,16 +80,6 @@ My friend from Jordan (middle east) told me a great story of this. In Arabic, th
 
 When it comes to learning a new language, learning "blanket" statements make the most sense. At least for me, since I tend to use them when there isn't much else to say. To some degree, we'd call this "small talk" per American lingo
 
-So here's some of the ones I use, it's a combination of common phrases but they're specifically tailored to me and my gf
-
-- Sorry not sorry - Lo siento, pero no lo siento -> I use this after I pull a prank on my gf
-- Gracias la herencia - thank you, the management -> I use this when giving a backhanded compliment
-- Estoy aprendiendo espanol contigo - I am learning spanish with you
-- Mi professora y novia es grandiosa - My teacher and girlfriend is great
-- Quiero darte muchos bessitos - I want to give you lots of kisses
-
-Memorizing these few key phrases means I have an "anchor" of specific go to phrases that I can learn new words on top of.
-
 So I could take a statement like this:
 
 ```
