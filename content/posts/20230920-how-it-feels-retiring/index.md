@@ -110,6 +110,6 @@ Others will tell you "Isn't it nice things are running smoothly without you need
 
 Then you realize that everything is okay. That's life
 
-The org you started only seemed like it was everything because you were constantly bathing in the bubble you created. 
+**The org you started only seemed like it was everything because you were constantly bathing in the bubble you created.** 
 
 Take a vacation in a different city where no one knows anything about you - and have a hard restart - it's well earned
