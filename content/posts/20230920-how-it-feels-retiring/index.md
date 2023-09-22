@@ -1,6 +1,6 @@
 ---
 date: 2023-09-20
-title: "Retirement advice to community organizers"
+title: "Retirement lessons I learned as a former community organizer"
 template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: how-it-feels-retiring
