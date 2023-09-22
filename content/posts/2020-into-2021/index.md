@@ -8,6 +8,7 @@ categories:
   - Personal
 tags:
   - reflection
+  - new year
 ---
 
 Every year I write a [blog post](https://www.vincentntang.com/2019-into-2020/) reflecting what I've learned and accomplished. And whether or not I met my goals for this year. It's a great way to see how far I've come since I started my coding journey.

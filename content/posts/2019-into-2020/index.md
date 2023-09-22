@@ -8,6 +8,7 @@ categories:
   - Personal
 tags:
   - reflection
+  - new year
 ---
 
 Every year I've written things I did/learned this year, and where I want to move forward for the next year. My previous post is for 2018 is here[2018-into-2019](/2018-into-2019). The tradition continues on this year again :)

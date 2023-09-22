@@ -8,6 +8,7 @@ categories:
   - Personal
 tags:
   - reflection
+  - new year
 ---
 
 I write this blog post for myself every year. Here's [last years](https://www.vincentntang.com/2021-into-2022/). Every year, I look back and reflect the meaningful events, hardships, and challenges I took to grow as a person

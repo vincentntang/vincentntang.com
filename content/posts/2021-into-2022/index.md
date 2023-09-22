@@ -8,6 +8,7 @@ categories:
   - Personal
 tags:
   - reflection
+  - new year
 ---
 
 Every year I write a list of memorable things I did or accomplished the previous year. It's mostly as a memoir & self-reflection to see how far I've come and where I might go next. [Here's last years](https://www.vincentntang.com/2020-into-2021/)
