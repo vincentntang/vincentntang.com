@@ -1,6 +1,6 @@
 ---
 date: 2023-09-20
-title: "How it feels retiring from something you've created"
+title: "Retirement advice to community organizers"
 template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: how-it-feels-retiring
@@ -24,7 +24,7 @@ Here are those things:
 
 Founder's syndrome is the desire to "hold on" to that feeling of awesomeness and power at being known as "the guy who started that awesome thing". You practically get worshipped, asked for advice all the time because people seek your guidance, and people get super excited when you just walk in the room.
 
-Letting go of something like this sounds terrible on paper. Why would anyone give up fame like that?
+Letting go of something like this sounds terrible on paper. Why would anyone give up something like that?
 
 If you get overly attached to this idea, this notion you will eventually forget what it means to be humble. You won't adapt or change, and get into a comfort zone because it's the easy way out - and eventually you'll go into a one step road to burnout/complacency - but only after you've destroyed everything you built
 
