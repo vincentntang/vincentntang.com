@@ -1,4 +1,17 @@
-I am not opting to write about my accomplishments this year. This is what I do every year, and usually I have many things I've learned and built
+---
+date: 2023-12-31
+title: "2023 into 2024"
+template: post
+thumbnail: "../../thumbnails/VT_yellowBG.png"
+slug: 2023-into-2024
+categories:
+  - Personal
+tags:
+  - reflection
+  - new year
+---
+
+I am opting not to write about my accomplishments this year. This is what I do every year, and usually I have many things I've learned and built
 
 But this year is different. I like to showcase progress in my life, but sometimes progress is not easily visible. 
 
