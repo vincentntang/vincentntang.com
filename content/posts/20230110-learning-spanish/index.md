@@ -68,8 +68,6 @@ There's many examples more than this in Spanish I am learning, such as masculine
 
 ## Learn from your favorite custom phrases
 
-I practice Spanish a lot with my spanish speaking girlfriend, so it helps that I have someone I can practice with daily
-
 In the past I've used space-repetition memory learning tools like Anki, memrise, DuoLingo, etc. What I've found with those tools is while I'd learn a lot of new vocabulary, I wouldn't really draw any emphasis or connection to why I know any of those words, and ultimately would forget it long term.
 
 > If you don't use the words you learn often - you won't build enough synapse connections in your brain to learn it long term. In the book ["Thinking fast and slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - when you learn a new subject, it needs to be practiced many times "slowly" until you can immediate conjure the right word in the right context "fast"
@@ -89,10 +87,8 @@ Estoy aprendiendo espanol contigo - I am learning spanish with you
 to this
 
 ```
-Estoy aprendiendo espanol con mi novia - I am learning spanish with my girlfriend
+Estoy aprendiendo espanol  - I am learning spanish 
 ```
-
-By changing `contigo` to `con mi novia`, which is "with you" to "with my girlfriend", this makes me understand how spanish proposition phrases work.
 
 ## Learn with zero friction
 
