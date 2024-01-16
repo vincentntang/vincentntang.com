@@ -5,7 +5,7 @@ template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: deciding-between-big-decisions
 categories:
-  - Community
+  - Personal
 tags:
   - Writing
 ---
