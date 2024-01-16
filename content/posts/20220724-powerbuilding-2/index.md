@@ -22,9 +22,9 @@ Here's the results from a dexa scan on body fat %
 
 ![](./img/phase2.png)
 
-And here's the physical results aesthetically:
+<!-- And here's the physical results aesthetically:
 
-![](./img/phase3.png)
+![](./img/phase3.png) -->
 
 And here are my 4 lift numbers comparatively from the start of the program:
 

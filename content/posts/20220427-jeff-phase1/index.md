@@ -34,10 +34,10 @@ Here's my dexa scan results:
 
 ![workout](./img/power2.jpg)
 
-Before/After pictures of the the entire phase. I ran a 3 week recomposition phase as well after the cut, using parts of phase 2 in the program:
+<!-- Before/After pictures of the the entire phase. I ran a 3 week recomposition phase as well after the cut, using parts of phase 2 in the program:
 
 ![workout](./img/power3.jpg)
- 
+  -->
 I have 5% less body fat, but it's not really that obvious even comparing the pictures.
 
 Days I went to the gym, and periods of longer rest durations highlighted in yellow (4 deload periods)
