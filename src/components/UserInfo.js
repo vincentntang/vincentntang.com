@@ -18,6 +18,7 @@ export default class UserInfo extends Component {
       </a>
     )
   }
+
   render() {
     const vincentBlue = this.props.gatsbyImg;
     const { isHomePage } = this.props;

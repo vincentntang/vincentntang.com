@@ -154,7 +154,7 @@ export const pageQuery = graphql`
       }
     }
     vincentBlue: allImageSharp(filter: {
-      fluid:{ originalName: {eq:"vincent_blue.jpg"}}
+      fluid:{ originalName: {eq:"vincent_2.png"}}
     }) {
       edges {
         node {
