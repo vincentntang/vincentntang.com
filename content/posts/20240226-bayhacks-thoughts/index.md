@@ -34,6 +34,6 @@ To think this all started because one of my friends said "Hey vincent why don't 
 
 Just wow I feel like the TV show Silicon Valley is not that far off from the reality I went through with Tampa Devs. I am so proud of everything Charlton Trezevant, Josef Sieber, and Matthew Yorkgitis has done. 
 
-> These are notes I copied from LinkedIn, celebrating the success of leadership culture I helped foster
+> These are notes I copied from LinkedIn, celebrating the success of leadership culture I helped foster. This is possibly the last post I will make on Tampa Devs in the forseeable future
 
 ![](./img/tampadevs.jpeg)
