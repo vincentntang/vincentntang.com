@@ -1,5 +1,5 @@
 ---
-date: 2024-02-25
+date: 2024-02-24
 title: "Designing the Bayhacks Logo"
 template: post
 thumbnail: "../../thumbnails/tampadevs.png"
