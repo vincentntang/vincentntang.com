@@ -10,7 +10,7 @@ tags:
   - Writing
 ---
 
-![](./img/tampadevs.jpeg)
+![](./img/bayhacks.png)
 
 > These are notes I copied from LinkedIn, celebrating the success of leadership culture I helped foster
 
@@ -35,3 +35,4 @@ To think this all started because one of my friends said "Hey vincent why don't 
 
 Just wow I feel like the TV show Silicon Valley is not that far off from the reality I went through with Tampa Devs. I am so proud of everything Charlton Trezevant, Josef Sieber, and Matthew Yorkgitis has done. 
 
+![](./img/tampadevs.jpeg)
