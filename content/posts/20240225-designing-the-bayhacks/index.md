@@ -1,9 +1,9 @@
 ---
-date: 2024-02-26
-title: "Passing the torch (BayHacks)"
+date: 2024-02-25
+title: "Designing the Bayhacks Logo"
 template: post
 thumbnail: "../../thumbnails/tampadevs.png"
-slug: passing-the-torch
+slug: designing-the-bayhacks-logo
 categories:
   - Community
 tags:
