@@ -12,7 +12,6 @@ tags:
 
 ![](./img/bayhacks.png)
 
-> These are notes I copied from LinkedIn, celebrating the success of leadership culture I helped foster
 
 Last year I retired as president from Tampa Devs, and passed the torch off to Charlton Trezevant, Matthew Yorkgitis, and Josef Sieber whom have been absolutely crushing it building the tech scene in Tampa in ways I could not even have imagined
 
@@ -34,5 +33,7 @@ I could not have asked for a better leadership team to have taken over what I st
 To think this all started because one of my friends said "Hey vincent why don't you host a tech event" and then I threw a friend together at a foodtruck event 2.5 years ago. Then a logo got made. Then sponsors came. Then a nonprofit came along. Then 501c3 status, a bunch of crazy adventures like meeting Steve Wozniack, and now this
 
 Just wow I feel like the TV show Silicon Valley is not that far off from the reality I went through with Tampa Devs. I am so proud of everything Charlton Trezevant, Josef Sieber, and Matthew Yorkgitis has done. 
+
+> These are notes I copied from LinkedIn, celebrating the success of leadership culture I helped foster
 
 ![](./img/tampadevs.jpeg)
