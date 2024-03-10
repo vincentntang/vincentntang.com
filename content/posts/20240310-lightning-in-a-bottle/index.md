@@ -12,8 +12,6 @@ tags:
 
 ![](./img/lightning1.png)
 
-_dalle2: catching lightning in a bottle, digital art_
-
 Sometimes I get these surges of inspiration to create something cool, inspirational, or artistic.
 
 They come in a fleeting moment. Sometimes it's after talking to a friend I haven't seen in awhile. Or getting to really know someone after having been acquaintences for years. Or seeing something that just blows my mind away
@@ -31,8 +29,6 @@ What I've come to realize is that the more experience you have in a given topic 
 It's when you really have seen so many "aha" moments in your domain that you realize what is unique and what is not. 
 
 ![](./img/lightning2.png)
-
-_midjourney: a person in the heavens with a stash of bottles of lightning, and spearing one down_
 
 Capturing these "aha" moments is like lightning in a bottle
 
