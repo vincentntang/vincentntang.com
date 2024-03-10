@@ -22,8 +22,6 @@ In those large clashing of mental perspectives, there will come an "aha" moment.
 
 This isn't to say that thought is completely unique, many other people have thought of the same thing. 
 
-> Through life you will be shared with the wisdom/knowledge of the the "aha" moments of those closest to you. You won't appreciate it as much if you came to it on your own though, but once you arrive to the same conclusions by living similar experiences, you truly appreciate that "aha" knowledge
-
 What I've come to realize is that the more experience you have in a given topic or domain, you will generate more unique "aha" moments. And, the more unique it is, the more powerful it becomes if you capitalize on it.
 
 It's when you really have seen so many "aha" moments in your domain that you realize what is unique and what is not. 
@@ -41,3 +39,5 @@ Once you have it, you can do wield it to do crazy stuff with it. You can use it 
 > People who have good taste in music, design, etc have a lot of experiences in their domain to recognize what is good production quality and what is not. It is subjective though, but there are clear differentiators between mediocre and bad quality though. E.g., design should follow well established design principles, music production should follow music theory, etc. You can really only break these theories, these principles, if you intently know why you are breaking them
 
 > Bottles of lightning do expire over time. If you don't act on it chances are you won't it in the future and you lose the ability to capture/capitalize on bottles of lightning. They come back with practice though
+
+> Through life you will be shared with the wisdom/knowledge of the the "aha" moments of those closest to you. You won't appreciate it as much if you came to it on your own though, but once you arrive to the same conclusions by living similar experiences, you truly appreciate that "aha" knowledge
