@@ -1,6 +1,6 @@
 ---
 date: 2024-03-10
-title: "Lightning in a Bottle"
+title: "Catching Lightning"
 template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: lightning-in-a-bottle
