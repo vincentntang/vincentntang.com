@@ -29,6 +29,4 @@ I've had to make some of the most brutally hard decisions in my life last year. 
 
 These are lessons that apply to making friends - letting go of friends. Starting businesses - letting go of businesses. Starting hobbies - letting go of hobbies. Buying things - getting rid of things. Starting relationships - ending relationships. Creating blog entries - deleting blog entries. Creating identities - letting go of them. Starting new experiences - forgetting old ones. 
 
-Sometimes I wish I did not have to think about these things, but such is the life of someone who grew up with hardships without much mentorship
-
 Change can be a good thing
