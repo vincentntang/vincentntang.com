@@ -28,8 +28,7 @@ Sometimes I will buy things in the form of an impulsive purchase, based on marke
 
 Sometimes I will buy things as a form of curiosity. Many times this will come in video games, where I'd like to experience the creation of a world, or the manufacturing and design of a new product idea. This will usually provide inspiration for future ideas, or allow me to experiment on new product ideas temporarily. Example - ice cream machine to test run recipe ideas I have
 
-Sometimes, I will buy things as a form of overpreparation. This has saved me from having to think about needing toilet paper during Covid, but I also have way too much rice 
-I need to dump out during a move. It is much like pre-optimizing things like over-engineering. It's also buying tools I think I might need but don't actually use. Now I lean towards using hackerspaces, the gym more, etc where equipment is shared
+Sometimes, I will buy things as a form of overpreparation. This has saved me from having to think about needing toilet paper during Covid, but I also have way too much rice I need to dump out during a move. It is much like pre-optimizing things like over-engineering. It's also buying tools I think I might need but don't actually use. Now I lean towards using hackerspaces, the gym more, etc where equipment is shared
 
 It isn't just things that I buy either. Sometimes, it is photos, videos, free T-shirts I have been given, etc. I have become more intentful on having less of the same given type of item, such that each remaining item becomes more valuable. This means culling my T-shirt and hat collection
 
