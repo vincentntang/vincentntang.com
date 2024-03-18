@@ -104,7 +104,7 @@ Most of my writing thought process is really honed everyday because I journal qu
 
 At some point, I downgraded to an old iPhone8, which is end of life as it's 8 years old. Standard practice for Apple is to release breaking changes that slow/kill off old devices to the point you want to buy a new one
 
-Journalling with an immense amount of typing lag and typos felt weird. Everything I typed, had a literal time cost to it. The amount of things I could write was halved or even less.
+Journaling with an immense amount of typing lag and typos felt weird. Everything I typed, had a literal time cost to it. The amount of things I could write was halved or even less.
 
 I could not write thoughts, theories, things I wanted to reflect. I had to jot down half baked notes, and it became a sense of constant frustration for me.
 
