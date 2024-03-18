@@ -110,7 +110,7 @@ I could not write thoughts, theories, things I wanted to reflect. I had to jot d
 
 **It made me appreciate how much I take technology for granted.**
 
-> There was a time where writing wasn't even a thing. Where paper/pens didn't exist. You just had to remember, and it's so hard to keep track of so many things in modern day society now adays
+There was a time where writing wasn't even a thing. Where paper/pens didn't exist. You just had to remember, and it's so hard to keep track of so many things in modern day society now adays
 
 ## Calendar management
 
