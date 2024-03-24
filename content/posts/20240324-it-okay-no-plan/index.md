@@ -1,13 +1,14 @@
 ---
-title: It's okay not to have a plan
-published: false
-description: 
-tags: 
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
-# published_at: 2024-03-24 15:43 +0000
+date: 2024-03-24
+title: "It's okay not to have a plan"
+template: post
+thumbnail: "../../thumbnails/writing.png"
+slug: its-okay-no-plan
+categories:
+  - Personal
+tags:
+  - Writing
 ---
-
 
 ![](./img/noplan.png)
 
