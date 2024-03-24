@@ -10,6 +10,8 @@ tags:
   - Writing
 ---
 
+<!-- DALLE - catching lightning in a bottle, digital art -->
+
 ![](./img/lightning1.png)
 
 Sometimes I get these surges of inspiration to create something cool, inspirational, or artistic.
@@ -25,6 +27,8 @@ This isn't to say that thought is completely unique, many other people have thou
 What I've come to realize is that the more experience you have in a given topic or domain, you will generate more unique "aha" moments. And, the more unique it is, the more powerful it becomes if you capitalize on it.
 
 It's when you really have seen so many "aha" moments in your domain that you realize what is unique and what is not. 
+
+<!-- MIDJOURNEY - a guy in the heavens with a stash of bottles of lightning, spearing one down -->
 
 ![](./img/lightning2.png)
 
