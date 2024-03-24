@@ -1,5 +1,5 @@
 ---
-date: 2024-03-24
+date: 2024-03-22
 title: "Use colors in your resume"
 template: post
 thumbnail: "../../thumbnails/writing.png"
