@@ -44,7 +44,7 @@ I can see the past challenges I've overcome, both professional and personal. I c
 
 I can see pictures of my past self when I was still new to everything. How many crazy adventures I've had up until this point that were just spur of the moment
 
-Seeing what I've done in the past has always been an inspiration for my future. Nothing inspires me more than myself. And I always look inward instead of outward for validation first
+Seeing what I've done in the [past has always been an inspiration for my future](https://www.vincentntang.com/tenacity-and-life-lessons/). Nothing inspires me more than myself. And I always look inward instead of outward for validation first
 
 ## Hobbies
 
