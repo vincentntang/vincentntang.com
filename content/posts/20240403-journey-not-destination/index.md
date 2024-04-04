@@ -11,9 +11,7 @@ tags:
 ---
 
 
-
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x25sibrawvbkfdbdwl8z.png)
-
 _a picture from my first instructional flight_
 
 
