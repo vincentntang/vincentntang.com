@@ -11,7 +11,7 @@ tags:
 ---
 
 ![](./img/adoptamentor.png)
-_leaving florida_
+__leaving florida__
 
 I just moved out of my home state for the first time in my life. Not for work, visiting a friend, or to travel on vacation. But rather as a voluntarily choice to choose somewhere else to live. And to understand and explore myself better.
 
