@@ -1,12 +1,15 @@
 ---
-title: The bias of words
-published: false
-description: 
-tags: 
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
-# published_at: 2024-04-09 17:05 +0000
+date: 2024-04-10
+title: "The bias of words"
+template: post
+thumbnail: "../../thumbnails/writing.png"
+slug: the-bias-of-words
+categories:
+  - Personal
+tags:
+  - Writing
 ---
+
 
 ![](./img/wallofwords.png)
 
