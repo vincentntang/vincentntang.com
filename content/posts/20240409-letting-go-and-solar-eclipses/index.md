@@ -74,6 +74,3 @@ I've come to realize change requires new experiences. Negative experiences can b
 You can recondition yourself through these new experiences. Through embracing the fear of the unknown. Through challenging yourself into new situations. Through exploring new profound enlightening experiences
 
 All of this - to become a more mature version of what you want to be. But it always starts with you. You have to step forward yourself to embrace the change - to put yourself on the path of totality.
-
-> Watching the eclipse has left me pretty drained and exhausted. I am writing this a nap and a sleep after thinking about the experience
-
