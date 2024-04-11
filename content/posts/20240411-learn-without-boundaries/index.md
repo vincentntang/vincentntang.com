@@ -1,6 +1,6 @@
 ---
 date: 2024-04-11
-title: "Learn without Boundaries
+title: "Learn without Boundaries"
 template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: learn-without-boundaries
