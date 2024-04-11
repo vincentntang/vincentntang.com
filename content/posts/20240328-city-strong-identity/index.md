@@ -10,9 +10,9 @@ tags:
   - Writing
 ---
 
-<!--  DallE - a city without a strong identity, abstract art -->
 
 ![](./img/city.png)
+_DallE - a city without a strong identity, abstract art_
 
 I was raised in Orlando, FL - fairly close to Disney World. A world full of magic, wonder, and fantasy
 
