@@ -1339,3 +1339,9 @@ span.gatsby-resp-image-wrapper + em {
   max-width: 400px;
   height: auto;
 }
+
+// Figure caption, just use italics right after an image
+img + em {
+  display: block;
+  text-align: center
+}
