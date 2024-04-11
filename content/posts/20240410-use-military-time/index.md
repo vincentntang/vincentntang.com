@@ -10,7 +10,7 @@ tags:
   - Writing
 ---
 ![](./img/timepic.png)
-__Salvador Dali: Persistence of Memory__
+_Salvador Dali: Persistence of Memory_
 
 
 This is a tip I learned from a pilot
