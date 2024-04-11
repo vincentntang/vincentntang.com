@@ -43,7 +43,7 @@ I would learn to develop a better sense of who I wanted to be, based on the qual
 
 And in this process, I would **adopt a mentor** from afar. 
 
-To me, it was monkey see, monkey do. To me, I would see wisdom from all walks of life - including those younger than me. To me, ideas came from everywhere and I'd **learn without boundaries**
+To me, it was monkey see, monkey do. To me, I would see wisdom from all walks of life - including those younger than me. To me, ideas came from everywhere and I'd [**learn without boundaries**](https://www.vincentntang.com/learn-without-boundaries/)
 
 And as life progressed, I would solicit this mentorship directly. Sometimes in email, sometimes in person, sometimes in text, etc.
 

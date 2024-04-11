@@ -1,5 +1,5 @@
 ---
-date: 2024-04-20
+date: 2024-04-10
 title: "Use military time if you like math"
 template: post
 thumbnail: "../../thumbnails/writing.png"
