@@ -39,9 +39,7 @@ I learned you don't really need a lot of words to communicate - if there already
 
 Basic in-person communication is what I understood at the time to be a combination of body language cues, tone, context of the situations, the person's culture, and words
 
-> This is something you will realize yourself, if you've travelled to other countries. There will be times you are lost, where you ask for directions. Sometimes you'll do it in their native language but they'll just respond back in English. 
-
-> It could be because you don't look like a native, or your accent/pronounciation is very different - or your just in a touristy area, so its the assumed context. Or a combination of all the above
+This is something you will realize yourself, if you've travelled to other countries. There will be times you are lost, where you ask for directions. Sometimes you'll do it in their native language but they'll just respond back in English. It could be because you don't look like a native, or your accent/pronounciation is very different - or your just in a touristy area, so its the assumed context. Or a combination of all the above
 
 ## A take on words
 
