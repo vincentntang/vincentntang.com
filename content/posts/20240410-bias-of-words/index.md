@@ -12,8 +12,7 @@ tags:
 
 
 ![](./img/wallofwords.png)
-
-<!-- DALLE - a wall of words in different languages that is melting, surrealism style -->
+_DALLE - a wall of words in different languages that is melting, surrealism style_
 
 The definition of Linguistics is the study of language - it's structure, how it's acquired, how people use it, its history, etc
 
@@ -32,8 +31,7 @@ The client would respond with a head nod, or some body language cue.
 Other times, I would seek out what common English they knew. And I would build a dictionary of communication between me and the client. It's like a secret handshake language of sorts
 
 ![](./img/wallofwords2.png)
-
-<!-- Monkeys talking to each other, abstract art style -->
+_DALLE - Monkeys talking to each other, abstract art style_
 
 I learned you don't really need a lot of words to communicate - if there already is an assumed context of buying/selling goods
 
@@ -65,8 +63,7 @@ I first learned about this word from [Tom Scott](https://youtu.be/QYlVJlmjLEc). 
 
 
 ![](./img/wallofwords3.png)
-
-<!-- DALLE - yin yang symbol, synthwave style -->
+_DALLE - yin yang symbol, synthwave style_
 
 
 In my own culture in Chinese (Cantonese) we have words that are also not conveyed in any language
@@ -102,8 +99,7 @@ It's important to note how you describe yourself in words. How you label yoursel
 Because there is sometimes an inherent bias in words, which in turn creates a internalized mindset shift over time depending on how it's used
 
 ![](./img/wallofwords4.png)
-
-<!-- DALLE - beaches and waves, digital art -->
+_DALLE - beaches and waves, digital art_
 
 ## Closing thoughts
 
