@@ -73,11 +73,9 @@ I first learned about this word from [Tom Scott](https://youtu.be/QYlVJlmjLEc). 
 
 In my own culture in Chinese (Cantonese) we have words that are also not conveyed in any language
 
-This is the word ["YEET HAY"](https://circledna.com/blog/demystifying-yeet-hay/) or 熱氣. 
+This is the word ["YEET HAY"](https://circledna.com/blog/demystifying-yeet-hay/) or 熱氣. The origin of this word is based strongly in Feng Shui and Buddhist ideologies
 
 It is a word we use when we eat a lot of polarizing food, such as spicy or junk food. And that energy radiates in our body which then produces sore throats, acne, sickness, fatigue etc. It implies that these foods are inherently not good for you, but they can provide a sense of comfort. 
-
-> The origin of this word is based strongly in Feng Shui and Buddhist ideologies
 
 Now lets look at indian culture for example. Spicy food stimulates the taste buds, creating a [sensation of heat and excitement](https://medium.com/@sayandeepbanerjee26/5-reasons-why-indian-food-is-spicy-a-journey-of-flavor-and-culture-906966bd0943#:~:text=Indians%20have%20developed%20a%20preference,dishes%2C%20making%20them%20more%20enjoyable) providing enjoyment to those that like it. 
 
