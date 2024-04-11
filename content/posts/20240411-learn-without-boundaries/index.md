@@ -11,8 +11,7 @@ tags:
 ---
 
 ![](./img/learn1.png)
-
-<!-- DALLE - growing past boundaries -->
+_DALLE - growing past boundaries_
 
 There is a book called ["the smartest kids in the world and how they got there"](https://www.amazon.com/Smartest-Kids-World-They-That/dp/145165443X). It talks about the effectiveness of K-12 schooling and education from around the world. From Europe, to Asia, to America.
 
@@ -25,6 +24,7 @@ Germanic schooling tends to fair very well here too, as there is a sense of perf
 However, there is though one culture that is heavily highlighted in the book though as one of the "best" K-12 educational systems in the world, and that is of Finland. 
 
 ![](./img/learn2.png)
+_Finland, Encyclopedia Brittanica_
 
 When we look at the K-12 educational system there, it's first and foremost important to understand the culture. The culture is a very peaceful, neutral country surrounded by mountains. People there tend to their own business, there is not much small talk. There is also next to no socialeconomic conflict or issues either
 
@@ -41,8 +41,7 @@ In many ways, the student develops a sense of the world on their own. They **lea
 Whereas in other schools such as those in Asian culture, military like discipline tends to be the norm. Math must be perfected, a student must take on many hobbies like playing the Piano, etc. Education is very much forced, with boundaries and stipulations of becoming a doctor, lawyer, engineer, etc
 
 ![](./img/learn3.png)
-
-<!-- DALLE - a kid buried in schoolbooks to study, digital art -->
+_DALLE - a kid buried in schoolbooks to study, digital art_
 
 When someone is given the oppurtunity to safely learn on their own, and the oppurtunity to fail where failure comes at almost no time or monetary cost, they are learning without boundaries.
 
@@ -55,7 +54,7 @@ Digressing away from the book - the teacher doesn't necessarily have to be a per
 Those that don't learn without boundaries, they usually develop a completely skillset. For someone that did not grow up with money, working ends meet - this means putting food on the table. Survival by money. Have the burden of always thinking short term puts a stoppage on the luxury of learning. Dealing with foodstamps, paycheck to paycheck, etc. 
 
 ![](./img/learn4.png)
-<!-- DALLE: a kid selling lemonade on the streets, digital art -->
+_DALLE: a kid selling lemonade on the streets, digital art_
 
 If you didn't **learn without boundaries**, what usually happens is you resort to copying others who did. But you will lack the original foundation that they have built, and what seems to work for them may not work for you
 
