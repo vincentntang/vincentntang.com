@@ -49,12 +49,10 @@ And as life progressed, I would solicit this mentorship directly. Sometimes in e
 
 Mentorship always starts first and foremost, from the mentee. The willingness to learn, to ask for help, and to recognize your own pitfalls 
 
-> You can adopt a mentor from anyone. Watching interviews of the person you aspire to. Being vulnerable and asking for help to those you feel safe around and trust in their knowledge/wisdom you seek.
+## Additional Notes
 
-> It is best to have mentors in areas you are weakest in, or weren't exposed to growing up
-
-> If you have no grandparents, consider adopting one - they have lived many lifes with many stories to tell
-
-> You will also have to drop mentors from your life at some point, as you outgrow them in your own unique way. People are there for different phases of your life. It is okay to say no and move on
-
-> You can be the mentor to help others see the other perspective they seek in life, if you've lived both sides.
+- You can adopt a mentor from anyone. Watching interviews of the person you aspire to. Being vulnerable and asking for help to those you feel safe around and trust in their knowledge/wisdom you seek.
+- It is best to have mentors in areas you are weakest in, or weren't exposed to growing up
+- If you have no grandparents, consider adopting one - they have lived many lifes with many stories to tell
+- You will also have to drop mentors from your life at some point, as you outgrow them in your own unique way. People are there for different phases of your life. It is okay to say no and move on
+- You can be the mentor to help others see the other perspective they seek in life, if you've lived both sides.
