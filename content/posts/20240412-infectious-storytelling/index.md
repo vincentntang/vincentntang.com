@@ -49,7 +49,7 @@ It became a hot success. I would still be this inspiration for others around me,
 
 To me, it was an outlet where I could express my creativity. A place where I could build things. And the byproduct was something useful for others - a place to make connections to help jumpstart their career into tech. A way I could pay it forward for the help I got in my own career
 
-Among my first circle, there was a call for help. Two of them were going to be exported out of the USA if they didn't find jobs. And I had the power, the connections to help change that
+Among my friend circle, there was a call for help. Two of them were going to be exported out of the USA if they didn't find jobs. And I had the power, the connections to help change that
 
 I took on the role of leadership, not because I wanted to, but because it was a self-sacrifice I was willing to make for others
 
