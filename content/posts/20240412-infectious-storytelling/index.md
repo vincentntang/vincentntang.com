@@ -57,9 +57,9 @@ Only long enough for them to find jobs. And then, I would leave, and continue th
 
 One thing led to another, and things grew beyond expectation. I didn't want to make it a business at the time, but it became just that. A 501c3 nonprofit. It was a self-sacrifice in ideals for something beyond me. 
 
-When it came time to [step down](https://www.vincentntang.com/how-it-feels-retiring/), to focus on me, I was this inspirational light for others.
+When it came time to [step down](https://www.vincentntang.com/how-it-feels-retiring/), to focus on me, it was harder on others more so then myself
 
-And when I let it all go, I realized almost all my connections I had in my life, could not see me other than this inspiration in their life.
+When I let it all go, I realized almost all my connections I had in my life, could not see me other than this inspiration in their life.
 
 I made this self-sacrifice for others, but it also came at the expense of my own well being. I was what others wanted me to be, but barely anyone saw me for what I actually am. A creative builder. Not a tech leader
 
