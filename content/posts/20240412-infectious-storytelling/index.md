@@ -45,7 +45,7 @@ _tampa devs event, 2022_
 
 I'm a week in this trajectory. And it's made me realize I never actually chose software development. It was a necessity. A necessity to obtain financial freedom and to leave a situation I didn't want to be in. A necessity for others because I was good at building the things they needed. A necessity for others as they needed an inspirational light.
 
-But I never chose it for myself. I never chose to be a software developer. I never chose to be the leader. 
+But I never chose it for myself. I never chose to be a software developer. I never chose to be a leader. 
 
 It was just expected of me. I was on a journey to learn more about myself, and this was just a phase of my life
 
