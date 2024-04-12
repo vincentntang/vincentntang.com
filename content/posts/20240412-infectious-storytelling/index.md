@@ -80,7 +80,7 @@ His story is this - he worked 10 years flipping burgers at a gas station. Then h
 
 He made it big - a rags to riches story. And now he is passing it forward in every way possible - not as a self-sacrifice, but rather because this is who he wants to be. 
 
-There were just so many random bits of stories I could relate to. Stories of making an impact to someone from Nigeria while living in the USA. Stories about dealing with big name sponsors willing to throw money at you, and just telling them no when you had nothing. Stories of helping dozens of people get their first tech jobs.
+There were just so many random bits of stories I could relate to. Stories of making an impact to someone from Nigeria while living in the USA. Stories about dealing with big name sponsors willing to throw money at you, and just telling them no when you had nothing. Stories of helping dozens of people get their first tech jobs. Stories of doing something ballsy and successfully renegotiating the one job offer that I had
 
 There were so many wild and crazy stories. Stuff that doesn't sound believable. Yet for anyone who's lived through the same 
 career trajectory, they are so real
