@@ -74,7 +74,7 @@ _skyline, Dallas, TX_
 
 Now I am in Dallas, at my first tech meetup that I am not running.
 
-I met the organizer who went through the same career trajectory as me. Except he started from the bottom, whereas I started from the top
+I met the [organizer](https://twitter.com/DThompsonDev?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) who went through the same career trajectory as me. Except he started from the bottom, whereas I started from the top
 
 His story is this - he worked 10 years flipping burgers at a gas station. Then he had a quarter life crisis, decided to turn it all around when he heard about coding
 
