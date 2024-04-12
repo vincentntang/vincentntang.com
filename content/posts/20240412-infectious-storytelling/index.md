@@ -69,7 +69,7 @@ _skyline, Dallas, TX_
 
 Now I am in Dallas, at my first ever tech meetup I am not running. 
 
-I met an [organizer](https://twitter.com/DThompsonDev?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) who went through the same inspirational light trajectory as I did. Someone who's helped not dozens of people find jobs like I have, but hundreds. Someone who actually wants to be the inspirational light, in the field of tech. Someone who has spent equally as much time in his career as I did
+I met an [organizer](https://twitter.com/DThompsonDev?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) who went through the same inspirational trajectory as I did. Someone who's helped not dozens of people find jobs like I have, but hundreds. Someone who actually wants to be the inspirational light, in the field of tech. Someone who has spent equally as much time in his career as I did
 
 He started from absolutely nothing, from the bottom. As a guy flipping burgers for 10 years. 
 
