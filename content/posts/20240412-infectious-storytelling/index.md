@@ -10,35 +10,6 @@ tags:
   - Writing
 ---
 
-![](./img/dark.png)
-_DALLE - a dark place shrouded in mystery_
-
-Many years ago, I was in a dark place in life. 
-
-A place in which felt like I lost everything I had at the time. 
-
-A place where I spent years working on a goal, only to be met with failure. With something completely out of my control
-
-A place that I spent years dedicating my life for something I believed in. Only to be outcasted and publically humiliated along the way. 
-
-A place where I lost all my social circles in one shot. Because I didn't follow the same path in life.
-
-All my foundations crumbled in one shot. It was an all time low for me. And I felt lost. It felt like everything I worked towards for years, amounted to absolutely nothing. I didn't believe in myself
-
-It was a time in my life that I needed guidance badly. Anything really. I was vulnerable. So when it did come, I took it in.
-
-For the first time in my life, I took to religion. I became a Christian. For the better part of a year. 
-
-This is something I'm not exactly proud of sharing. But here is a journal article I wrote in 2013
-
-![](./img/storytelling.png)
-
-For anyone that knows me, this writing will come as a shock. I am not religious. Not in the slightest. I am a man of science and principle
-
-When I eventually left Christianity, I turned elsewhere for guidance. I did some soul searching on the web
-
-This was the first time I learned what a "self-help" book was. I read many of them, including forums and online articles. I read [many quotes](https://www.vincentntang.com/journey-not-destination/) that spoke to me, one was this:
-
 **"Stories are the currency of human relationships"** from [Robert McKee](https://www.goodreads.com/quotes/6715854-stories-are-the-currency-of-human-relationships)
 
 For many years I did not think too hardly about this quote. Not until I started my career into [coding](https://www.vincentntang.com/how-hackathons-got-me-a-job/).
