@@ -87,7 +87,7 @@ career trajectory, they are so real
 
 His story was **infectious**. So much that I told the Uber driver along the way back to my hotel, and it may have inspired him to take up coding too
 
-It's also made me realize that I am not a tech leader. Here it someone who knew who he truly was, and I could feel it. That was not me. I made a self-sacrifice; he did not
+It's also made me realize that I am not a tech leader. Here is someone who knew who he truly was, and I could feel it. That was not me. I made a self-sacrifice; he did not
 
 This begs a bigger question for me
 
