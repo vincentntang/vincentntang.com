@@ -49,7 +49,7 @@ But I never chose it for myself. I never chose to be a software developer. I nev
 
 It was just expected of me. I was on a journey to learn more about myself, and this was just a phase of my life
 
-This whole phase has caused massive strife in my life. Identity crisis. A [lost of self](https://www.vincentntang.com/maintaining-a-sense-of-self/).
+This whole phase has caused massive strife in my life. Identity crisis. A [lost of self](https://www.vincentntang.com/maintaining-a-sense-of-self/). The feeling of [losing everything](https://www.vincentntang.com/deciding-what-to-keep/) all over again
 
 ![](./img/storytelling3.png)
 _skyline, Dallas, TX_
