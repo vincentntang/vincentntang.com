@@ -27,7 +27,7 @@ All my foundations crumbled in one shot. It was an all time low for me. And I fe
 
 It was a time in my life that I needed guidance badly. Anything really. I was vulnerable. So when it did come, I took it in.
 
-I became a Christian. For the better part of a year. 
+For the first time in my life, I took to religion. I became a Christian. For the better part of a year. 
 
 This is something I'm not exactly proud of sharing. But here is a journal article I wrote in 2013
 
