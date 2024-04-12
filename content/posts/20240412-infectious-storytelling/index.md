@@ -3,7 +3,7 @@ date: 2024-04-12
 title: "Infectious Storytelling"
 template: post
 thumbnail: "../../thumbnails/writing.png"
-slug: writing-as-an-art-form
+slug: infectious-storytelling
 categories:
   - Personal
 tags:
