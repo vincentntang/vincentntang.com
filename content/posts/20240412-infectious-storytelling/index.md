@@ -10,11 +10,24 @@ tags:
   - Writing
 ---
 
+![](./img/dark.png)
+_DALLE - a dark place shrouded in mystery_
+
 Many years ago, I was in a dark place in life. 
 
-A place in which felt like I lost everything. A place where I spent years working on a goal, only to be met with failure. A place that I spent years dedicating my life too, only to be outcasted and publically humiliated along the way. A place where I lost all my social circles in one shot. Ex-communication
+A place in which felt like I lost everything I had at the time. 
 
-It was an all time low for me. I was vulnerable. So I took the first guidance given to me. I became a Christian. For the better part of a year. 
+A place where I spent years working on a goal, only to be met with failure. With something completely out of my control
+
+A place that I spent years dedicating my life for something I believed in. Only to be outcasted and publically humiliated along the way. 
+
+A place where I lost all my social circles in one shot. Because I didn't follow the same path in life.
+
+All my foundations crumbled in one shot. It was an all time low for me. And I felt lost. It felt like everything I worked towards for years, amounted to absolutely nothing. I didn't believe in myself
+
+It was a time in my life that I needed guidance badly. Anything really. I was vulnerable. So when it did come, I took it in.
+
+I became a Christian. For the better part of a year. 
 
 This is something I'm not exactly proud of sharing. But here is a journal article I wrote in 2013
 
