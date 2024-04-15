@@ -1,6 +1,6 @@
 ---
 date: 2024-04-12
-title: "Infectious Storytelling and Self-Sacrifce"
+title: "Infectious Storytelling and Self-Sacrifice"
 template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: infectious-storytelling-and-self-sacrifice
