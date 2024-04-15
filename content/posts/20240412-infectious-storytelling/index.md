@@ -55,17 +55,19 @@ I took on the role of leadership, not because I wanted to, but because it was a 
 
 Only long enough for them to find jobs. And then, I would leave, and continue the life I wanted to lead.
 
-One thing led to another, and things grew beyond expectation. I didn't want to make it a business at the time, but it became just that. A 501c3 nonprofit. It was a self-sacrifice in ideals for something beyond me. 
+One thing led to another, and things grew beyond expectation. I didn't want to make it a business at the time, but it became just that. A 501c3 nonprofit. It was a self-sacrifice in ideals for something beyond me.
 
-When it came time to [step down](https://www.vincentntang.com/how-it-feels-retiring/), to focus on me, it was harder on others more so then myself
+When it came time to [step down](https://www.vincentntang.com/how-it-feels-retiring/), to focus on me, it was harder on others more so then myself. 
 
-When I let it all go, I realized almost all my connections I had in my life, could not see me other than this inspiration in their life.
+When I let it all go, I realized almost all my connections I had in my life, could not see me other than this inspiration in their life. 
 
 I made this self-sacrifice for others, but it also came at the expense of my own well being. I was what others wanted me to be, but barely anyone saw me for what I actually am. A creative builder. Not a tech leader
 
 Because of this identity dichotomy, I [lost so much](https://www.vincentntang.com/deciding-what-to-keep/) along the way. A [sense of my self](https://www.vincentntang.com/maintaining-a-sense-of-self/). Not knowing who I was, or who would stick around to see me as just a regular dude living his life.  
 
 Eventually I decided not to renew my lease, and move. To start fresh, to be the person I want to be.
+
+> I don't regret any of the experiences though; I see it as a memorable time in my life. One that taught me many lessons in life, with many crazy adventures to boot. A mixed bag of sorts
 
 ![](./img/storytelling3.png)
 _skyline, Dallas, TX_
