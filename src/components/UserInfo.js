@@ -32,7 +32,7 @@ export default class UserInfo extends Component {
           <div className="content-right">
             <h1 className="text-36">Hi <span className={isHomePage ? "hand-wave" : ""}>👋</span></h1>
             <Img className="display-right-float" key={2} fixed={vincentBlue.node.fixed} />
-            <p className="about-user">I'm Vincent Tang, a software engineer specialized in product design and manufacturing. Originally this website started as a coding blog, then lessons about leadership, and now essays in psychology/build logs of my own creations. I'm the founder of <a target="_blank" rel="noreferrer" href="https://tampadevs.com">Tampa Devs</a> and I also run a coding podcast called <a target="_blank" rel="noreferrer" href="https://codechefs.dev">Code Chefs</a></p>
+            <p className="about-user">I'm Vincent Tang, a software engineer specialized in product manufacturing. I write about things I've created or learned across many disciplines. From coding, to manufacturing, to leadership, and psychology. I'm the founder of <a target="_blank" rel="noreferrer" href="https://tampadevs.com">Tampa Devs</a> and I also run a coding podcast called <a target="_blank" rel="noreferrer" href="https://codechefs.dev">Code Chefs</a></p>
             {/* <iframe src="https://vincentntang.substack.com/embed" width="280px" height="90px" frameborder="0" scrolling="no"></iframe> */}
             {/* <form className="tiny-form" action="https://tinyletter.com/vincentntang" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/vincentntang', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
               <div className="tiny-wrapper">
