@@ -1,9 +1,9 @@
 ---
 date: 2024-04-16
-title: "Learning to trust yourself"
+title: "Learning to trust yourself again"
 template: post
 thumbnail: "../../thumbnails/writing.png"
-slug: learning-to-trust-yourself
+slug: learning-to-trust-yourself-again
 categories:
   - Personal
 tags:
