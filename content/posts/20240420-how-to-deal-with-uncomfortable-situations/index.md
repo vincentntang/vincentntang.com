@@ -13,6 +13,8 @@ tags:
 ![](./img/gear1.png)
 _the simpsons, homer_
 
+Imagine yourself for a moment in this scenario:
+
 You are out in the world in what feels like another country. You don't know what the people are like here. You don't know the area. Everything is unfamiliar and uncomfortable, and nothing around you gives a sense of friendliness either
 
 In the back of your mind, you feel there could be danger around the corner. In the past, you may have been in situations like this, where bad things did happen. You aren't sure, so you aren't writing it off entirely either. In any case, your fear of the unknown is kicking in. You don't know what's out there, and that makes things uncomfortable
