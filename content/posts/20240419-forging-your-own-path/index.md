@@ -1,5 +1,5 @@
 ---
-date: 2024-04-18
+date: 2024-04-19
 title: "Forging your own path using power paradigms"
 template: post
 thumbnail: "../../thumbnails/writing.png"
