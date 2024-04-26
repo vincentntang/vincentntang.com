@@ -98,6 +98,8 @@ Think of this as a gym buddy. You can motivate each other in this sense, because
 
 When the goals are externalized though, this becomes a form of competition. There is only one first place, and only one person can get it. This could be a job or promotion at a company. You have to protect your own interests first in these cases 
 
+These are also your classmates you are not really close to, if you are in University too
+
 ### Skills + Values
 
 These are your 2nd degree friends. These are the friends you first make when you join a new hobby - they might not share the same goals as you, but you just get along with them
