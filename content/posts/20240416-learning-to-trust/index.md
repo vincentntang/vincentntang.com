@@ -1,6 +1,6 @@
 ---
 date: 2024-04-16
-title: "Learning to trust yourself again"
+title: "Learning to trust again"
 template: post
 thumbnail: "../../thumbnails/writing.png"
 slug: learning-to-trust-yourself-again
