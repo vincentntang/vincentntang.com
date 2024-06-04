@@ -32,17 +32,7 @@ export default class UserInfo extends Component {
           <div className="content-right">
             <h1 className="text-36">Hi <span className={isHomePage ? "hand-wave" : ""}>👋</span></h1>
             <Img className="display-right-float" key={2} fixed={vincentBlue.node.fixed} />
-            <p className="about-user">I'm Vincent Tang, creative writer specialized in product delivery. Currently I write software, operational leadership articles, psychology essays, and build logs of my own creations. Formerly, I am a material scientist, kitchen designer, and the founder of <a target="_blank" rel="noreferrer" href="https://tampadevs.com">Tampa Devs</a>. I <a href="https://www.vincentntang.com/learn-without-boundaries/)">learn without boundaries</a></p>
-            {/* <iframe src="https://vincentntang.substack.com/embed" width="280px" height="90px" frameborder="0" scrolling="no"></iframe> */}
-            {/* <form className="tiny-form" action="https://tinyletter.com/vincentntang" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/vincentntang', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-              <div className="tiny-wrapper">
-                <span><input type="text" className="tiny-input" name="email" id="tlemail" placeholder="hello@gmail.com"/></span>
-                <input type="hidden" value="1" name="embed" />
-                <input className="tiny-submit" type="submit" value="Join Newsletter" /><p></p>
-              </div>
-              <p className="tiny-show-me">Show me what I'm signing up for!</p>
-            </form> */}
-            {/* <a className="button mr-2" target="_blank" rel="noreferrer" href="https://tinyletter.com/vincentntang">Join Newsletter</a> */}
+            <p className="about-user">I'm Vincent Tang, a fullstack software developer specialized in product design. I run a coding podcast called <a target="_blank" rel="noreferrer" href="https://tampadevs.com">Code Chefs</a> and I am formerly the founder of <a target="_blank" rel="noreferrer" href="https://tampadevs.com">Tampa Devs</a></p>
             {isHomePage ?
               this.renderNewsletterButton() :
               <ScrollAnimation animateOnce offset={100} animateIn="bounce" style={{ display: "inline-block" }} className="width-100-600">
