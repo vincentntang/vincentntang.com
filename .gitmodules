@@ -1,3 +1,6 @@
 [submodule "content"]
 	path = content
-	url = git@github.com:taniarascia/taniarascia-content.git
+	url = git@github.com:vincentntang/vincentntang-content.git
+[submodule "content/vincentntang-content"]
+	path = content/vincentntang-content
+	url = https://github.com/vincentntang/vincentntang-content
