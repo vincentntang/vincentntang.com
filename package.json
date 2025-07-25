@@ -1,9 +1,9 @@
 {
-  "name": "taniarascia.com",
+  "name": "vincentntang.com",
   "private": true,
   "version": "7.1",
-  "description": "Tania Rascia's personal website.",
-  "author": "Tania Rascia",
+  "description": "Vincent Tang's personal website.",
+  "author": "Vincent Tang",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
