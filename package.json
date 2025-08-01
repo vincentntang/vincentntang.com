@@ -16,10 +16,8 @@
     "type": "git",
     "url": "https://github.com/vincentntang/vincentntang.com"
   },
-  {
-    "engines": {
-      "node": "22.x"
-    }
+  "engines": {
+    "node": "22.x"
   },
   "dependencies": {
     "gatsby": "^5.14.5",
