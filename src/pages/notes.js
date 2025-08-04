@@ -33,6 +33,8 @@ export default function Notes({ data }) {
 
 Notes.Layout = Layout
 
+// categories: { eq: "Personal" } adjacent to template tag in frontmatter removed
+
 export const notesQuery = graphql`
   query NotesQuery {
     posts: allMarkdownRemark(
@@ -40,7 +42,6 @@ export const notesQuery = graphql`
       filter: {
         frontmatter: {
           template: { eq: "post" }
-          categories: { eq: "Personal" }
         }
       }
     ) {

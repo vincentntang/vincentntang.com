@@ -85,14 +85,16 @@ export default function Projects() {
                       Demo
                     </a>
                   )}
-                  <a
-                    className="button small"
-                    href={`https://github.com/vincentntang/${project.slug}`}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Source
-                  </a>
+                  {!project.nosource && (
+                    <a
+                      className="button small"
+                      href={`https://github.com/vincentntang/${project.slug}`}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Source
+                    </a>
+                  )}
                 </div>
               </div>
             )
