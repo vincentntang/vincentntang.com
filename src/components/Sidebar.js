@@ -96,7 +96,7 @@ export const Sidebar = () => {
         <h2>Stay Connected</h2>
         <p className="sidebar-links">
           <a
-            href="https://taniarascia.substack.com"
+            href="https://vincentntang.substack.com"
             target="_blank"
             rel="noopener noreferrer"
           >

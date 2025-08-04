@@ -56,7 +56,7 @@ export default function Index({ data }) {
                   <img src={floppy} alt="Floppy Logo" /> About Me
                 </Link>
                 <a
-                  href="https://taniarascia.substack.com"
+                  href="https://vincentntang.substack.com"
                   className="button"
                   type="button"
                   rel="noreferrer"
@@ -75,15 +75,15 @@ export default function Index({ data }) {
         <div className="article-type-wrapper">
           <section className="section-index">
             <Heading
-              title="Notes"
+              title="Blog"
               slug="/notes"
               buttonText="See All"
-              description="Life, music, projects, and everything else."
+              description="Build guides, how tos, and thought logs"
             />
             <Posts data={notes} newspaper />
           </section>
 
-          <section className="section-index">
+          {/* <section className="section-index">
             <Heading
               title="Blog"
               slug="/blog"
@@ -91,16 +91,16 @@ export default function Index({ data }) {
               description="Guides, references, and tutorials."
             />
             <Posts data={articles} newspaper />
-          </section>
+          </section> */}
         </div>
 
         <section className="section-index">
-          <Heading
+          {/* <Heading
             title="Deep Dives"
             slug="/topics"
             buttonText="All Topics"
             description="Long-form tutorials on a variety of development topics."
-          />
+          /> */}
           <div className="cards">
             {simplifiedHighlights.map((post) => {
               return (
@@ -135,7 +135,7 @@ export default function Index({ data }) {
                   <div className="card" key={`hightlight-${project.slug}`}>
                     <time>{project.date}</time>
                     <a
-                      href={`https://github.com/taniarascia/${project.slug}`}
+                      href={`https://github.com/vincentntang/${project.slug}`}
                       target="_blank"
                       rel="noreferrer"
                     >

@@ -1,8 +1,8 @@
 export const projectsList = [
   {
-    name: 'tania.dev',
+    name: 'vincentntang.com',
     date: '2022',
-    slug: 'taniarascia.com',
+    slug: 'vincentntang.com',
     tagline: 'The source of this website',
   },
   {
@@ -28,7 +28,7 @@ export const projectsList = [
     date: '2019',
     slug: 'chip8',
     tagline: 'A retro game emulator',
-    url: 'https://taniarascia.github.io/chip8',
+    url: 'https://vincentntang.github.io/chip8',
     writeup: '/writing-an-emulator-in-javascript-chip8',
     highlight: true,
   },
@@ -37,7 +37,7 @@ export const projectsList = [
     date: '2021',
     slug: 'sokoban',
     tagline: 'A web-based Sokoban',
-    url: 'https://taniarascia.github.io/sokoban',
+    url: 'https://vincentntang.github.io/sokoban',
     writeup: '/sokoban-game',
     highlight: true,
   },
@@ -46,7 +46,7 @@ export const projectsList = [
     date: '2015',
     slug: 'new-moon',
     tagline: 'The optimized dark theme',
-    url: 'https://taniarascia.github.io/new-moon',
+    url: 'https://vincentntang.github.io/new-moon',
     highlight: true,
   },
   {
@@ -60,7 +60,7 @@ export const projectsList = [
     date: '2017',
     slug: 'primitive',
     tagline: 'A front-end design toolkit',
-    url: 'https://taniarascia.github.io/primitive',
+    url: 'https://vincentntang.github.io/primitive',
   },
   {
     name: 'Snek',

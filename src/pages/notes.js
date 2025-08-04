@@ -16,7 +16,7 @@ export default function Notes({ data }) {
   const simplifiedPosts = useMemo(() => getSimplifiedPosts(posts), [posts])
   const title = 'Notes'
   const description =
-    'Personal notes about life, music, projects, and everything else.'
+    'Random thoughts, build guides, and how tos'
 
   return (
     <>
