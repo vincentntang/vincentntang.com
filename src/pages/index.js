@@ -15,6 +15,7 @@ import { getSimplifiedPosts } from '../utils/helpers'
 import config from '../utils/config'
 import newMoon from '../../content/images/new-moon.svg'
 import floppy from '../../content/images/floppylogo.png'
+import vtImage from '../../content/images/vt.png'
 
 export default function Index({ data }) {
   const latestNotes = data.latestNotes.edges
@@ -53,9 +54,9 @@ export default function Index({ data }) {
                 style={{ marginBottom: 0 }}
               >
                 <Link className="button" to="/me">
-                  <img src={floppy} alt="Floppy Logo" /> About Me
+                  <img src={vtImage} alt="Floppy Logo" /> About Me
                 </Link>
-                <a
+                {/* <a
                   href="https://vincentntang.substack.com"
                   className="button"
                   type="button"
@@ -63,7 +64,7 @@ export default function Index({ data }) {
                   target="_blank"
                 >
                   <img src={newMoon} alt="New Moon Logo" /> Email Newsletter
-                </a>
+                </a> */}
               </p>
             </div>
             <div className="hero-image-container">
