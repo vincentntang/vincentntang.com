@@ -5,10 +5,10 @@ import gatsby from '../assets/gatsby.png'
 import github from '../assets/nav-github.png'
 
 const links = [
-  { url: 'https://vincentntang.substack.com', label: 'Email signup' },
+  // { url: 'https://vincentntang.substack.com', label: 'Email signup' },
   { url: 'https://www.vincentntang.com/rss.xml', label: 'RSS feed' },
-  { url: 'https://bsky.app/profile/vincentntang.com', label: 'Bluesky' },
-  { url: 'https://ko-fi.com/vincentntang', label: 'Buy me a coffee' },
+  // { url: 'https://bsky.app/profile/vincentntang.com', label: 'Bluesky' },
+  // { url: 'https://ko-fi.com/vincentntang', label: 'Buy me a coffee' },
 ]
 const madeWithLinks = [
   { url: 'https://www.gatsbyjs.org', label: 'Gatsby', icon: gatsby },

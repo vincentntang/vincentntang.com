@@ -5,7 +5,7 @@ export const projectsList = [
     slug: 'codechefs',
     tagline: 'Coding podcast for junior developers to level up',
     url: 'https://www.codechefs.dev',
-    writeup: '/musical-instrument-web-audio-api',
+    writeup: '/custom-podcast-site-gatsby-react/',
     highlight: true,
   },
   {
@@ -14,7 +14,7 @@ export const projectsList = [
     slug: 'tampadevs',
     tagline: 'A community of software developers in Tampa FL',
     url: 'https://tampadevs.com',
-    writeup: '/building-takenote',
+    writeup: '/why-i-started-tampa-devs/',
     highlight: true,
     nosource: true,
   },

@@ -15,69 +15,52 @@ import pc from '../../content/thumbnails/computer.png'
 import bluesky from '../../content/thumbnails/bluesky.png'
 import rss from '../../content/thumbnails/rss.png'
 import newMoon from '../../content/images/new-moon.svg'
+import tampaDevs from '../../content/images/tampadevs.png'
+import tampaDevsShip from '../../content/images/tampadevship.png'
+import github from '../../content/thumbnails/github.png'
+
 
 export const Sidebar = () => {
-  const guides = [
+  const codingGuides = [
     {
-      url: '/setting-up-a-brand-new-mac-for-development',
-      title: 'macOS Setup for Devs',
-      icon: mac,
-    },
-    {
-      url: '/overview-of-css-concepts/',
-      title: 'CSS Guidebook',
-      icon: css,
-    },
-    {
-      url: '/react-architecture-directory-structure',
-      title: 'React Architecture',
+      url: '/custom-podcast-site-gatsby-react/',
+      title: 'Custom GatsbyJS Podcast Site',
       icon: react,
-    },
-    {
-      url: '/asynchronous-javascript-event-loop-callbacks-promises-async-await/',
-      title: 'The Event Loop',
-      icon: js,
-    },
-    {
-      url: '/how-to-create-and-use-bash-scripts/',
-      title: 'Bash Scripts',
-      icon: bash,
     },
   ]
 
-  const projectWriteups = [
+  const leadershipWriteups = [
     {
-      url: '/musical-instrument-web-audio-api',
-      title: 'Keyboard Accordion',
-      icon: accordion,
+      url: '/attract-right-people-invitation',
+      title: 'Attract the right people - open invitation',
+      icon: tampaDevs,
     },
     {
-      url: '/how-to-create-a-memory-game-super-mario-with-plain-javascript',
-      title: 'SNES Memory Game',
-      icon: mario,
+      url: '/dealing-with-impostor-syndrome/',
+      title: 'Dealing with impostor syndrome',
+      icon: tampaDevs,
     },
     {
-      url: '/writing-an-emulator-in-javascript-chip8/',
-      title: 'Chip-8 Emulator',
-      icon: js,
-    },
-    { url: '/building-takenote', title: 'TakeNote App', icon: tn },
+      url: '/calendar-planning-software-meetup/',
+      title: 'Calendar planning software meetup',
+      icon: tampaDevs,
+    }
   ]
   const funStuff = [
     {
-      url: '/animorphs',
-      title: 'The Lore of Animorphs',
-      icon: animorphs,
+      url: '/designing-coolest-embroidered-hat/',
+      title: 'Designing the coolest embroidered hat ever',
+      icon: tampaDevsShip
     },
     {
-      url: '/building-my-first-pc/',
-      title: 'Building My First PC',
-      icon: pc,
+      url: '/custom-bandana/',
+      title: 'Building a custom bandana',
+      icon: tampaDevsShip,
     },
     {
-      url: '/2024-into-2025',
-      title: 'My Latest Year in Review',
-      icon: floppy,
+      url: '/designing-the-tampa-devs-logo/',
+      title: 'Designing the tampa devs logo',
+      icon: tampaDevsShip,
     },
   ]
 
@@ -95,22 +78,30 @@ export const Sidebar = () => {
       <section className="sidebar-section">
         <h2>Stay Connected</h2>
         <p className="sidebar-links">
-          <a
+          {/* <a
             href="https://vincentntang.substack.com"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src={newMoon} alt="Email Newsletter" height="16" width="16" />
             Email Newsletter
-          </a>
+          </a> */}
           <a
+            href="https://github.com/vincentntang"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={github} alt="Github" height="16" width="16" />
+            Github
+          </a>
+          {/* <a
             href="https://go.bsky.app/SmEWb8G"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src={bluesky} alt="Bluesky" height="16" width="16" />
             Bluesky Starter Pack
-          </a>
+          </a> */}
           <a href="/rss.xml">
             <img src={rss} alt="RSS" height="16" width="16" />
             RSS Feed
@@ -119,9 +110,9 @@ export const Sidebar = () => {
       </section>
 
       <section className="sidebar-section">
-        <h2>Guides</h2>
+        <h2>Coding</h2>
         <nav className="sidebar-menu">
-          {guides.map((link) => (
+          {codingGuides.map((link) => (
             <Link key={link.url} to={link.url} activeClassName="active">
               {link.icon ? (
                 <img src={link.icon} alt={link.title} />
@@ -147,9 +138,9 @@ export const Sidebar = () => {
       </section>
 
       <section className="sidebar-section">
-        <h2>Project Writeups</h2>
+        <h2>Leadership Writeups</h2>
         <nav className="sidebar-menu">
-          {projectWriteups.map((link) => (
+          {leadershipWriteups.map((link) => (
             <Link key={link.url} to={link.url} activeClassName="active">
               {link.icon && <img src={link.icon} alt={link.title} />}
               {link.title}
