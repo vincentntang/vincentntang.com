@@ -50,5 +50,8 @@
     "gatsby-plugin-manifest": "^5.14.0",
     "postcss": "^8.5.3",
     "postcss-nesting": "^13.0.1"
+  },
+  "optionalDependencies": {
+    "@parcel/watcher-linux-x64-glibc": "^2.5.1"
   }
 }
