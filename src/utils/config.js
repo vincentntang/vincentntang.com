@@ -1,5 +1,5 @@
 const config = {
-  siteTitle: "Tania's Website",
+  siteTitle: "Vincent's Website",
   siteUrl: 'https://vincentntang.com',
   siteLogo: '/logo.png',
   description:

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Vincents's Website",
-    author: { name: 'Tania' },
+    author: { name: 'Vincent' },
     pathPrefix: '/',
     siteUrl: 'https://vincentntang.com',
     description:
