@@ -22,3 +22,15 @@ update submodule content
 ```
 git submodule update --remote
 ```
+
+## Troubleshooting
+
+If submodules are out of sync, try this
+
+```
+cd .git
+delete modules folder
+git submodule update --init --recursive
+```
+
+should repopulate the content folder assuming `.gitmodules` is there
