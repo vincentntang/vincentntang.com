@@ -3,8 +3,15 @@ import { Link } from 'gatsby'
 import { SocialIcon } from 'react-social-icons'
 import { useLocation } from '@reach/router'
 
-import floppy from '../assets/floppylogo.png'
-import floppyLogo from '../assets/nav-floppy.png'
+// import floppy from '../assets/floppylogo.png'
+// import floppyLogo from '../assets/nav-floppy.png'
+
+import floppy from '../assets/vt_logo.png'
+import floppyLogo from '../assets/vt_logo.png'
+
+
+// import floppy from '../assets/floppylogo.png'
+// import floppyLogo from '../assets/nav-floppy.png'
 import blog from '../assets/nav-blog.png'
 import projects from '../assets/nav-projects.png'
 import github from '../assets/nav-github.png'
@@ -18,15 +25,15 @@ import { IconExpand } from '../assets/IconExpand'
 import { ColorDropdown } from './ColorDropdown'
 
 const links = [
-  { url: '/notes', label: 'Notes', image: blog },
-  { url: '/blog', label: 'Blog', image: projects },
+  { url: '/notes', label: 'Blog', image: blog },
+  // { url: '/blog', label: 'Blog', image: projects },
   { url: '/projects', label: 'Projects', image: github },
   { url: '/me', label: 'About', image: floppy },
 ]
 
 const socialLinks = [
-  { url: 'https://github.com/taniarascia' },
-  { url: 'https://bsky.app/profile/tania.dev' },
+  { url: 'https://github.com/vincentntang' },
+  // { url: 'https://bsky.,/profile/vincentntang.com' },
 ]
 
 export const Navigation = ({
@@ -57,13 +64,13 @@ export const Navigation = ({
               <img
                 src={floppyLogo}
                 className="navbar-logo"
-                alt="tania.dev"
+                alt="vincentntang.com"
                 title="💾"
                 height="16"
                 width="16"
               />
             </span>
-            <span className="site-name">tania.dev</span>
+            <span className="site-name">vincentntang.com</span>
           </Link>
           <div className="navbar-collapse">
             <button className="navbar-button icon" onClick={handleCollapse}>

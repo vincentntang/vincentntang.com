@@ -14,9 +14,9 @@ import config from '../utils/config'
 export default function Notes({ data }) {
   const posts = data.posts.edges
   const simplifiedPosts = useMemo(() => getSimplifiedPosts(posts), [posts])
-  const title = 'Notes'
+  const title = 'Blog'
   const description =
-    'Personal notes about life, music, projects, and everything else.'
+    'Digital garden of notes and guides I have written.'
 
   return (
     <>
@@ -40,7 +40,6 @@ export const notesQuery = graphql`
       filter: {
         frontmatter: {
           template: { eq: "post" }
-          categories: { eq: "Personal" }
         }
       }
     ) {

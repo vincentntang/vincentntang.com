@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Helmet from 'react-helmet'
 
-import favicon from '../assets/nav-floppy.png'
+import favicon from '../assets/vt_logo.png'
 import { Navigation } from './Navigation'
 import { Footer } from './Footer'
 import { Sidebar } from './Sidebar'
