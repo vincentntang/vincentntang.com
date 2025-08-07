@@ -1,3 +1,8 @@
+Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d414dc8a-216c-4a9e-a580-de23bf06617f/deploy-status)](https://app.netlify.com/projects/vincent-tang-com-fw/deploys)
+
+
 # vincentntang.com
 
 Vincents's personal website running on Gatsby, React, and Node.js.
